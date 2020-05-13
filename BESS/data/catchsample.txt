@@ -1,0 +1,1189 @@
+m.missiontype	m.startyear	m.platform	m.missionnumber	f.serialnumber	catchsampleid	commonname	catchcategory	catchpartnumber	aphia	scientificname	identification	foreignobject	sampletype	group	conservation	catchproducttype	raisingfactor	catchweight	catchvolume	catchcount	abundancecategory	sampleproducttype	lengthmeasurement	lengthsampleweight	lengthsamplevolume	lengthsamplecount	specimensamplecount	agesamplecount	agingstructure	parasite	stomach	intestine	tissuesample	samplerecipient	catchcomment
+4	2019	LMEL	13	2506	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	52.77		32															
+4	2019	LMEL	13	2506	2	glassmanet	GLASSMANET	2	135306	Aurelia aurita			90		1	1	1.0	11.81		83			A												
+4	2019	LMEL	13	2506	3	blå brennmanet	BLÅ BRENNMANET	3	135302	Cyanea lamarcki			90		1	1	1.0	0.135		4			A												
+4	2019	LMEL	13	2506	5	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	6.541		65410		1	E	0.003		30		0							
+4	2019	LMEL	13	2506	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	0.002		8		1	E	0.002		8		0							
+4	2019	LMEL	13	2506	7	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.001		1		1	E	0.001		1		0							
+4	2019	LMEL	13	2506	8	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	1.0E-4		2		1	E	1.0E-4		2									
+4	2019	LMEL	13	2506	9	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.021		4		1	E	0.021		4		0							
+4	2019	LMEL	13	2506	10	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	1.0	0.437		13		1	E	0.437		13	13	0							
+4	2019	LMEL	13	2506	11	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			90		1	1	1.0	0.03																	
+4	2019	LMEL	13	2506	12	Hyperia	HYPERIA	1	101796	Hyperia			90		1	1	1.0	0.0035		12															
+4	2019	LMEL	13	2507	1	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	2.425		2		1	E	2.425		2	2		2						
+4	2019	LMEL	13	2507	2	sei	SEI	1	126441	Pollachius virens			10		1	1	1.0	2.79		3		1	E	2.79		3									
+4	2019	LMEL	13	2507	3	brosme	BROSME	1	126447	Brosme brosme			21		1	1	1.0	3.625		2		1	E	3.625		2	2								
+4	2019	LMEL	13	2507	4	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	69.69		24		1	E	69.69		24	8		2		2				
+4	2019	LMEL	13	2507	5	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	7.91		201		1	E	1.18		30	30								
+4	2019	LMEL	13	2507	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	21.88		733		1	E	0.895		30	30								
+4	2019	LMEL	13	2507	7	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	18.4		116		1	E	18.4		116	6		2						
+4	2019	LMEL	13	2507	8	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21	10	1	1	1.0	1.72		195		1	E	0.37		42	2		2						
+4	2019	LMEL	13	2507	9	kveite	KVEITE	1	127138	Hippoglossus hippoglossus			21		1	1	1.0	2.26		1		1	E	2.26		1	1		2						
+4	2019	LMEL	13	2507	10	lomre	LOMRE	1	127140	Microstomus kitt			20		1	1	1.0	6.13		8		1	E	6.13		8	8								
+4	2019	LMEL	13	2507	11	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	2.028		136		1	E	0.747		50	50								
+4	2019	LMEL	13	2507	12	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.02		5															
+4	2019	LMEL	13	2508	1	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	0.0072		42		1	E	0.0026		15		0							
+4	2019	LMEL	13	2508	2	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.1979		153		1	E	0.04		31		0							
+4	2019	LMEL	13	2508	3	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			20		1	1	1.0	0.002		1		1	J	0.002		1	1	0							
+4	2019	LMEL	13	2508	4	makrell	MAKRELL	1	127023	Scomber scombrus			20		1	1	1.0	0.509		1		1	F	0.509		1	1	0							
+4	2019	LMEL	13	2508	5	brosme	BROSME	1	126447	Brosme brosme			10	10	1	1	1.0	0.001		1		1	E	0.001		1		0							
+4	2019	LMEL	13	2508	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	0.001		3		1	E	0.001		3		0							
+4	2019	LMEL	13	2508	7	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.4176		71		1	E	0.177		30		0							
+4	2019	LMEL	13	2508	8	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.012		2															
+4	2019	LMEL	13	2509	1	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	5.83		2		1	E	5.83		2	2		2						
+4	2019	LMEL	13	2509	2	skater	SKATER	1	10216	Rajiformes			50		1	1	1.0			1														1	
+4	2019	LMEL	13	2509	3	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.009		3															Ospar 116
+4	2019	LMEL	13	2509	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	21.0		98		1	E	6.4		30	3		2						
+4	2019	LMEL	13	2509	7	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	3.66		45		1	E	3.66		45	45								
+4	2019	LMEL	13	2509	8	hvitting	HVITTING	1	126438	Merlangius merlangus			20		1	1	1.0	1.46		5		1	E	1.46		5	5								
+4	2019	LMEL	13	2509	9	glassvar	GLASSVAR	1	127146	Lepidorhombus whiffiagonis			20		1	1	1.0	1.56		4		1	E	1.56		4	4								
+4	2019	LMEL	13	2509	10	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	1.29		41		1	E	1.29		41	41								
+4	2019	LMEL	13	2509	11	skjellbrosme	SKJELLBROSME	1	126501	Phycis blennoides			20		1	1	1.0	0.44		2		1	E	0.44		2	2								
+4	2019	LMEL	13	2509	12	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1	1.0	0.01		1		1	E	0.01		1	1								
+4	2019	LMEL	13	2509	13	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1	1.0	0.09		1		1	E	0.09		1									
+4	2019	LMEL	13	2509	14	smørflyndre	SMØRFLYNDRE	1	127136	Glyptocephalus cynoglossus			20		1	1	1.0	0.41		1		1	E	0.41		1	1								
+4	2019	LMEL	13	2509	15	brosme	BROSME	1	126447	Brosme brosme			20		1	1	1.0	6.26		5		1	E	6.26		5	5		2						
+4	2019	LMEL	13	2509	16	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	21.48		19		1	E	21.48		19	19	19							
+4	2019	LMEL	13	2509	17	sei	SEI	1	126441	Pollachius virens			20		1	1	1.0	15.24		13		1	E	15.24		13	13	0							
+4	2019	LMEL	13	2509	18	havmus	HAVMUS	1	105824	Chimaera monstrosa			20		1	1	1.0	9.14		6		1	H	9.14		6	6	0							
+4	2019	LMEL	13	2509	19	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	1.68		30		1	E	1.68		30	30	0							
+4	2019	LMEL	13	2509	20	kolmule	KOLMULE	1	126439	Micromesistius poutassou			21		1	1	1.0	20.275		671		1	E	1.51		50	2	2	2						Sjekk over.Fryst flere
+4	2019	LMEL	13	2510	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	1600.0		7320		1	E	21.64		99	99	30	3						
+4	2019	LMEL	13	2510	2	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	45.0		30															
+4	2019	LMEL	13	2511	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	16.832		21			A												
+4	2019	LMEL	13	2511	2	glassmanet	GLASSMANET	1	135306	Aurelia aurita			90		1	1	1.0	14.436		19			A												
+4	2019	LMEL	13	2511	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10		1	1	1.0	0.348		49		1	E			1									
+4	2019	LMEL	13	2511	5	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	1341.608		4990		1	E	26.887		100	100	30	2						
+4	2019	LMEL	13	2512	1	knurr	KNURR	1	150637	Eutrigla gurnardus			20		1	1	1.0	0.51		1		1	E	0.51		1	1								
+4	2019	LMEL	13	2512	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	2.35		3		1	E	2.35		3	3								
+4	2019	LMEL	13	2512	3	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	31.0		29															
+4	2019	LMEL	13	2512	4	glassmanet	GLASSMANET	2	135306	Aurelia aurita			90		1	1	1.0	1.1		2															
+4	2019	LMEL	13	2512	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.42		52		1	E	0.24		30									
+4	2019	LMEL	13	2512	6	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.013		7		1	E	0.013		7									
+4	2019	LMEL	13	2512	7	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	75.4		445		1	E	16.95		100	100	30	3						
+4	2019	LMEL	13	2513	1	sei	SEI	1	126441	Pollachius virens			10		1	1	1.0	41.49		27		1	E	41.49		27									
+4	2019	LMEL	13	2513	2	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	39.966		1122		1	E	1.069		30	30								
+4	2019	LMEL	13	2513	3	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1	1.0	122.962		1002		1	E	3.68		30									
+4	2019	LMEL	13	2513	4	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	15.954		143		1	E	3.34		30	30								
+4	2019	LMEL	13	2513	6	brosme	BROSME	1	126447	Brosme brosme			23		1	1	1.0	4.113		13		1	E	4.113		13	13		2						
+4	2019	LMEL	13	2513	7	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1	1.0	0.022		2		1	E	0.022		2	2								
+4	2019	LMEL	13	2513	8	kolmule	KOLMULE	1	126439	Micromesistius poutassou			21		1	1	1.0	39.3		1332		1	E	2.95		100	3		2						
+4	2019	LMEL	13	2513	9	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	0.165		1		1	E	0.165		1	1								
+4	2019	LMEL	13	2513	10	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	0.171		11		1	E	0.171		11	11								
+4	2019	LMEL	13	2513	11	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1	1.0	0.09		14		1	E	0.09		14	14								
+4	2019	LMEL	13	2513	12	hvitting	HVITTING	2	126438	Merlangius merlangus			20		1	1	1.0	0.004		2		1	E	0.004		2	2								
+4	2019	LMEL	13	2513	13	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			92		1	1	1.0	0.01		1		1	B	0.01		1	1							3	Lis Linda Jørgensen
+4	2019	LMEL	13	2513	14	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	0.002		1		1	E	0.002		1	1								
+4	2019	LMEL	13	2513	15	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.71																	
+4	2019	LMEL	13	2513	16	fremmedlegeme	FREMMEDLEGEME	2					68		1	1	1.0	0.001																	
+4	2019	LMEL	13	2513	17	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	6.14		32		1	E	6.14		32	7	0	2						
+4	2019	LMEL	13	2513	18	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.042		4		1	E	0.042		4	3	0	2						
+4	2019	LMEL	13	2513	20	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1	1.0	2.731		129		1	E	0.678		32	32	0							
+4	2019	LMEL	13	2513	21	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	0.845		1		1	E	0.845		1	1	1	2						
+4	2019	LMEL	13	2513	22	lomre	LOMRE	1	127140	Microstomus kitt			20		1	1	1.0	0.515		2		1	E	0.515		2	2	0							
+4	2019	LMEL	13	2513	23	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1	1.0	0.319		5		1	E	0.319		5	5	0							
+4	2019	LMEL	13	2513	24	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	6.74		4		1	E	6.74		4	4	4	2						Mageprøve glemt
+4	2019	LMEL	13	2513	25	torsk	TORSK	2	126436	Gadus morhua			21		1	1	1.0	0.005		1		1	E	0.005		1	1	0	2						Mageprøve glemt
+4	2019	LMEL	13	2513	26	hvitting	HVITTING	1	126438	Merlangius merlangus			20		1	1	1.0	0.367		1		1	E	0.367		1	1	0							
+4	2019	LMEL	13	2514	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	61.0		123			A												
+4	2019	LMEL	13	2514	2	hyse	HYSE	1	126437	Melanogrammus aeglefinus			20		1	1	1.0	0.21		1		1	E	0.21		1	1								
+4	2019	LMEL	13	2514	3	glassmaneter	GLASSMANETER	2	135263	Aurelia			90		1	1	1.0	0.99		10			A	0.33											
+4	2019	LMEL	13	2514	4	knurr	KNURR	1	150637	Eutrigla gurnardus			20		1	1	1.0	0.615		1		1	E	0.615		1	1								
+4	2019	LMEL	13	2514	5	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	1.45		2		1	E	1.45		2	2								
+4	2019	LMEL	13	2514	6	hyse	HYSE	2	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.729		121		1	E	0.18		30									
+4	2019	LMEL	13	2514	7	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.141		114		1	E	0.037		30									
+4	2019	LMEL	13	2514	8	brosme	BROSME	1	126447	Brosme brosme			10	10	1	1	1.0	0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2514	9	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1	1.0	5.0E-4		2		1	E	5.0E-4		2									
+4	2019	LMEL	13	2514	10	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	0.002		5		1	E	0.002		5									
+4	2019	LMEL	13	2514	11	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	8.1		192		1	E	4.22		100	100	30	3						
+4	2019	LMEL	13	2515	1	sei	SEI	1	126441	Pollachius virens			20		1	1	1.0	145.53		85		1	E	51.5		30	30	0							
+4	2019	LMEL	13	2515	2	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	37.15		461		1	E	2.415		30	30	0							
+4	2019	LMEL	13	2515	3	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	143.28		6063		1	E	0.709		30	30	0							
+4	2019	LMEL	13	2515	4	kolmule	KOLMULE	1	126439	Micromesistius poutassou			21		1	1	1.0	2.14		59		1	E	2.14		59	4	4	2						
+4	2019	LMEL	13	2515	5	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1	1.0	3.885		23		1	E	3.885		23	23								
+4	2019	LMEL	13	2515	6	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	20.54		10		1	E	20.54		10	6		2						
+4	2019	LMEL	13	2515	7	brosme	BROSME	1	126447	Brosme brosme			20		1	1	1.0	16.449		31		1	E	16.449		31	31								
+4	2019	LMEL	13	2515	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	13.3		65		1	E	12.0		59	5		2						
+4	2019	LMEL	13	2515	9	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	1.45		2		1	E	1.45		2	2		2						
+4	2019	LMEL	13	2515	11	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1	1.0	4.52		54		1	E	4.52		54									
+4	2019	LMEL	13	2515	12	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.44		33		1	E	0.44		33	3		2						
+4	2019	LMEL	13	2515	13	torsk	TORSK	2	126436	Gadus morhua			10		1	1	1.0	0.028		10		1	E	0.028		10									
+4	2019	LMEL	13	2515	14	kveite	KVEITE	1	127138	Hippoglossus hippoglossus			20		1	1	1.0	1.76		1		1	E	1.76		1	1								
+4	2019	LMEL	13	2515	15	hvitting	HVITTING	1	126438	Merlangius merlangus			20		1	1	1.0	1.14		4		1	E	1.14		4	4								
+4	2019	LMEL	13	2515	16	lomre	LOMRE	1	127140	Microstomus kitt			20		1	1	1.0	1.03		2		1	E	1.03		2	2								
+4	2019	LMEL	13	2515	17	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	1.331		37		1	E	1.079		30	30								
+4	2019	LMEL	13	2515	18	nordlig knurrulke	NORDLIG KNURRULKE	1	127205	Triglops murrayi			20		1	1	1.0	0.086		7		1	E	0.086		7	7								
+4	2019	LMEL	13	2515	19	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	0.004		1		1	E	0.004		1	1								
+4	2019	LMEL	13	2515	20	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1	1.0	0.179		38		1	E	0.14		30	30								
+4	2019	LMEL	13	2516	9	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.002		13		1	E	0.002		13									
+4	2019	LMEL	13	2516	8	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1	1.0	0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2516	10	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	1.0	0.001		1		1	J	0.001		1									
+4	2019	LMEL	13	2516	7	brosme	BROSME	1	126447	Brosme brosme			10	10	1	1	1.0	0.002		3		1	E	0.002		3									
+4	2019	LMEL	13	2516	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	0.007		25		1	E	0.007		25									
+4	2019	LMEL	13	2516	3	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	13.97	0.056		560		1	E	0.003		30									
+4	2019	LMEL	13	2516	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.083		12		1	E	0.083		12									
+4	2019	LMEL	13	2516	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.2		97		1	E	0.062		30									
+4	2019	LMEL	13	2516	2	glassmanet	GLASSMANET	2	135306	Aurelia aurita			90		1	1	1.0	2.295		63															
+4	2019	LMEL	13	2516	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	3.05																	
+4	2019	LMEL	13	2516	12	Hyperia galba	HYPERIA GALBA	1	103251	Hyperia galba			91		1	1	1.0	5.0E-4		2			E	5.0E-4		2									
+4	2019	LMEL	13	2516	11	Gonatus fabricii	GONATUS FABRICII	1	153097	Gonatus fabricii			91		1	1	1.0	0.0077		3		1	B	0.0077		3									
+4	2019	LMEL	13	2516	13	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	13.97	0.251		1740		1	E	0.015		104									
+4	2019	LMEL	13	2517	1	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1	1.0	2.236		24		1	E	2.236		24	24								
+4	2019	LMEL	13	2517	2	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1	1.0	0.098		26		1	E	0.098		26	26								
+4	2019	LMEL	13	2517	3	nordlig knurrulke	NORDLIG KNURRULKE	1	127205	Triglops murrayi			20		1	1	1.0	0.217		22		1	E	0.217		22	22								
+4	2019	LMEL	13	2517	4	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1	1.0	0.261		17		1	E	0.261		17	17								
+4	2019	LMEL	13	2517	5	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	153.9		3990		1	E	1.157		30	30								
+4	2019	LMEL	13	2517	6	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1	1.0	0.938		26		1	E	0.938		26	26								
+4	2019	LMEL	13	2517	7	lomre	LOMRE	1	127140	Microstomus kitt			20		1	1	1.0	3.063		7		1	E	3.063		7	7								
+4	2019	LMEL	13	2517	9	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	2.14		115		1	E	0.558		30	30								
+4	2019	LMEL	13	2517	10	lange	LANGE	1	126461	Molva molva			23		1	1	1.0	2.86		1		1	E	2.86		1	1		2						
+4	2019	LMEL	13	2517	11	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.001																	
+4	2019	LMEL	13	2517	12	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	29.037		20		1	E	29.037		20	10		2						Mageprøve glemt
+4	2019	LMEL	13	2517	13	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	0.256		1		1	E	0.256		1	1		2						
+4	2019	LMEL	13	2517	14	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	10.868		104		1	E	10.868		104	5		2						
+4	2019	LMEL	13	2517	15	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.093		7		1	E	0.093		7	1		2						
+4	2019	LMEL	13	2517	16	sei	SEI	1	126441	Pollachius virens			10		1	1	1.0	66.98		76		1	E	66.98		76									
+4	2019	LMEL	13	2517	17	breiflabb	BREIFLABB	1	126555	Lophius piscatorius			20		1	1	1.0	20.93		2		1	E	20.93		2	2								
+4	2019	LMEL	13	2517	18	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	5.2		127		1	E	2.041		50	50								
+4	2019	LMEL	13	2517	19	torsk	TORSK	2	126436	Gadus morhua			21		1	1	1.0	0.061		15		1	E	0.061		15	2		2						Mageprøve glemt
+4	2019	LMEL	13	2517	20	brosme	BROSME	1	126447	Brosme brosme			23		1	1	1.0	3.864		10		1	E	3.864		10	10		2						
+4	2019	LMEL	13	2517	21	hyse	HYSE	3	126437	Melanogrammus aeglefinus			20	13	1	1	1.0	0.163		5		1	E	0.163		5	5		2						
+4	2019	LMEL	13	2518	1	hyse	HYSE	1	126437	Melanogrammus aeglefinus			20		1	1	1.0	3.092		4		1	E	3.092		4	4								
+4	2019	LMEL	13	2518	2	knurr	KNURR	1	150637	Eutrigla gurnardus			20		1	1	1.0	0.401		1		1	E	0.401		1	1								
+4	2019	LMEL	13	2518	3	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	29.39		25															
+4	2019	LMEL	13	2518	4	glassmanet	GLASSMANET	2	135306	Aurelia aurita			90		1	1	1.0	3.62		21															
+4	2019	LMEL	13	2518	5	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	0.051		382		1	E	0.004		30									
+4	2019	LMEL	13	2518	6	hyse	HYSE	2	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.427		72		1	E	0.179		30									
+4	2019	LMEL	13	2518	7	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	5.0E-4		2		1	E	5.0E-4		2									
+4	2019	LMEL	13	2518	8	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.015		27		1	E	0.011		20									
+4	2019	LMEL	13	2518	9	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.224		86		1	E	0.078		30									
+4	2019	LMEL	13	2518	10	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	0.001		6		1	E	0.001		6									
+4	2019	LMEL	13	2518	11	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			91		1	1	1.0	0.002		1		1	B	0.002		1									
+4	2019	LMEL	13	2518	12	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	1.0	1.899		16		1	E	1.899		16	16								
+4	2019	LMEL	13	2518	13	blå brennmanet	BLÅ BRENNMANET	1	135302	Cyanea lamarcki			90		1	1	1.0	0.0013		1															
+4	2019	LMEL	13	2519	12	sei	SEI	1	126441	Pollachius virens			10		1	1	1.0	43.02		23		1	E	43.02		23									
+4	2019	LMEL	13	2519	16	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1	1.0	4.26		65		1	E	2.16		33									
+4	2019	LMEL	13	2519	1	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	10.4		226		1	E	1.38		30	30								
+4	2019	LMEL	13	2519	2	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1	1.0	0.103		6		1	E	0.103		6	6								
+4	2019	LMEL	13	2519	3	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			20		1	1	1.0	0.015		7		1	J	0.015		7	7								
+4	2019	LMEL	13	2519	4	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1	1.0	0.073		22		1	E	0.073		22	22								
+4	2019	LMEL	13	2519	5	nordlig knurrulke	NORDLIG KNURRULKE	1	127205	Triglops murrayi			20		1	1	1.0	0.012		3		1	E	0.012		3	3								
+4	2019	LMEL	13	2519	6	rundhalet langebarn	RUNDHALET LANGEBARN	1	127070	Anisarchus medius			20		1	1	1.0	0.004		1		1	E	0.004		1	1								
+4	2019	LMEL	13	2519	13	flekksteinbit	FLEKKSTEINBIT	1	126759	Anarhichas minor			20		1	1	1.0	15.8		1		1	E	15.8		1	1								
+4	2019	LMEL	13	2519	14	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1	1.0	3.789		10		1	E	3.789		10	10								
+4	2019	LMEL	13	2519	15	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	5.4		76		1	E	2.141		30	30								
+4	2019	LMEL	13	2519	17	lange	LANGE	1	126461	Molva molva			20		1	1	1.0	0.785		1		1	E	0.785		1	1	2	2						
+4	2019	LMEL	13	2519	18	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			20		1	1	1.0	0.46		1		1	E	0.46		1	1	2	2						
+4	2019	LMEL	13	2519	19	brosme	BROSME	1	126447	Brosme brosme			20		1	1	1.0	7.335		7		1	E	7.335		7	7	2	2						
+4	2019	LMEL	13	2519	8	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	19.655		19		1	E	19.655		19	11	2	2						
+4	2019	LMEL	13	2519	9	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	14.864		103		1	E	14.864		103	8	2	2						
+4	2019	LMEL	13	2519	10	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.052		9		1	E	0.052		9	2	2	2						
+4	2019	LMEL	13	2519	11	torsk	TORSK	2	126436	Gadus morhua			21		1	1	1.0	0.046		18		1	E	0.046		18	1	2	2						
+4	2019	LMEL	13	2519	7	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	0.351		1															
+4	2019	LMEL	13	2519	20	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	1.197		39		1	E	0.923		30	30	0							
+4	2019	LMEL	13	2520	1	sild'G03	SILD'G03	3	126417	Clupea harengus			10	10	1	1	1.0	0.021		19		1	E	0.021		19									
+4	2019	LMEL	13	2520	2	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	7.34		44040		1	E	0.005		30									
+4	2019	LMEL	13	2520	3	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.001		8		1	E	0.001		8									
+4	2019	LMEL	13	2520	4	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	4.615		2		1	E	4.615		2	2								
+4	2019	LMEL	13	2520	5	hyse	HYSE	2	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.03		4		1	E	0.03		4									
+4	2019	LMEL	13	2520	6	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	18.24		35															
+4	2019	LMEL	13	2520	7	glassmanet	GLASSMANET	2	135306	Aurelia aurita			90		1	1	1.0	12.72		98															
+4	2019	LMEL	13	2520	9	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.004		6		1	E	0.004		6									
+4	2019	LMEL	13	2520	10	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.003		2		1	E	0.003		2									
+4	2019	LMEL	13	2520	11	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1	1.0	0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2520	12	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1	1.0	0.002		3		1	E	0.002		3									
+4	2019	LMEL	13	2520	13	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	23.0																	
+4	2019	LMEL	13	2520	14	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	6.105		46		1	E	6.105		46	46	15	3						
+4	2019	LMEL	13	2520	16	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		28.4		41		1	E	28.4		41	5								
+4	2019	LMEL	13	2521	1	torsk	TORSK	1	126436	Gadus morhua			21		1	1		27.56		17		1	E	27.56		17	11		2						
+4	2019	LMEL	13	2521	2	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.051		10		1	E	0.051		10	2		2						
+4	2019	LMEL	13	2521	3	sei	SEI	1	126441	Pollachius virens			10		1	1		14.2		13		1	E	14.2		13									
+4	2019	LMEL	13	2521	4	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		0.436		24		1	E	0.436		24									
+4	2019	LMEL	13	2521	5	perifylla	PERIFYLLA	1	135252	Periphylla			90		1	1		1.19		1															
+4	2019	LMEL	13	2521	6	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		49.02		120		1	E	49.02		120	8		2						
+4	2019	LMEL	13	2521	7	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.0143		2															Ospar 116
+4	2019	LMEL	13	2521	8	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.021		2		1	E	0.021		2	2	0							
+4	2019	LMEL	13	2521	9	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.706		10		1	E	0.706		10	10	0							
+4	2019	LMEL	13	2521	10	lomre	LOMRE	1	127140	Microstomus kitt			20		1	1		4.0		7		1	E	4.0		7	7	0							
+4	2019	LMEL	13	2521	11	brosme	BROSME	1	126447	Brosme brosme			20		1	1		4.805		7		1	E	4.805		7	7	7	2						
+4	2019	LMEL	13	2521	12	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.211		12		1	E	0.211		12	12	0							
+4	2019	LMEL	13	2521	13	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1		5.989		4		1	E	5.989		4	4	0							
+4	2019	LMEL	13	2521	14	lange	LANGE	1	126461	Molva molva			20		1	1		16.365		7		1	E	16.365		7	7	6	2						
+4	2019	LMEL	13	2521	15	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			91		1	1		0.009		3		1	C	0.009		3									
+4	2019	LMEL	13	2521	22	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.152		15		1	E	0.152		15	2	2	2						
+4	2019	LMEL	13	2522	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	5.289		40		1	E	5.289		40	40	30	2						
+4	2019	LMEL	13	2522	2	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	38.78		21			A	37.8											
+4	2019	LMEL	13	2522	3	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	6.55		3		1	E	6.55		3	3								
+4	2019	LMEL	13	2522	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10		1	1	1.0	10.38		20		1	E	10.38		20									
+4	2019	LMEL	13	2522	5	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	55.41	3.7		27750		1	E	0.004		30									
+4	2019	LMEL	13	2522	6	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.04		30		1	E	0.04		30									
+4	2019	LMEL	13	2522	7	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	1.0	0.44		281		1	J	0.047		30									
+4	2019	LMEL	13	2522	8	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1	1.0	0.004		3		1	E	0.004		3									
+4	2019	LMEL	13	2522	9	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.003		9		1	E	0.003		9									
+4	2019	LMEL	13	2522	10	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	55.41	0.0181		290		1	E	0.001		16									
+4	2019	LMEL	13	2522	11	gonatus	GONATUS	1	138036	Gonatus			91	10	1	1	55.41	0.515		258		1	B	0.004		2									
+4	2019	LMEL	13	2522	12	vassild	VASSILD	1	126715	Argentina silus			10	10	1	1	55.41	0.0303		30		1	E	0.002		2									
+4	2019	LMEL	13	2522	13	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	55.41	7.93		30451			E	0.025		96									
+4	2019	LMEL	13	2522	14	glassmanet	GLASSMANET	1	135306	Aurelia aurita			90		1	1	1.0	3.0		5															
+4	2019	LMEL	13	2522	15	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.007		1															ospar 115
+4	2019	LMEL	13	2522	16	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	1.0	0.06		30		1	E	0.002		1									
+4	2019	LMEL	13	2523	1	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.96		30		1	E	0.96		30	30								
+4	2019	LMEL	13	2523	2	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.086		4		1	E	0.086		4	4								
+4	2019	LMEL	13	2523	3	Sørlig ålebrosme	SØRLIG ÅLEBROSME	1	127101	Lycenchelys sarsii			20		1	1		0.003		1		1	E	0.003		1	1								
+4	2019	LMEL	13	2523	4	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1		0.373		5		1	E	0.373		5	5								
+4	2019	LMEL	13	2523	5	snabeluer	SNABELUER	1	127254	Sebastes mentella			20		1	1		0.007		2		1	E	0.007		2	2								
+4	2019	LMEL	13	2523	6	nordlig ålebrosme	NORDLIG ÅLEBROSME	1	127113	Lycodes rossi			20		1	1		0.008		1		1	E	0.008		1	1								
+4	2019	LMEL	13	2523	7	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.012		2		1	E	0.012		2	2								
+4	2019	LMEL	13	2523	8	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1		0.636		2		1	E	0.636		2	2								
+4	2019	LMEL	13	2523	9	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			20		1	1		0.895		1		1	E	0.895		1	1	1	2						
+4	2019	LMEL	13	2523	10	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			20		1	1		0.008		3		1	E	0.008		3	3								
+4	2019	LMEL	13	2523	11	sei	SEI	1	126441	Pollachius virens			10		1	1		6.12		3		1	E	6.12		3									
+4	2019	LMEL	13	2523	12	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.84		8		1	E	0.84		8	8								
+4	2019	LMEL	13	2523	13	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.038		8		1	E	0.038		8	8								
+4	2019	LMEL	13	2523	14	gapeflyndre	GAPEFLYNDRE	3	127137	Hippoglossoides platessoides			20		1	1		0.006		1		1	E	0.006		1	1								
+4	2019	LMEL	13	2523	15	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		0.033		1		1	E	0.033		1	1								
+4	2019	LMEL	13	2523	16	vassild	VASSILD	1	126715	Argentina silus			20		1	1		0.059		2		1	E	0.059		2	2								
+4	2019	LMEL	13	2523	17	torsk	TORSK	1	126436	Gadus morhua			21		1	1		24.48		17		1	E	24.48		17	9	2	2						
+4	2019	LMEL	13	2523	18	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		9.92		23		1	E	9.92		23	7	2	2						
+4	2019	LMEL	13	2523	19	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		1.5		29		1	E	1.5		29	2	2	2						
+4	2019	LMEL	13	2523	20	brosme	BROSME	1	126447	Brosme brosme			21		1	1		2.32		3		1	E	2.32		3	3	2	2						
+4	2019	LMEL	13	2523	21	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.033		10		1	E	0.033		10	3	2	2						
+4	2019	LMEL	13	2523	22	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.0027		1															
+4	2019	LMEL	13	2524	13	blå brennmanet	BLÅ BRENNMANET	1	135302	Cyanea lamarcki			90		1	1		0.026		1															
+4	2019	LMEL	13	2524	12	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		20.244		18															
+4	2019	LMEL	13	2524	14	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.041		1															
+4	2019	LMEL	13	2524	15	fremmedlegeme	FREMMEDLEGEME	2					68		1	1		0.002		1															
+4	2019	LMEL	13	2524	8	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1		0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2524	7	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1		0.002		1		1	E	0.002		1									
+4	2019	LMEL	13	2524	17	Hyperia galba	HYPERIA GALBA	1	103251	Hyperia galba			91		1	1		0.0015		8		1	E	0.0015		8									
+4	2019	LMEL	13	2524	6	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.031		6		1	E	0.031		6									
+4	2019	LMEL	13	2524	9	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1		0.002		1		1	J	0.002		1									
+4	2019	LMEL	13	2524	3	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1		0.006		30		1	E	0.006		30									Mangler totalvekt
+4	2019	LMEL	13	2524	16	lodde	LODDE	2	126735	Mallotus villosus				10	1	1		2.48																	Fra dekk
+4	2019	LMEL	13	2524	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		3.54		1		1	E	3.54		1	1								
+4	2019	LMEL	13	2524	2	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.845		7		1	E	0.845		7	7								
+4	2019	LMEL	13	2524	10	sild'G03	SILD'G03	2	126417	Clupea harengus			10	10	1	1		0.013		13		1	E	0.001		1									
+4	2019	LMEL	13	2524	11	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			91		1	1		0.007		1		1	B	0.007		1									
+4	2019	LMEL	13	2524	5	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		0.212		141		1	E	0.045		30									
+4	2019	LMEL	13	2524	4	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1		0.158		1580		1	E	0.003		30									
+4	2019	LMEL	13	2525	1	snabeluer	SNABELUER	1	127254	Sebastes mentella			20		1	1	1.0	58.6		98		1	E	58.6		98	9		2						
+4	2019	LMEL	13	2525	2	kongekrabbe	KONGEKRABBE	1	233889	Paralithodes camtschaticus			92		1	1	1.0	12.67		4		1	C	12.67		4	4								
+4	2019	LMEL	13	2525	3	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	0.052		2		1	E	0.052		2	2								
+4	2019	LMEL	13	2525	4	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	1.762		3		1	E	1.762		3	3								
+4	2019	LMEL	13	2525	5	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	0.832		5		1	E	0.832		5	5								
+4	2019	LMEL	13	2525	6	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1	1.0	4.646		4		1	E	4.646		4	4								
+4	2019	LMEL	13	2525	7	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1	1.0	0.007		1		1	E	0.007		1	1								
+4	2019	LMEL	13	2525	8	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	0.015		1		1	E	0.015		1	1								
+4	2019	LMEL	13	2525	9	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			10		1	1	1.0	0.05		13		1	J	0.05		13									
+4	2019	LMEL	13	2525	10	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	1.0	0.001		1		1	J	0.001		1									
+4	2019	LMEL	13	2525	11	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	1.9		4		1	E	1.9		4	3		2						
+4	2019	LMEL	13	2525	12	torsk	TORSK	2	126436	Gadus morhua			21	10	1	1	1.0	0.023		3		1	E	0.023		3	3		2		2				
+4	2019	LMEL	13	2525	13	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	21.18		12		1	E	21.18		12	10		2		2				Prøve tatt radioaktivitet
+4	2019	LMEL	13	2525	14	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			91		1	1	1.0	4.62		525		1	C	0.88		100									
+4	2019	LMEL	13	2526	10	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1	26.26	0.03		30		1	E	0.001		1									
+4	2019	LMEL	13	2526	12	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	26.26	0.648		79		1	E	0.245		30									
+4	2019	LMEL	13	2526	8	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	26.26	1.545		14935		1	E	0.003		29									
+4	2019	LMEL	13	2526	9	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	26.26	4.56		2280		1	E	0.06		30									
+4	2019	LMEL	13	2526	11	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	26.26	0.003		30		1	E	1.0E-4		1									
+4	2019	LMEL	13	2526	5	sild'G03	SILD'G03	3	126417	Clupea harengus			10	10	1	1	26.26	0.97		2009		1	E	0.014		29									
+4	2019	LMEL	13	2526	3	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	1.0	0.125		1		1	E	0.125		1	1								
+4	2019	LMEL	13	2526	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	4.854		6		1	E	4.854		6	6								
+4	2019	LMEL	13	2526	7	blå brennmanet	BLÅ BRENNMANET	2	135302	Cyanea lamarcki			90		1	1	1.0	0.055		1															
+4	2019	LMEL	13	2526	2	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	33.0		27															
+4	2019	LMEL	13	2526	6	glassmanet	GLASSMANET	3	135306	Aurelia aurita			90		1	1	1.0	0.3		5															
+4	2019	LMEL	13	2527	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	3.374		29		1	E	3.374		29	29	27	3						
+4	2019	LMEL	13	2527	2	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	0.992		16		1	E	0.992		16	16	0							
+4	2019	LMEL	13	2527	3	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	32.521		20		1	E	32.521		20	13	2	2						
+4	2019	LMEL	13	2527	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	12.0		63		1	E	7.62		40	7	2	2						
+4	2019	LMEL	13	2527	6	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1	1.0	29.6		62		1	E	16.34		34	7	2	2						
+4	2019	LMEL	13	2527	7	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	2.214		14		1	E	2.214		14	14								
+4	2019	LMEL	13	2527	8	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	0.016		2		1	E	0.016		2	2								
+4	2019	LMEL	13	2527	9	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1	1.0	0.59		1		1	E	0.59		1	1								
+4	2019	LMEL	13	2527	10	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1	1.0	0.095		6		1	E	0.095		6	6								
+4	2019	LMEL	13	2527	11	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	1.46		49		1	E	0.897		30	30								
+4	2019	LMEL	13	2527	12	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1	1.0	0.017		1		1	E	0.017		1	1								
+4	2019	LMEL	13	2527	13	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1	1.0	0.026		1		1	E	0.026		1	1								
+4	2019	LMEL	13	2527	14	åttearmete blekkspruter	ÅTTEARMETE BLEKKSPRUTER	1	11718	Octopoda			92		1	1	1.0	0.018		2		1	B	0.018		2	2							1	
+4	2019	LMEL	13	2527	15	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.012		1															Ospar 115
+4	2019	LMEL	13	2527	16	torsk	TORSK	2	126436	Gadus morhua			10	10	1	1	1.0	0.143		49		1	E	0.061		21									
+4	2019	LMEL	13	2527	17	skater	SKATER	1	10216	Rajiformes			50		1	1	1.0			6														1	
+4	2019	LMEL	13	2527	18	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			91		1	1	1.0	10.5		1582		1	C	0.73		110								3	
+4	2019	LMEL	13	2528	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1		3.87		106		1	E	3.657		100	100	2	2						Otolitter av 10 stk
+4	2019	LMEL	13	2528	2	sild	SILD	1	126417	Clupea harengus			10	10	1	1	2.138	0.1103		245		1	E	0.009		20		0							
+4	2019	LMEL	13	2528	3	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	2.138	0.1527		131		1	E	0.035		30		0							
+4	2019	LMEL	13	2528	4	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1	2.138	0.0307		31		1	E	0.005		5		0							
+4	2019	LMEL	13	2528	5	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	2.138	0.0021		4		1	E	0.001		2		0							
+4	2019	LMEL	13	2528	6	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.01		1		1	E	0.01		1		0							
+4	2019	LMEL	13	2528	7	hyse	HYSE	2	126437	Melanogrammus aeglefinus			20		1	1		0.436		1		1	E	0.436		1	1	0							
+4	2019	LMEL	13	2528	8	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1	2.138	0.0628		440		1	E	0.002		14		0							
+4	2019	LMEL	13	2529	1	lomre	LOMRE	1	127140	Microstomus kitt			20		1	1		12.801		26		1	E	12.801		26	26								
+4	2019	LMEL	13	2529	2	sei	SEI	1	126441	Pollachius virens			10		1	1		7.38		16		1	E	7.38		16									
+4	2019	LMEL	13	2529	3	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1		3.631		4		1	E	3.631		4	4								
+4	2019	LMEL	13	2529	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		137.32		213		1	E	32.18		50	8	2							
+4	2019	LMEL	13	2529	5	torsk	TORSK	1	126436	Gadus morhua			21		1	1		20.56		28		1	E	20.56		28	7	2							
+4	2019	LMEL	13	2529	6	lange	LANGE	1	126461	Molva molva			20		1	1		0.58		1		1	E	0.58		1	1	2							
+4	2019	LMEL	13	2529	7	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.007		1		1	E	0.007		1	1	2							
+4	2019	LMEL	13	2529	8	brosme	BROSME	1	126447	Brosme brosme			20		1	1		0.97		3		1	E	0.97		3	3	2							
+4	2019	LMEL	13	2529	9	kveite	KVEITE	1	127138	Hippoglossus hippoglossus			20		1	1		1.07		1		1	E	1.07		1	1	2							
+4	2019	LMEL	13	2529	10	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		0.82		6		1	E	0.82		6									
+4	2019	LMEL	13	2529	11	nordlig knurrulke	NORDLIG KNURRULKE	1	127205	Triglops murrayi			20		1	1		0.008		1		1	E	0.008		1	1								
+4	2019	LMEL	13	2530	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	1.091		19		1	E	1.091		19	19	19	2						
+4	2019	LMEL	13	2530	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	0.101		1		1	E	0.101		1	1								
+4	2019	LMEL	13	2530	3	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	34.18	2.103		12618		1	E	0.005		30									
+4	2019	LMEL	13	2530	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	34.18	0.456		193		1	E	0.071		30									
+4	2019	LMEL	13	2530	5	sild'G03	SILD'G03	2	126417	Clupea harengus			10	10	1	1	34.18	0.188		403		1	E	0.014		30									
+4	2019	LMEL	13	2530	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	34.18	0.037		148		1	E	5.0E-4		2									
+4	2019	LMEL	13	2530	12	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	34.18	0.074		42		1	J	0.014		8									
+4	2019	LMEL	13	2530	13	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	34.18	1.15		3															
+4	2019	LMEL	13	2530	15	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	34.18	1.864		21929			E	0.0085		100									
+4	2019	LMEL	13	2530	16	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	34.18	2.21		9822			E	0.0225		100									
+4	2019	LMEL	13	2531	1	torsk	TORSK	1	126436	Gadus morhua			21		1	1		19.9		14		1	E	19.9		14	8	8	2						
+4	2019	LMEL	13	2531	2	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		1.0		1		1	E	1.0		1	1	1	2						
+4	2019	LMEL	13	2531	3	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		0.58		6		1	E	0.58		6	2	2	2						
+4	2019	LMEL	13	2531	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		5.86		43		1	E	5.86		43	6	6	2						
+4	2019	LMEL	13	2531	5	hvitting	HVITTING	1	126438	Merlangius merlangus			20		1	1		0.36		1		1	E	0.36		1	1								
+4	2019	LMEL	13	2531	6	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		1.02		6		1	E	1.02		6	6								
+4	2019	LMEL	13	2531	7	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1		0.018		2		1	E	0.018		2	2								
+4	2019	LMEL	13	2531	8	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.033		2		1	E	0.033		2	2								
+4	2019	LMEL	13	2531	9	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		1.133		36		1	E	1.133		36	36								
+4	2019	LMEL	13	2531	10	vassild	VASSILD	1	126715	Argentina silus			20		1	1		0.037		2		1	E	0.037		2	2								
+4	2019	LMEL	13	2531	11	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		1.478		12		1	E	1.478		12	12	12	3						
+4	2019	LMEL	13	2531	12	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			91		1	1		2.045		289			C	0.707		100									
+4	2019	LMEL	13	2532	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		6.01		4		1	E	6.01		4	4								
+4	2019	LMEL	13	2532	2	trepigget stingsild	TREPIGGET STINGSILD	1	126505	Gasterosteus aculeatus			10	10	1	1		0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2532	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.013		2		1	E	0.013		2									
+4	2019	LMEL	13	2532	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	6.71	19.447		7203		1	E	0.081		30									
+4	2019	LMEL	13	2532	5	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	6.71	54.106		469		1	E	11.536		100	100								
+4	2019	LMEL	13	2532	6	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		38.47		19															
+4	2019	LMEL	13	2532	7	brennmanet	BRENNMANET	2	135301	Cyanea capillata			90		1	1	6.71	5.252																	
+4	2019	LMEL	13	2533	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	5.627		49		1	E	5.627		49	49		2						
+4	2019	LMEL	13	2533	2	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	2.055		75		1	E	0.826		30	30								
+4	2019	LMEL	13	2533	3	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	39.724		14		1	E	39.724		14	8		2		2			3	Fryseprøve radioaktivitet
+4	2019	LMEL	13	2533	4	torsk	TORSK	2	126436	Gadus morhua			21		1	1	1.0	0.31		84		1	E	0.118		32	2		2		2				
+4	2019	LMEL	13	2533	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	2.22		13		1	E	2.22		13	3								
+4	2019	LMEL	13	2533	6	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	2.9		65		1	E	2.9		65	3		2						
+4	2019	LMEL	13	2533	7	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1	1.0	1.32		21		1	E	1.32		21	5		2						
+4	2019	LMEL	13	2533	8	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1	1.0	0.04		1		1	E	0.04		1									
+4	2019	LMEL	13	2533	9	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1	1.0	0.013		1		1	E	0.013		1	1								
+4	2019	LMEL	13	2533	10	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1	1.0	0.013		1		1	E	0.013		1	1								
+4	2019	LMEL	13	2533	11	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1	1.0	0.004		1		1	E	0.004		1	1								
+4	2019	LMEL	13	2533	12	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	0.172		8		1	E	0.172		8	8								
+4	2019	LMEL	13	2533	14	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	1.764		24		1	E	1.764		24	24								
+4	2019	LMEL	13	2533	15	skater	SKATER	1	10216	Rajiformes			50		1	1	1.0	0.051		17														1	
+4	2019	LMEL	13	2533	16	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.087																	
+4	2019	LMEL	13	2534	3	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	50.36	4.43		1641		1	E	0.081		30									
+4	2019	LMEL	13	2534	4	sild'G03	SILD'G03	2	126417	Clupea harengus			10	10	1	1	50.36	0.932		902		1	E	0.031		30									
+4	2019	LMEL	13	2534	5	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	50.36	0.0252		76		1	E	0.001		3									
+4	2019	LMEL	13	2534	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	50.36	1.0E-4		1		1	E	1.0E-4		1									
+4	2019	LMEL	13	2534	8	snabeluer	SNABELUER	1	127254	Sebastes mentella			10		1	1	1.0	0.019		1		1	E	0.019		1									
+4	2019	LMEL	13	2534	9	trepigget stingsild	TREPIGGET STINGSILD	1	126505	Gasterosteus aculeatus			10		1	1	50.36	0.0755		50		1	E	0.003		2									
+4	2019	LMEL	13	2534	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	4.99		3		1	E	4.99		3	3								
+4	2019	LMEL	13	2534	10	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	12.52		125		1	E	9.977		100	100	30	2						
+4	2019	LMEL	13	2534	2	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	91.0		80															
+4	2019	LMEL	13	2534	7	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			91		1	1	1.0	2.017		372			C	0.57		105									
+4	2019	LMEL	13	2534	11	havsil	HAVSIL	1	126751	Ammodytes marinus					1	1	50.36	0.0252		25															
+4	2019	LMEL	13	2535	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1		1.679		14		1	E	1.679		14	14	14	2						
+4	2019	LMEL	13	2535	2	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.041		1		1	E	0.041		1	1								
+4	2019	LMEL	13	2535	3	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.018		2		1	E	0.018		2	2								
+4	2019	LMEL	13	2535	4	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.017		1		1	E	0.017		1	1								
+4	2019	LMEL	13	2535	5	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			10		1	1		0.001		2		1	J	0.001		2									
+4	2019	LMEL	13	2535	6	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.242		1		1	E	0.242		1	1								
+4	2019	LMEL	13	2535	7	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		8.79		1395		1												1	
+4	2019	LMEL	13	2535	8	torsk	TORSK	1	126436	Gadus morhua			21		1	1		7.986		5		1	E	7.986		5	5	5							
+4	2019	LMEL	13	2535	9	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.137		50		1	E	0.137		50	1	1							
+4	2019	LMEL	13	2535	10	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.12		2		1	E	0.12		2	2	2							
+4	2019	LMEL	13	2535	11	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		1.2		22		1	E	1.2		22	5	5							
+4	2019	LMEL	13	2535	12	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		2.18		14		1	E	2.18		14	14								
+4	2019	LMEL	13	2535	13	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.002		4		1	C	0.002		4									
+4	2019	LMEL	13	2535	14	fremmedlegeme	FREMMEDLEGEME	1					68		1	1		0.005		1															
+4	2019	LMEL	13	2535	15	fremmedlegeme	FREMMEDLEGEME	2					67		1	1		1.077		1															
+4	2019	LMEL	13	2536	1	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	16.3	4.238		25428		1	E	0.005		30									
+4	2019	LMEL	13	2536	2	sild'G03	SILD'G03	2	126417	Clupea harengus			10	10	1	1	16.3	0.13		195		1	E	0.008		12									
+4	2019	LMEL	13	2536	3	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	16.3	4.0E-4		1		1	E	4.0E-4		1									
+4	2019	LMEL	13	2536	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	16.3	66.667		37037		1	E	0.054		30									
+4	2019	LMEL	13	2536	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	16.3	1.059		196		1	E	0.065		12									
+4	2019	LMEL	13	2536	6	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	14.93		5		1	E	14.93		5	5								
+4	2019	LMEL	13	2536	7	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	1.0	0.368		3		1	E	0.368		3	3								
+4	2019	LMEL	13	2536	8	glassmanet	GLASSMANET	1	135306	Aurelia aurita			90		1	1	16.3	0.44		17															
+4	2019	LMEL	13	2536	9	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	16.3	537.525		490															
+4	2019	LMEL	13	2536	10	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			10	10	1	1	1.0	0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2536	11	maneter	MANETER	1	19494	Hydroidolina			90		1	1	16.3	20.228																	
+4	2019	LMEL	13	2537	1	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.025		2		1	E	0.025		2	2								
+4	2019	LMEL	13	2537	2	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		2.428		3		1	E	2.428		3	3								
+4	2019	LMEL	13	2537	3	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.037		1		1	E	0.037		1	1								
+4	2019	LMEL	13	2537	4	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		1.437		6		1	E	1.437		6	6								
+4	2019	LMEL	13	2537	5	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.009		1		1	E	0.009		1	1								
+4	2019	LMEL	13	2537	6	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			20		1	1		0.003		1		1	J	0.003		1	1								
+4	2019	LMEL	13	2537	7	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			20		1	1		0.053		1		1	E	0.053		1	1								
+4	2019	LMEL	13	2537	8	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.999		8		1	E	0.999		8	8								
+4	2019	LMEL	13	2537	9	torsk	TORSK	1	126436	Gadus morhua			21		1	1		6.687		5		1	E	6.687		5	5								
+4	2019	LMEL	13	2537	10	torsk	TORSK	2	126436	Gadus morhua			10		1	1		0.154		44		1	E	0.104		30									
+4	2019	LMEL	13	2537	11	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.244		4		1	E	0.244		4	2								
+4	2019	LMEL	13	2537	12	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			21		1	1		8.64		4		1	E	8.64		4	4								
+4	2019	LMEL	13	2537	13	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		14.44		62		1	E	7.0		30	7								
+4	2019	LMEL	13	2537	14	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			90		1	1		0.0013		2															
+4	2019	LMEL	13	2537	15	skater	SKATER	4	10216	Rajiformes			51		1	1				1														1	
+4	2019	LMEL	13	2537	16	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		8.74		1181														1	
+4	2019	LMEL	13	2538	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	4.212		6		1	E	4.212		6	6	0							
+4	2019	LMEL	13	2538	2	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	1.994		16		1	E	1.994		16	16	16	2						
+4	2019	LMEL	13	2538	3	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	19.8					A												
+4	2019	LMEL	13	2538	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.044		7		1	E	0.044		7									
+4	2019	LMEL	13	2538	6	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	24.58	1.772		10632		1	E	0.005		30									
+4	2019	LMEL	13	2538	7	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.4		222		1	E	0.054		30									
+4	2019	LMEL	13	2538	8	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			10	10	1	1	1.0	0.01		6		1	E	0.01		6									
+4	2019	LMEL	13	2538	9	sild'G03	SILD'G03	1	126417	Clupea harengus			10	10	1	1	1.0	0.034		57		1	E	0.018		30									
+4	2019	LMEL	13	2538	10	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1	24.58	0.001		4		1	E	0.001		4									
+4	2019	LMEL	13	2538	11	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.002		5		1	E	0.002		5									
+4	2019	LMEL	13	2538	12	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	1.0	0.015		13		1	J	0.015		13									
+4	2019	LMEL	13	2538	14	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	24.58	2.09196		90955		1	E	0.0023		100									
+4	2019	LMEL	13	2538	15	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	28.08	0.0154		277		1	E	5.0E-4		9									
+4	2019	LMEL	13	2539	1	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.875		6		1	E	0.875		6	6								
+4	2019	LMEL	13	2539	2	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		1.551		48		1	E	0.967		30	30								
+4	2019	LMEL	13	2539	3	rundskate	RUNDSKATE	1	105894	Rajella fyllae			21		1	1		0.049		1		1	E	0.049		1	1								
+4	2019	LMEL	13	2539	4	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			20		1	1		0.001		1		1	J	0.001		1	1								
+4	2019	LMEL	13	2539	5	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.983		12		1	E	0.983		12	12								
+4	2019	LMEL	13	2539	6	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.002		1		1	E	0.002		1	1								
+4	2019	LMEL	13	2539	7	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.006		1		1	E	0.006		1	1								
+4	2019	LMEL	13	2539	8	skater	SKATER	1	10216	Rajiformes			50		1	1		0.005		3															
+4	2019	LMEL	13	2539	9	fremmedlegeme	FREMMEDLEGEME	1					69		1	1		0.0012		1															Fiskesnøre med krok - plast og metall
+4	2019	LMEL	13	2539	10	torsk	TORSK	1	126436	Gadus morhua			21		1	1		54.0		26		1	E	54.0		26	10		2		2				
+4	2019	LMEL	13	2539	11	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		42.82		122		1	E	42.82		122	8		2						
+4	2019	LMEL	13	2539	12	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		2.36		2		1	E	2.36		2	2		2						
+4	2019	LMEL	13	2539	13	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		0.18		1		1	E	0.18		1									
+4	2019	LMEL	13	2539	14	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		9.44		46		1	E	9.44		46	6		2						
+4	2019	LMEL	13	2539	15	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		1.92		47		1	E	1.92		47	3		2						
+4	2019	LMEL	13	2540	1	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1		4.855		29130		1	E	0.005		30									
+4	2019	LMEL	13	2540	2	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1		0.033		495		1	E	0.002		30									
+4	2019	LMEL	13	2540	3	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		2.432		1303		1	E	0.056		30									
+4	2019	LMEL	13	2540	4	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			10	10	1	1		0.005		1		1	E	0.005		1									
+4	2019	LMEL	13	2540	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.133		22		1	E	0.133		22									
+4	2019	LMEL	13	2540	6	fremmedlegeme	FREMMEDLEGEME	1					68		1	1		0.088		1															
+4	2019	LMEL	13	2540	7	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1		0.006		45		1	E	4.0E-4		3									
+4	2019	LMEL	13	2540	8	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1		0.006		15		1	E	4.0E-4		1									
+4	2019	LMEL	13	2540	9	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		1.953		3		1	E	1.953		3	3								
+4	2019	LMEL	13	2541	1	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		61.48		129		1	E	61.48		129	13	13	2						
+4	2019	LMEL	13	2541	2	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		3.94		1		1	E	3.94		1	1	1	2						
+4	2019	LMEL	13	2541	3	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1		0.235		1		1	E	0.235		1	1								
+4	2019	LMEL	13	2541	4	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1		0.002		3		1	E	0.002		3									
+4	2019	LMEL	13	2541	5	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			20		1	1		3.707		18		1	E	3.707		18	18								
+4	2019	LMEL	13	2541	6	torsk	TORSK	1	126436	Gadus morhua			21		1	1		34.5		16		1	E	34.5		16	11		2		2				
+4	2019	LMEL	13	2541	7	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.083		30		1	E	0.083		30	2		2						
+4	2019	LMEL	13	2541	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		6.164		11		1	E	6.164		11	6		2						
+4	2019	LMEL	13	2541	9	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.326		5		1	E	0.326		5	1		2						
+4	2019	LMEL	13	2541	10	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.032		1		1	E	0.032		1	1								
+4	2019	LMEL	13	2541	11	åttearmete blekkspruter	ÅTTEARMETE BLEKKSPRUTER	1	11718	Octopoda			92		1	1		0.059		1		1	B	0.059		1	1								
+4	2019	LMEL	13	2541	12	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.011		1		1	E	0.011		1	1								
+4	2019	LMEL	13	2541	13	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.077		4		1	E	0.077		4	4								
+4	2019	LMEL	13	2541	14	vassild	VASSILD	1	126715	Argentina silus			20		1	1		1.053		10		1	E	1.053		10	10								
+4	2019	LMEL	13	2541	15	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.351		2		1	E	0.351		2	2								
+4	2019	LMEL	13	2541	16	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		10.28		1310														3	
+4	2019	LMEL	13	2542	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	7.2																	
+4	2019	LMEL	13	2542	2	glassmanet	GLASSMANET	3	135306	Aurelia aurita			90		1	1	1.0	0.155		1															
+4	2019	LMEL	13	2542	3	blå brennmanet	BLÅ BRENNMANET	2	135302	Cyanea lamarcki			90		1	1	1.0	2.64		9															
+4	2019	LMEL	13	2542	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10		1	1	1.0	11.0		11		1	E	11.0		11									
+4	2019	LMEL	13	2542	5	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	1.1		1		1	E	1.1		1	1								
+4	2019	LMEL	13	2542	6	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	7.495	5.62		2810		1	E	0.06		30									
+4	2019	LMEL	13	2542	7	sild'G03	SILD'G03	1	126417	Clupea harengus			10	10	1	1	7.459	0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2542	8	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	7.495	17.2		86000		1	E	0.006		30									
+4	2019	LMEL	13	2542	9	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	7.459	0.27		2700		1	E	0.003		30									
+4	2019	LMEL	13	2542	10	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.024		1															Ospar 33
+4	2019	LMEL	13	2542	16	hyse	HYSE	2	126437	Melanogrammus aeglefinus			10	10	1	1	7.459	2.03		284		1	E	0.157		22									
+4	2019	LMEL	13	2542	17	Hyperia galba	HYPERIA GALBA	1	103251	Hyperia galba			90		1	1	1.0	0.034		7															
+4	2019	LMEL	13	2543	1	sei	SEI	1	126441	Pollachius virens			10		1	1		21.06		5		1	E	21.06		5									
+4	2019	LMEL	13	2543	2	torsk	TORSK	1	126436	Gadus morhua			21		1	1		33.59		25		1	E	33.59		25	9		2		2				
+4	2019	LMEL	13	2543	3	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		1.176		7		1	E	1.176		7									
+4	2019	LMEL	13	2543	4	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		6.4		30		1	E	6.4		30	6		2						
+4	2019	LMEL	13	2543	5	uerslekten	UERSLEKTEN	1	126175	Sebastes			10		1	1		0.02		4		1	E	0.02		4									
+4	2019	LMEL	13	2543	6	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.284		123		1	E	0.069		30	1		2		2				
+4	2019	LMEL	13	2543	7	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		26.24		111		1	E	26.24		111	9		2						
+4	2019	LMEL	13	2543	8	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		3.94		89		1	E	3.94		89	2		2						Stikkprøve otolitter tatt
+4	2019	LMEL	13	2543	9	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			20		1	1		5.31		4		1	E	5.31		4	4								
+4	2019	LMEL	13	2543	10	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1		0.466		2		1	E	0.466		2	2								
+4	2019	LMEL	13	2543	11	vassild	VASSILD	1	126715	Argentina silus			20		1	1		44.12		514		1	E	2.575		30	30								
+4	2019	LMEL	13	2543	12	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		19.121		593		1	E	0.968		30	30								
+4	2019	LMEL	13	2543	13	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.467		2		1	E	0.467		2	2								
+4	2019	LMEL	13	2543	14	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		7.558		53		1	E	7.558		53	53								
+4	2019	LMEL	13	2543	15	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			20		1	1		0.173		3		1	E	0.173		3	3								
+4	2019	LMEL	13	2543	16	kolmule	KOLMULE	1	126439	Micromesistius poutassou			20		1	1		0.14		2		1	E	0.14		2	2								
+4	2019	LMEL	13	2543	17	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1		0.046		4		1	E	0.046		4	4								
+4	2019	LMEL	13	2543	18	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.58		29		1	E	0.58		29	29								
+4	2019	LMEL	13	2543	19	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		2.0		86		1	E	0.695		30	30								
+4	2019	LMEL	13	2543	20	fremmedlegeme	FREMMEDLEGEME	1					69		1	1		0.0053		1															tøystykke
+4	2019	LMEL	13	2543	21	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		7.01		970														1	
+4	2019	LMEL	13	2543	22	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.0013		2		1	C	0.0013		2									
+4	2019	LMEL	13	2543	23	hyse	HYSE	3	126437	Melanogrammus aeglefinus			20	13	1	1		0.455		10		1	E	0.455		10	10		2						
+4	2019	LMEL	13	2544	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	40.0		9															
+4	2019	LMEL	13	2544	2	glassmaneter	GLASSMANETER	2	135263	Aurelia			90		1	1	1.0	14.26		38															
+4	2019	LMEL	13	2544	3	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	1.909		2		1	E	1.909		2	2								
+4	2019	LMEL	13	2544	4	blå brennmanet	BLÅ BRENNMANET	3	135302	Cyanea lamarcki			90		1	1	1.0	0.01		1			A	0.01											
+4	2019	LMEL	13	2544	5	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	1.0	0.42		3		1	E	0.42		3	3								
+4	2019	LMEL	13	2544	6	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	2.546		12730		1	E	0.006		30									
+4	2019	LMEL	13	2544	7	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.039		7		1	E	0.039		7									
+4	2019	LMEL	13	2544	8	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1	1.0	0.001		2		1	E	0.001		2									
+4	2019	LMEL	13	2544	9	tiskjegg	TISKJEGG	1	127191	Leptagonus decagonus			10	10	1	1	1.0	1.0E-4		1		1	E	1.0E-4		1									
+4	2019	LMEL	13	2544	10	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.166		108		1	E	0.046		30									
+4	2019	LMEL	13	2544	11	sild'G03	SILD'G03	2	126417	Clupea harengus			10	10	1	1	1.0	0.019		19		1	E	0.018		18									
+4	2019	LMEL	13	2544	12	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.001		21		1	E	0.001		21									
+4	2019	LMEL	13	2544	13	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			92		1	1	1.0	0.006		3		1	B	0.006		3	3							1	
+4	2019	LMEL	13	2544	14	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.003		1															OSPAR nr 32
+4	2019	LMEL	13	2544	15	Hyperoche	HYPEROCHE	1	101798	Hyperoche			91		1	1	1.0	0.001		2		1	E	0.001		2									
+4	2019	LMEL	13	2544	16	Hyperia	HYPERIA	1	101796	Hyperia			91		1	1	1.0	3.5		22		1	E	3.5		22									
+4	2019	LMEL	13	2544	17	Hyperiidae	HYPERIIDAE	1	101417	Hyperiidae			91		1	1	1.0	0.001		5		1	E	0.001		5									
+4	2019	LMEL	13	2545	1	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			20		1	1	1.0	0.024		1		1	E	0.024		1	1								
+4	2019	LMEL	13	2545	2	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	2.057		11		1	E	2.057		11	11								
+4	2019	LMEL	13	2545	3	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	0.066		3		1	E	0.066		3	3								
+4	2019	LMEL	13	2545	4	kolmule	KOLMULE	1	126439	Micromesistius poutassou			20		1	1	1.0	0.414		3		1	E	0.414		3	3								
+4	2019	LMEL	13	2545	5	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	1.118		2		1	E	1.118		2	2								
+4	2019	LMEL	13	2545	6	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	3.987		11		1	E	3.987		11	11								
+4	2019	LMEL	13	2545	7	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	7.32		6		1	E	7.32		6	5		2						
+4	2019	LMEL	13	2545	8	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1	1.0	6.48		19		1	E	6.48		19	7		2						
+4	2019	LMEL	13	2545	9	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1	1.0	1.9		3		1	E	1.9		3									
+4	2019	LMEL	13	2545	10	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.3		4		1	E	0.3		4	2		2						
+4	2019	LMEL	13	2545	11	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			20		1	1	1.0	0.002		3		1	E	0.002		3	0								
+4	2019	LMEL	13	2545	12	torsk	TORSK	2	126436	Gadus morhua			10		1	1	1.0	0.03		13		1	E	0.03		13									
+4	2019	LMEL	13	2545	13	skater	SKATER	1	10216	Rajiformes			50		1	1	1.0			7														1	
+4	2019	LMEL	13	2545	14	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1	1.0	10.66		1170														1	
+4	2019	LMEL	13	2546	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	19.7		6			A	19.7											
+4	2019	LMEL	13	2546	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	1.56		1		1	E	1.56		1	1								
+4	2019	LMEL	13	2546	3	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			90		1	1	1.0	0.043																	
+4	2019	LMEL	13	2546	4	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	1.858		13935		1	E	0.004		30									
+4	2019	LMEL	13	2546	5	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.054		31		1	E	0.054		31									
+4	2019	LMEL	13	2546	6	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.085		14		1	E	0.085		14									
+4	2019	LMEL	13	2546	7	sild'G03	SILD'G03	1	126417	Clupea harengus			10	10	1	1	1.0	0.001		2		1	E	0.001		2									
+4	2019	LMEL	13	2546	8	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	131.44	0.571		2855		1	E	0.006		30									
+4	2019	LMEL	13	2546	9	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			10		1	1	131.44	0.049		34		1	J	0.049		34									
+4	2019	LMEL	13	2546	10	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	131.44	11.51		37048		1	E	0.032		103									
+4	2019	LMEL	13	2546	11	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	131.44	0.12		560		1	E	0.0015		7									
+4	2019	LMEL	13	2547	1	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		6.7		48		1	E	6.7		48	5	0	2						
+4	2019	LMEL	13	2547	2	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.184		4		1	E	0.184		4	4								
+4	2019	LMEL	13	2547	3	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.05		2		1	E	0.05		2	2								
+4	2019	LMEL	13	2547	4	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.011		4		1	E	0.011		4	4								
+4	2019	LMEL	13	2547	5	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.014		1		1	E	0.014		1	1								
+4	2019	LMEL	13	2547	6	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.033		3		1	E	0.033		3	3								
+4	2019	LMEL	13	2547	7	sei	SEI	1	126441	Pollachius virens			10		1	1		12.36		6		1	E	12.36		6									
+4	2019	LMEL	13	2547	8	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		1.523		14		1	E	1.523		14	14								
+4	2019	LMEL	13	2547	9	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		1.125		1		1	E	1.125		1	1		2						
+4	2019	LMEL	13	2547	10	torsk	TORSK	1	126436	Gadus morhua			21		1	1		6.99		6		1	E	6.99		6	4		2		2				
+4	2019	LMEL	13	2547	11	brosme	BROSME	1	126447	Brosme brosme			23		1	1		3.678		4		1	E	3.678		4	4		2						
+4	2019	LMEL	13	2547	12	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.88		5		1	E	0.88		5	3		2						
+4	2019	LMEL	13	2547	13	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.185		15		1	E	0.185		15	3		2						
+4	2019	LMEL	13	2547	14	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		11.52		97		1	E	11.52		97	7		2						
+4	2019	LMEL	13	2547	15	vassild	VASSILD	1	126715	Argentina silus			20		1	1		5.549		14		1	E	5.549		14	14	0							
+4	2019	LMEL	13	2547	16	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1		0.168		2		1	E	0.168		2	2	0							
+4	2019	LMEL	13	2547	17	kloskate	KLOSKATE	1	105865	Amblyraja radiata			21		1	1		0.94		1		1	E	0.94		1	1	0							
+4	2019	LMEL	13	2547	18	skater	SKATER	1	10216	Rajiformes			50		1	1		0.008		4														1	
+4	2019	LMEL	13	2547	19	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		7.18		652														1	
+4	2019	LMEL	13	2547	20	svamper	SVAMPER	1	558	Porifera			90		1	1		800.0																	
+4	2019	LMEL	13	2548	1	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	2.135		12		1	E	2.135		12	12	2	2						
+4	2019	LMEL	13	2548	2	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.159		24		1	E	0.159		24									
+4	2019	LMEL	13	2548	3	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.167		53		1	E	0.094		30									
+4	2019	LMEL	13	2548	5	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.085		50		1	E	0.051		30								1	
+4	2019	LMEL	13	2548	6	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1	1.0	0.014		140		1	E	0.003		30									
+4	2019	LMEL	13	2548	7	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.022		60		1	E	0.011		30									
+4	2019	LMEL	13	2548	8	brosme	BROSME	1	126447	Brosme brosme			10	10	1	1	1.0	3.0E-4		1		1	E	3.0E-4		1									
+4	2019	LMEL	13	2548	9	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1	1.0	2.0E-4		2		1	E	2.0E-4		2									
+4	2019	LMEL	13	2548	10	torskefamilien	TORSKEFAMILIEN	1	125469	Gadidae			10	10	1	1	1.0	1.0E-4		1		1	E	1.0E-4		1								1	
+4	2019	LMEL	13	2548	12	maneter	MANETER	1	19494	Hydroidolina			90		1	1	1.0	0.487																	
+4	2019	LMEL	13	2548	13	Hyperia galba	HYPERIA GALBA	1	103251	Hyperia galba			91		1	1	1.0	0.025		17			E	0.025		17									
+4	2019	LMEL	13	2548	14	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	1.0	0.041		465			E	0.006		68									
+4	2019	LMEL	13	2549	1	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		4.14		117		1	E	3.53		100	3	0	2						
+4	2019	LMEL	13	2549	4	skater	SKATER	1	10216	Rajiformes			50		1	1		0.007		2														1	
+4	2019	LMEL	13	2549	5	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.71		47		1	E	0.71		47	47	0							
+4	2019	LMEL	13	2549	6	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.086		8		1	E	0.086		8	8	0							
+4	2019	LMEL	13	2549	7	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		3.0E-4		1															
+4	2019	LMEL	13	2549	8	vassild	VASSILD	1	126715	Argentina silus			20		1	1		23.44		274		1	E	2.569		30	30								
+4	2019	LMEL	13	2549	9	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		4.908		100		1	E	1.474		30	30								
+4	2019	LMEL	13	2549	10	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		3.853		167		1	E	0.694		30	30								
+4	2019	LMEL	13	2549	11	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		3.518		39		1	E	3.518		39									
+4	2019	LMEL	13	2549	12	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1		0.299		3		1	E	0.299		3	3								
+4	2019	LMEL	13	2549	13	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1		0.002		1		1	J	0.002		1									
+4	2019	LMEL	13	2549	14	vassild	VASSILD	2	126715	Argentina silus			20	10	1	1		0.007		5		1	E	0.007		5	5								
+4	2019	LMEL	13	2549	15	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.225		49		1	E	0.137		30	30								
+4	2019	LMEL	13	2549	16	tornulke	TORNULKE	1	127199	Icelus bicornis			20		1	1		0.007		1		1	E	0.007		1	1							1	
+4	2019	LMEL	13	2549	17	sei	SEI	1	126441	Pollachius virens			10		1	1		10.68		7		1	E	10.68		7									
+4	2019	LMEL	13	2549	18	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		1.12		1		1	E	1.12		1	1		2						
+4	2019	LMEL	13	2549	19	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.107		1		1	E	0.107		1	1		2						
+4	2019	LMEL	13	2549	20	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.03		2		1	E	0.03		2	2		2						
+4	2019	LMEL	13	2549	21	torsk	TORSK	1	126436	Gadus morhua			21		1	1		0.018		7		1	E	0.018		7	1		2		2				
+4	2019	LMEL	13	2549	22	brosme	BROSME	1	126447	Brosme brosme			21		1	1		3.643		7		1	E	3.643		7	7		2						
+4	2019	LMEL	13	2549	23	rundskate	RUNDSKATE	1	105894	Rajella fyllae			21		1	1		0.174		1		1	E	0.174		1	1								
+4	2019	LMEL	13	2549	24	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		0.64		1															
+4	2019	LMEL	13	2550	3	knurr	KNURR	1	150637	Eutrigla gurnardus			20		1	1		0.605		1		1	E	0.605		1	1								
+4	2019	LMEL	13	2550	12	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		0.072		22		1	E	0.072		22									
+4	2019	LMEL	13	2550	14	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.248		30		1	E	0.248		30									
+4	2019	LMEL	13	2550	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		9.33		2		1	E	9.33		2	2								
+4	2019	LMEL	13	2550	2	glassmaneter	GLASSMANETER	1	135263	Aurelia			90		1	1		3.0		5			A												
+4	2019	LMEL	13	2550	4	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		32.0		29															
+4	2019	LMEL	13	2550	22	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1		0.01		2		1	E	0.01		2									
+4	2019	LMEL	13	2550	23	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1		151.2		791		1	E	18.925		99	99	30	2						
+4	2019	LMEL	13	2552	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		26.38		28			A												
+4	2019	LMEL	13	2552	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		2.006		2		1	E	2.006		2	2								
+4	2019	LMEL	13	2552	3	knurr	KNURR	1	150637	Eutrigla gurnardus			20		1	1		1.205		2		1	E	1.205		2	2								
+4	2019	LMEL	13	2552	4	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.16		1		1	E	0.16		1	1								
+4	2019	LMEL	13	2552	5	makrell	MAKRELL	1	127023	Scomber scombrus			20		1	1		0.995		2		1	F	0.995		2	2								>90
+4	2019	LMEL	13	2552	6	blå brennmanet	BLÅ BRENNMANET	2	135302	Cyanea lamarcki			90		1	1		0.295		1			A												
+4	2019	LMEL	13	2552	7	glassmanet	GLASSMANET	3	135306	Aurelia aurita			90		1	1		1.95		9			A												
+4	2019	LMEL	13	2552	8	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			91		1	1		0.14		2		1	B	0.14		2								1	
+4	2019	LMEL	13	2552	9	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.155		19		1	E	0.155		19									
+4	2019	LMEL	13	2552	10	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		0.076		60		1	E	0.038		30									
+4	2019	LMEL	13	2552	11	Hyperia	HYPERIA	1	101796	Hyperia			91		1	1		5.0E-4		5		1	E	5.0E-4		5									
+4	2019	LMEL	13	2553	1	krill	KRILL	1	1128	Euphausiacea			90		1	1	1.0	0.152																	
+4	2019	LMEL	13	2553	4	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			10		1	1	1.0	0.024		1		1	E	0.024		1		0							
+4	2019	LMEL	13	2553	5	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	17.4		27															
+4	2019	LMEL	13	2553	6	perifylla	PERIFYLLA	1	135252	Periphylla			90		1	1	1.0	2.44		1															
+4	2019	LMEL	13	2553	7	sei	SEI	1	126441	Pollachius virens			10		1	1	1.0	1.8		1		1	E	1.8		1									
+4	2019	LMEL	13	2553	8	makrell	MAKRELL	1	127023	Scomber scombrus			23		1	1	1.0	7.282		15		1	F	7.282		15	15								
+4	2019	LMEL	13	2553	9	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	1.0	2.237		9		1	E	2.237		9	9								
+4	2019	LMEL	13	2553	10	liten laksetobis	LITEN LAKSETOBIS	1	126352	Arctozenus risso			20		1	1	1.0	0.032		2		1	J	0.032		2	2								
+4	2019	LMEL	13	2553	11	kolmule	KOLMULE	1	126439	Micromesistius poutassou			20		1	1	1.0	0.147		1		1	E	0.147		1	1								
+4	2019	LMEL	13	2553	12	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			10		1	1	1.0	0.038		104		1	J	0.011		30									
+4	2019	LMEL	13	2553	14	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	1.0	0.01		10		1	J	0.01		10									
+4	2019	LMEL	13	2553	15	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1	1.0	0.015		5		1	E	0.015		5									
+4	2019	LMEL	13	2553	16	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	1.0	0.006		60		1	E	0.003		30									
+4	2019	LMEL	13	2553	17	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1	1.0	5.0E-4		3		1	E	5.0E-4		3									
+4	2019	LMEL	13	2553	18	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.044		38		1	E	0.035		30									
+4	2019	LMEL	13	2553	19	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.169		22		1	E	0.169		22									
+4	2019	LMEL	13	2554	1	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.799		101		1	E	0.237		30		0							
+4	2019	LMEL	13	2554	2	hvitting	HVITTING	1	126438	Merlangius merlangus			10	10	1	1		0.03		18		1	E	0.03		18		0							
+4	2019	LMEL	13	2554	3	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		0.03		12		1	E	0.03		12		0							
+4	2019	LMEL	13	2554	4	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1		0.001		6		1	E	0.001		6		0							
+4	2019	LMEL	13	2554	5	brosme	BROSME	1	126447	Brosme brosme			10	10	1	1		0.003		2		1	E	0.003		2		0							
+4	2019	LMEL	13	2554	6	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1		3.0E-4		1		1	E	3.0E-4		1		0							
+4	2019	LMEL	13	2554	7	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1		0.001		4		1	E	0.001		4		0							
+4	2019	LMEL	13	2554	8	knurr	KNURR	1	150637	Eutrigla gurnardus			20		1	1		0.284		1		1	E	0.284		1	1	0							
+4	2019	LMEL	13	2554	9	liten laksetobis	LITEN LAKSETOBIS	1	126352	Arctozenus risso			20		1	1		0.014		1		1	J	0.014		1	1	0							
+4	2019	LMEL	13	2554	10	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			91		1	1		3.0E-4		1		1	B	3.0E-4		1									
+4	2019	LMEL	13	2554	11	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		9.39		10															
+4	2019	LMEL	13	2554	12	glassmanet	GLASSMANET	1	135306	Aurelia aurita			90		1	1		0.62		1															
+4	2019	LMEL	13	2554	13	blå brennmanet	BLÅ BRENNMANET	1	135302	Cyanea lamarcki			90		1	1		0.24		1															
+4	2019	LMEL	13	2554	14	fremmedlegeme	FREMMEDLEGEME	1					68		1	1		0.001																	OSPAR nr 3
+4	2019	LMEL	13	2554	15	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.01																	OSPAR nr 32
+4	2019	LMEL	13	2555	1	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		5.75		88		1	E	5.75		88	4		2						
+4	2019	LMEL	13	2555	2	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.133		23		1	E	0.133		23	23								
+4	2019	LMEL	13	2555	3	sei	SEI	1	126441	Pollachius virens			10		1	1		14.52		7		1	E	14.52		7									
+4	2019	LMEL	13	2555	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.214		2		1	E	0.214		2	2		2						
+4	2019	LMEL	13	2555	5	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.095		5		1	E	0.095		5	2		2						
+4	2019	LMEL	13	2555	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.014		2		1	E	0.014		2	2								
+4	2019	LMEL	13	2555	7	torsk	TORSK	1	126436	Gadus morhua			21		1	1		14.38		6		1	E	14.38		6	4		2		2				
+4	2019	LMEL	13	2555	8	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		1.251		3		1	E	1.251		3	3		2						
+4	2019	LMEL	13	2555	9	brosme	BROSME	1	126447	Brosme brosme			21		1	1		0.687		2		1	E	0.687		2	2		2						
+4	2019	LMEL	13	2555	10	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		13.22		101		1	E	3.92		30									
+4	2019	LMEL	13	2555	11	vassild	VASSILD	1	126715	Argentina silus			20		1	1		10.33		41		1	E	10.33		41	41								
+4	2019	LMEL	13	2555	12	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.175		1		1	E	0.175		1	1	0							
+4	2019	LMEL	13	2555	13	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.041		3		1	E	0.041		3	3	0							
+4	2019	LMEL	13	2555	14	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.008		1		1	E	0.008		1	1	0							
+4	2019	LMEL	13	2555	15	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		4.02		156		1	E	0.775		30	30	0							
+4	2019	LMEL	13	2555	16	skater	SKATER	1	10216	Rajiformes			50		1	1		0.215		1															
+4	2019	LMEL	13	2556	1	laks	LAKS	1	127186	Salmo salar			10		1	1	1.0	0.16		1		1	I	0.16		1									
+4	2019	LMEL	13	2556	2	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	10.5		11			A												
+4	2019	LMEL	13	2556	3	brennmanet	BRENNMANET	2	135301	Cyanea capillata			90		1	1	1.0	0.85		2			A												
+4	2019	LMEL	13	2556	4	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			10	10	1	1	1.0	0.058		1		1	E	0.058		1									
+4	2019	LMEL	13	2556	5	sild'G03	SILD'G03	1	126417	Clupea harengus			20	20	1	1	1.0	0.18		5		1	E	0.18		5	5								
+4	2019	LMEL	13	2556	6	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	21.02	0.063		488		1	E	0.004		31									
+4	2019	LMEL	13	2556	7	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	21.02	0.052		780		1	E	0.002		30									
+4	2019	LMEL	13	2556	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.272		30		1	E	0.272		30									
+4	2019	LMEL	13	2556	9	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.058		21		1	E	0.058		21									
+4	2019	LMEL	13	2556	10	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	21.02	3.106		9318			E	0.034		102									
+4	2019	LMEL	13	2557	1	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		79.43		748		1	E	10.62		100	4	0	2						
+4	2019	LMEL	13	2557	2	skater	SKATER	1	10216	Rajiformes			50		1	1		0.12		1														1	
+4	2019	LMEL	13	2557	3	sei	SEI	1	126441	Pollachius virens			10		1	1		16.8		10		1	E	16.8		10									
+4	2019	LMEL	13	2557	4	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.049		4		1	E	0.049		4	4								
+4	2019	LMEL	13	2557	5	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.027		7		1	E	0.027		7	7								
+4	2019	LMEL	13	2557	6	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.06		4		1	E	0.06		4	4								
+4	2019	LMEL	13	2557	7	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.04		3		1	E	0.04		3	3								
+4	2019	LMEL	13	2557	8	vassild	VASSILD	1	126715	Argentina silus			20		1	1		29.68		86		1	E	10.334		30	30								
+4	2019	LMEL	13	2557	9	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			92		1	1		0.027		1		1	B	0.027		1	1							1	
+4	2019	LMEL	13	2557	10	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.223		1		1	E	0.223		1	1								
+4	2019	LMEL	13	2557	11	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.029		1		1	E	0.029		1	1								
+4	2019	LMEL	13	2557	12	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		4.72		30		1	E	4.72		30									
+4	2019	LMEL	13	2557	13	torsk	TORSK	1	126436	Gadus morhua			21		1	1		1.006		1		1	E	1.006		1	1	1	2						
+4	2019	LMEL	13	2557	14	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.035		1		1	E	0.035		1	1		2						
+4	2019	LMEL	13	2557	15	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		3.5		70		1	E	3.5		70	8	8	2						
+4	2019	LMEL	13	2557	16	brosme	BROSME	1	126447	Brosme brosme			21		1	1		5.296		10		1	E	5.296		10	10	9	2						
+4	2019	LMEL	13	2558	2	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	31.26	0.313		2348		1	E	0.004		30									
+4	2019	LMEL	13	2558	3	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	31.26	0.344		2580		1	E	0.004		30									
+4	2019	LMEL	13	2558	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.0	0.062		26		1	E	0.062		26									
+4	2019	LMEL	13	2558	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.054		8		1	E	0.054		8									
+4	2019	LMEL	13	2558	6	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	1.5		3															
+4	2019	LMEL	13	2558	7	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	31.26	0.2083		4666			E	0.0025		56									
+4	2019	LMEL	13	2558	8	Thysanoessa longicaudata	THYSANOESSA LONGICAUDATA	1	110709	Thysanoessa longicaudata			91		1	1	31.26	0.1666		3165			E	0.002		38									
+4	2019	LMEL	13	2558	9	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			90		1	1	31.26	0.124																	
+4	2019	LMEL	13	2559	1	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		39.88		123		1	E	11.03		34	8		2						
+4	2019	LMEL	13	2559	2	torsk	TORSK	1	126436	Gadus morhua			21		1	1		0.736		3		1	E	0.736		3	3		2						
+4	2019	LMEL	13	2559	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		1.14		8		1	E	1.14		8	4		2						
+4	2019	LMEL	13	2559	3	brosme	BROSME	1	126447	Brosme brosme			20		1	1		1.57		2		1	E	1.57		2	2		2						
+4	2019	LMEL	13	2559	5	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.023		6		1	E	0.023		6	6								
+4	2019	LMEL	13	2559	6	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.584		1		1	E	0.584		1	1								
+4	2019	LMEL	13	2559	7	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.115		6		1	E	0.115		6	6								
+4	2019	LMEL	13	2559	8	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20		1	1		3.95		1		1	E	3.95		1	1								Tok fryseprøve av fastsitjande parasitt
+4	2019	LMEL	13	2559	9	vassild	VASSILD	1	126715	Argentina silus			20		1	1		8.385		15		1	E	8.385		15	15								
+4	2019	LMEL	13	2559	10	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		1.302		16		1	E	1.302		16	16								
+4	2019	LMEL	13	2559	12	sei	SEI	1	126441	Pollachius virens			10		1	1		1.95		1		1	E	1.95		1									
+4	2019	LMEL	13	2559	13	skater	SKATER	1	10216	Rajiformes			50		1	1				6															
+4	2019	LMEL	13	2559	11	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		2.318		16		1	E	2.318		16	3	3	2					1	
+4	2019	LMEL	13	2559	14	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		9.53		1220														1	
+4	2019	LMEL	13	2560	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	55.0		15			A												
+4	2019	LMEL	13	2560	5	havsil	HAVSIL	1	126751	Ammodytes marinus			20		1	1	1.0	0.025		2		1	E	0.025		2	2								
+4	2019	LMEL	13	2560	6	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	76.32	0.147		220		1	J	0.004		6									
+4	2019	LMEL	13	2560	9	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.002																	
+4	2019	LMEL	13	2560	10	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	76.32	14.827		56457		1	E	0.026		99									
+4	2019	LMEL	13	2560	11	glassmanet	GLASSMANET	1	135306	Aurelia aurita			90		1	1	1.0	1.178																	
+4	2019	LMEL	13	2560	3	lodde	LODDE	2	126735	Mallotus villosus			10	10	1	1	76.32	5.519		41393		1	E	0.004		30									
+4	2019	LMEL	13	2560	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	76.32	2.908		1407		1	E	0.062		30									
+4	2019	LMEL	13	2560	7	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	76.32	0.625		75		1	E	0.249		30									
+4	2019	LMEL	13	2561	1	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		2.21		12		1	E	2.21		12	4		2						
+4	2019	LMEL	13	2561	2	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.178		7		1	E	0.178		7	7								
+4	2019	LMEL	13	2561	3	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1		0.003		1		1	E	0.003		1	1								
+4	2019	LMEL	13	2561	4	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.045		3		1	E	0.045		3	3								
+4	2019	LMEL	13	2561	5	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		1.107		16		1	E	1.107		16	16								
+4	2019	LMEL	13	2561	6	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1		2.043		14		1	E	2.043		14	14								
+4	2019	LMEL	13	2561	7	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		1.069		35		1	E	1.069		35	35								
+4	2019	LMEL	13	2561	8	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.462		1		1	E	0.462		1	1								
+4	2019	LMEL	13	2561	9	vassild	VASSILD	1	126715	Argentina silus			20		1	1		8.35		47		1	E	5.2		29	29								
+4	2019	LMEL	13	2561	10	skater	SKATER	1	10216	Rajiformes			50		1	1		0.002		1															
+4	2019	LMEL	13	2561	11	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		0.956		1															
+4	2019	LMEL	13	2561	12	sei	SEI	1	126441	Pollachius virens			10		1	1		3.82		2		1	E	3.82		2									
+4	2019	LMEL	13	2561	13	torsk	TORSK	1	126436	Gadus morhua			21		1	1		7.85		4		1	E	7.85		4	3		2		2				
+4	2019	LMEL	13	2561	14	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.111		43		1	E	0.111		43	1		2		2				
+4	2019	LMEL	13	2561	15	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		20.24		162		1	E	20.24		162	6		2						
+4	2019	LMEL	13	2561	16	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.081		14		1	E	0.081		14	2		2						
+4	2019	LMEL	13	2561	17	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		11.74		236		1	E	11.74		236	7		2						
+4	2019	LMEL	13	2561	18	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		0.382		1		1	E	0.382		1	1		2						
+4	2019	LMEL	13	2561	19	uerslekten	UERSLEKTEN	1	126175	Sebastes			10		1	1		0.022		5		1	E	0.022		5									
+4	2019	LMEL	13	2561	20	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.006		2		1	E	0.006		2	2								
+4	2019	LMEL	13	2561	21	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1		0.002		1		1	J	0.002		1									
+4	2019	LMEL	13	2561	22	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		1.0		156														1	
+4	2019	LMEL	13	2562	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		1.91		3															
+4	2019	LMEL	13	2562	2	maneter	MANETER	1	19494	Hydroidolina			90		1	1		0.74																	
+4	2019	LMEL	13	2562	3	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1		0.335		1954		1	E	0.006		35		0							
+4	2019	LMEL	13	2562	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		0.7		396		1	E	0.053		30		0							
+4	2019	LMEL	13	2562	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.103		14		1	E	0.103		14		0							
+4	2019	LMEL	13	2562	6	vassild	VASSILD	1	126715	Argentina silus			10	10	1	1		3.0E-4		3		1	E	3.0E-4		3		0							
+4	2019	LMEL	13	2562	7	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1		0.002		60		1	E	0.001		30		0							
+4	2019	LMEL	13	2562	8	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			10		1	1		0.049		2		1	E	0.049		2		0							
+4	2019	LMEL	13	2562	9	sild	SILD	1	126417	Clupea harengus			10	10	1	1		3.0E-4		1		1	E	3.0E-4		1		0							
+4	2019	LMEL	13	2562	10	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1		1.0E-4		1		1	E	1.0E-4		1		0							
+4	2019	LMEL	13	2563	1	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		2.945		115		1	E	0.768		30	30	0							
+4	2019	LMEL	13	2563	2	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		2.013		28		1	E	2.013		28	28	0							
+4	2019	LMEL	13	2563	3	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.544		30		1	E	0.544		30	30	0							
+4	2019	LMEL	13	2563	4	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.004		1		1	E	0.004		1	1	0						1	
+4	2019	LMEL	13	2563	5	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1		0.055		5		1	E	0.055		5	5	0							
+4	2019	LMEL	13	2563	6	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1		19.92		92		1	E	6.476		30	30	0							
+4	2019	LMEL	13	2563	7	vassild	VASSILD	1	126715	Argentina silus			20		1	1		8.188		100		1	E	2.468		30	30	0							
+4	2019	LMEL	13	2563	8	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.009		2		1	E	0.009		2	2	0							
+4	2019	LMEL	13	2563	9	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			20		1	1		0.002		1		1	J	0.002		1	1	0							
+4	2019	LMEL	13	2563	10	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			20		1	1		0.038		1		1	E	0.038		1	1	0							
+4	2019	LMEL	13	2563	11	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1		0.123		7		1	E	0.123		7	7	0							
+4	2019	LMEL	13	2563	12	skater	SKATER	1	10216	Rajiformes			50		1	1		0.004		4														1	
+4	2019	LMEL	13	2563	13	sei	SEI	1	126441	Pollachius virens			10		1	1		1.4		2		1	E	1.4		2									
+4	2019	LMEL	13	2563	14	torsk	TORSK	1	126436	Gadus morhua			21		1	1		3.752		3		1	E	3.752		3	3		2		2				
+4	2019	LMEL	13	2563	15	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.218		29		1	E	0.218		29	2		2		2				
+4	2019	LMEL	13	2563	16	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		52.25		43		1	E	52.25		43	43		2						
+4	2019	LMEL	13	2563	17	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		2.62		59		1	E	1.34		30	2		2						
+4	2019	LMEL	13	2563	18	uerslekten	UERSLEKTEN	1	126175	Sebastes			10		1	1		0.008		2		1	E	0.008		2									
+4	2019	LMEL	13	2563	19	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		15.36		55		1	E	15.36		55	7		2						
+4	2019	LMEL	13	2563	20	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		11.36		93		1	E	6.08		50	5		2						
+4	2019	LMEL	13	2563	32	kolmule	KOLMULE	1	126439	Micromesistius poutassou			23		1	1		2.58		14		1	E	2.58		14	2	2	2						
+4	2019	LMEL	13	2563	33	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		3.833		538														1	
+4	2019	LMEL	13	2564	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		75.0		13															
+4	2019	LMEL	13	2564	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		0.07		2		1	E	0.07		2	2								
+4	2019	LMEL	13	2564	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		0.248		37		1	E	0.199		30									
+4	2019	LMEL	13	2564	4	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1		0.891		6683		1	E	0.004		30									
+4	2019	LMEL	13	2564	5	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		1.276		696		1	E	0.055		30									
+4	2019	LMEL	13	2565	1	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	39.894		17		1	E	39.894		17	10		2		2				
+4	2019	LMEL	13	2565	2	torsk	TORSK	2	126436	Gadus morhua			21		1	1	1.0	0.285		36		1	E	0.238		30	2		2		2				
+4	2019	LMEL	13	2565	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	13.28		54		1	E	13.28		54	6		2						
+4	2019	LMEL	13	2565	4	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	4.155		101		1	E	1.24		30	2		2						
+4	2019	LMEL	13	2565	5	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1	1.0	2.14		68		1	E	0.94		30	4		2						
+4	2019	LMEL	13	2565	6	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	0.546		3		1	E	0.546		3	3		2						
+4	2019	LMEL	13	2565	7	brosme	BROSME	1	126447	Brosme brosme			21		1	1	1.0	0.779		2		1	E	0.779		2	2		2						
+4	2019	LMEL	13	2565	8	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10		1	1	1.0	0.095		2		1	E	0.095		2									
+4	2019	LMEL	13	2565	9	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	0.15		5		1	E	0.15		5	5								
+4	2019	LMEL	13	2565	10	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1	1.0	1.077		58		1	E	0.561		30	30								
+4	2019	LMEL	13	2565	11	sølvtorsk	SØLVTORSK	1	126435	Gadiculus argenteus			20		1	1	1.0	0.01		2		1	E	0.01		2	2								
+4	2019	LMEL	13	2565	12	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1	1.0	0.015		5		1	E	0.015		5	5								
+4	2019	LMEL	13	2565	13	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1	1.0	0.016		2		1	E	0.016		2	2								
+4	2019	LMEL	13	2565	14	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1	1.0	0.013		3		1	E	0.013		3	3								
+4	2019	LMEL	13	2565	15	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1	1.0	0.1		7		1	E	0.1		7	7								
+4	2019	LMEL	13	2565	16	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1	1.0	1.29		1		1	E	1.29		1	1								
+4	2019	LMEL	13	2565	17	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.012																	
+4	2019	LMEL	13	2565	18	fremmedlegeme	FREMMEDLEGEME	1					68		1	1	1.0	0.003																	
+4	2019	LMEL	13	2565	19	skater	SKATER	1	10216	Rajiformes			50		1	1	1.0	0.012		5														1	
+4	2019	LMEL	13	2565	20	perifylla	PERIFYLLA	1	135252	Periphylla			90		1	1	1.0	0.402		1															
+4	2019	LMEL	13	2565	21	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	0.05		1															
+4	2019	LMEL	13	2565	22	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	28.103		778		1	E	1.047		29	29								
+4	2019	LMEL	13	2565	23	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	4.14		117		1	E	1.065		30	30								
+4	2019	LMEL	13	2565	24	lusuer	LUSUER	1	127255	Sebastes viviparus			20		1	1	1.0	1.965		19		1	E	1.965		19	19								
+4	2019	LMEL	13	2565	25	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	4.74		70		1	E	2.026		30	30								
+4	2019	LMEL	13	2565	26	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1	1.0	1.61		154														1	
+4	2019	LMEL	13	2566	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	150.0		31			A												
+4	2019	LMEL	13	2566	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	3.83		4		1	E	3.83		4	4								
+4	2019	LMEL	13	2566	3	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	21.23	1.762		13215		1	E	0.004		30									
+4	2019	LMEL	13	2566	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	21.23	1.388		621		1	E	0.067		30									
+4	2019	LMEL	13	2566	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.572		67		1	E	0.256		30									
+4	2019	LMEL	13	2566	6	hyse	HYSE	2	126437	Melanogrammus aeglefinus			20		1	1	1.0	0.067		1		1	E	0.067		1	1								
+4	2019	LMEL	13	2566	7	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			10	10	1	1	1.0	0.004		1		1	E	0.004		1									
+4	2019	LMEL	13	2566	8	sild'G03	SILD'G03	1	126417	Clupea harengus			10	10	1	1	1.0	0.001		2		1	E	0.001		2									
+4	2019	LMEL	13	2566	9	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			10	10	1	1	1.0	0.003		1		1	E	0.003		1									
+4	2019	LMEL	13	2566	10	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.001		2		1	E	0.001		2									
+4	2019	LMEL	13	2567	18	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		0.77		135															
+4	2019	LMEL	13	2567	17	skater	SKATER	1	10216	Rajiformes			50		1	1				4															
+4	2019	LMEL	13	2567	1	torsk	TORSK	1	126436	Gadus morhua			21		1	1		15.696		30		1	E	15.696		30	12		2						
+4	2019	LMEL	13	2567	2	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		14.7		47		1	E	9.44		30	7		2						
+4	2019	LMEL	13	2567	3	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		3.67		45		1	E	2.42		30	5		2						
+4	2019	LMEL	13	2567	4	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.32		37		1	E	0.26		30	2		2						
+4	2019	LMEL	13	2567	8	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		0.62		1		1	E	0.62		1	1		2						
+4	2019	LMEL	13	2567	5	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.017		2		1	E	0.017		2	2								
+4	2019	LMEL	13	2567	6	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.014		1		1	E	0.014		1	1								
+4	2019	LMEL	13	2567	7	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.008		3		1	E	0.008		3	3								
+4	2019	LMEL	13	2567	10	vassild	VASSILD	1	126715	Argentina silus			20		1	1		0.057		4		1	E	0.057		4	4	0							
+4	2019	LMEL	13	2567	11	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		1.507		44		1	E	1.036		30	30	0							
+4	2019	LMEL	13	2567	12	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.126		2		1	E	0.126		2	2	0							
+4	2019	LMEL	13	2567	13	vanlig ålebrosme	VANLIG ÅLEBROSME	2	274100	Lycodes gracilis			20		1	1		0.047		2		1	E	0.047		2	2	0							
+4	2019	LMEL	13	2567	14	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1		0.012		1		1	E	0.012		1	1	0							
+4	2019	LMEL	13	2567	15	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		0.702		15		1	E	0.702		15	15	0							
+4	2019	LMEL	13	2567	16	rundhalet langebarn	RUNDHALET LANGEBARN	1	127070	Anisarchus medius			20		1	1		0.067		1		1	E	0.067		1	1	0							
+4	2019	LMEL	13	2567	9	lusuer	LUSUER	1	127255	Sebastes viviparus			10		1	1		0.257		3		1	E	0.257		3									
+4	2019	LMEL	13	2567	19	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		1.475		2															
+4	2019	LMEL	13	2568	1	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	2.75	0.571		72		1	E	0.237		30									
+4	2019	LMEL	13	2568	2	hyse	HYSE	2	126437	Melanogrammus aeglefinus			10		1	1	1.0	0.071		1		1	E	0.071		1									
+4	2019	LMEL	13	2568	3	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			10	10	1	1	1.0	0.007		2		1	E	0.007		2									
+4	2019	LMEL	13	2568	4	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			10	10	1	1	1.0	0.002		1		1	E	0.002		1									
+4	2019	LMEL	13	2568	5	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	2.75	0.456		240		1	E	0.057		30									
+4	2019	LMEL	13	2568	6	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.001		3		1	E	0.001		3									
+4	2019	LMEL	13	2568	7	sild	SILD	2	126417	Clupea harengus			10	10	1	1	2.75	0.074		89		1	E	0.025		30									
+4	2019	LMEL	13	2568	11	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	234.0		138															
+4	2019	LMEL	13	2568	12	sild'G03	SILD'G03	1	126417	Clupea harengus			23		1	1	1.0	11.48		105		1	E	10.937		100	100		2						
+4	2019	LMEL	13	2568	13	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	9.45		6		1	E	9.45		6	6								
+4	2019	LMEL	13	2568	21	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1	2.75	0.105		1575		1	E	0.002		30									
+4	2019	LMEL	13	2569	1	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.028		1		1	E	0.028		1	1	0							
+4	2019	LMEL	13	2569	2	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.003		1		1	E	0.003		1	1	0							
+4	2019	LMEL	13	2569	3	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1		0.074		1		1	E	0.074		1	1	0							
+4	2019	LMEL	13	2569	4	tiarmete blekkspruter	TIARMETE BLEKKSPRUTER	1	11709	Coleoidea			92		1	1		0.018		2		1	B	0.018		2	2	0							
+4	2019	LMEL	13	2569	5	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.49		4		1	E	0.49		4	4	0							
+4	2019	LMEL	13	2569	6	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		2.53		14		1	E	2.53		14	14	0							
+4	2019	LMEL	13	2569	7	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.233		14		1	E	0.233		14	14	0							
+4	2019	LMEL	13	2569	8	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.469		14		1	E	0.469		14	14	0							
+4	2019	LMEL	13	2569	9	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		1.057		2		1	E	1.057		2	2								
+4	2019	LMEL	13	2569	10	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		2.25		1		1	E	2.25		1	1		2						
+4	2019	LMEL	13	2569	11	torsk	TORSK	1	126436	Gadus morhua			21		1	1		19.72		12		1	E	19.72		12	8		2		2				
+4	2019	LMEL	13	2569	12	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.083		34		1	E	0.083		34	1		2		2				
+4	2019	LMEL	13	2569	13	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			20		1	1		1.835		1		1	E	1.835		1	1		2						Genetikk: B401
+4	2019	LMEL	13	2569	14	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		5.68		31		1	E	5.68		31	7		2						
+4	2019	LMEL	13	2569	15	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.098		16		1	E	0.098		16	2		2						
+4	2019	LMEL	13	2569	16	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		8.68		56		1	E	8.68		56	7		2						
+4	2019	LMEL	13	2569	17	uerslekten	UERSLEKTEN	1	126175	Sebastes			10		1	1		0.004		1		1	E	0.004		1									
+4	2019	LMEL	13	2569	18	skater	SKATER	1	10216	Rajiformes			50		1	1				3														1	
+4	2019	LMEL	13	2569	19	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		10.78		1760															
+4	2019	LMEL	13	2569	20	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.0058		7		1	C	0.0058		7									
+4	2019	LMEL	13	2570	1	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1	1.55	1.198		8985		1	E	0.004		30									
+4	2019	LMEL	13	2570	3	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.55	0.007		23		1	E	0.003		10									
+4	2019	LMEL	13	2570	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.026		4		1	E	0.026		4									
+4	2019	LMEL	13	2570	5	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1	1.55	0.007		70		1	E	0.001		10									
+4	2019	LMEL	13	2570	6	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20	10	1	1	1.0	0.003		1		1	E	0.003		1	1								
+4	2019	LMEL	13	2570	7	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	180.53		142															
+4	2019	LMEL	13	2570	9	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	1.55	3.76		1376		1	E	0.082		30									
+4	2019	LMEL	13	2570	10	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.002																	
+4	2019	LMEL	13	2570	11	sild	SILD	1	126417	Clupea harengus			10	10	1	1	1.55	0.761		1142		1	E	0.02		30									
+4	2019	LMEL	13	2571	1	torsk	TORSK	1	126436	Gadus morhua			21		1	1		27.34		24		1	E	27.34		24	10		2						
+4	2019	LMEL	13	2571	2	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.169		45		1	E	0.112		30	2		2						
+4	2019	LMEL	13	2571	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		2.7		5		1	E	2.7		5	5		2						
+4	2019	LMEL	13	2571	4	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		18.5		240		1	E	3.08		40	4		2						
+4	2019	LMEL	13	2571	5	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.029		5		1	E	0.029		5	5								
+4	2019	LMEL	13	2571	6	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1		0.007		1		1	E	0.007		1	1								
+4	2019	LMEL	13	2571	7	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.076		4		1	E	0.076		4	4								
+4	2019	LMEL	13	2571	8	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.085		7		1	E	0.085		7	7								snottfisk 1
+4	2019	LMEL	13	2571	12	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		22.5		3629														1	
+4	2019	LMEL	13	2571	9	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		8.7		27															
+4	2019	LMEL	13	2571	10	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.007		10		1	C	0.007		10									
+4	2019	LMEL	13	2571	13	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.051		2															
+4	2019	LMEL	13	2571	14	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		7.296		47		1	E	4.648		30	30								
+4	2019	LMEL	13	2571	15	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.236		3		1	E	0.236		3	3								
+4	2019	LMEL	13	2571	16	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		3.19		4		1	E	3.19		4	4								
+4	2019	LMEL	13	2571	17	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.022		4		1	E	0.022		4	4								
+4	2019	LMEL	13	2571	18	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1		0.021		1		1	E	0.021		1	1								
+4	2019	LMEL	13	2571	19	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.577		13		1	E	0.577		13	13								
+4	2019	LMEL	13	2571	20	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		0.532		37		1	E	0.532		37	37	30	2		2				
+4	2019	LMEL	13	2572	1	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	24.89	5.351		40133		1	E	0.004		30									
+4	2019	LMEL	13	2572	2	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	24.89	3.385		1638		1	E	0.062		30									
+4	2019	LMEL	13	2572	3	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1	24.89	2.514		25		1	E	0.101		1	1								
+4	2019	LMEL	13	2572	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	13.45	0.135		16		1	E	0.067		8									
+4	2019	LMEL	13	2572	5	sild'G03	SILD'G03	2	126417	Clupea harengus			10	10	1	1	13.45	0.012		18		1	E	0.004		6									
+4	2019	LMEL	13	2572	6	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1	24.89	0.075		188		1	E	0.002		5									
+4	2019	LMEL	13	2572	7	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		281.0		256															
+4	2019	LMEL	13	2572	8	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	3.448		3		1	E	3.448		3	3								
+4	2019	LMEL	13	2572	9	maneter	MANETER	1	19494	Hydroidolina					1	1	24.89	38.828																	
+4	2019	LMEL	13	2573	1	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		0.683		43		1	E	0.683		43	43	0			2				
+4	2019	LMEL	13	2573	2	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		6.84		79		1	E	2.606		30	30	0							
+4	2019	LMEL	13	2573	3	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			10		1	1		0.008		11		1	E	0.008		11		0							
+4	2019	LMEL	13	2573	4	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.092		1		1	E	0.092		1	1	0							
+4	2019	LMEL	13	2573	5	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		2.911		5		1	E	2.911		5	5								
+4	2019	LMEL	13	2573	6	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			21		1	1		8.8		5		1	E	8.8		5	5		2						
+4	2019	LMEL	13	2573	7	torsk	TORSK	1	126436	Gadus morhua			21		1	1		2.895		17		1	E	2.895		17	6		2		2				
+4	2019	LMEL	13	2573	8	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.485		36		1	E	0.485		36	3		2		2				
+4	2019	LMEL	13	2573	9	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		1.384		2		1	E	1.384		2	2		2						
+4	2019	LMEL	13	2573	10	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.07		3		1	E	0.07		3	2		2						
+4	2019	LMEL	13	2573	11	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.027		3		1	E	0.027		3	3							1	
+4	2019	LMEL	13	2573	12	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.064		4		1	E	0.064		4	4								
+4	2019	LMEL	13	2573	13	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		4.64		76		1	E	3.06		50	4		2						
+4	2019	LMEL	13	2573	14	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.013		2		1	E	0.013		2	2							1	
+4	2019	LMEL	13	2573	15	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.019		5		1	E	0.019		5	5								
+4	2019	LMEL	13	2573	16	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		46.21		7701															
+4	2019	LMEL	13	2573	17	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.027		44		1	C	0.027		44									
+4	2019	LMEL	13	2574	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	4.0	212.0		392															
+4	2019	LMEL	13	2574	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	4.66		3		1	E	4.66		3	3								
+4	2019	LMEL	13	2574	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	4.0	0.036		4		1	E	0.009		1									
+4	2019	LMEL	13	2574	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	4.0	0.06		20		1	E	0.015		5									
+4	2019	LMEL	13	2574	5	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1	22.85	0.003		10		1	E	9.0E-4		3									
+4	2019	LMEL	13	2574	6	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	22.85	1.44		6377		1	E	0.007		31									
+4	2019	LMEL	13	2574	7	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			10	10	1	1	4.0	0.02		4		1	E	0.005		1									
+4	2019	LMEL	13	2574	8	snabeluer	SNABELUER	1	127254	Sebastes mentella			20		1	1	4.0	0.056		4		1	E	0.014		1	1								
+4	2019	LMEL	13	2574	9	øyepål	ØYEPÅL	2	126444	Trisopterus esmarkii			20		1	1	4.0	0.048		4		1	E	0.012		1	1								
+4	2019	LMEL	13	2574	10	tiskjegg	TISKJEGG	1	127191	Leptagonus decagonus			10	10	1	1	22.85	0.002		4		1	E	5.0E-4		1									
+4	2019	LMEL	13	2574	11	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	22.85	1.5176		21680		1	E	0.007		100									
+4	2019	LMEL	13	2575	1	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		4.24		316		1	E	1.343		100	100	24	2						
+4	2019	LMEL	13	2575	3	torsk	TORSK	1	126436	Gadus morhua			21		1	1		17.88		34		1	E	15.86		30	9		2						
+4	2019	LMEL	13	2575	4	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		0.37		9		1	E	0.37		9	3		2						
+4	2019	LMEL	13	2575	5	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1		0.49		1		1	E	0.49		1	1		2						
+4	2019	LMEL	13	2575	6	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		4.428		29		1	E	4.428		29	6		2						
+4	2019	LMEL	13	2575	7	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		12.68		88		1	E	4.316		30	30								
+4	2019	LMEL	13	2575	8	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			20		1	1		1.369		4		1	E	1.369		4	4								
+4	2019	LMEL	13	2575	9	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.069		1		1	E	0.069		1	1								
+4	2019	LMEL	13	2575	10	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.0977		27		1	E	0.0977		27	27								
+4	2019	LMEL	13	2575	11	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.089		10		1	E	0.089		10	10								
+4	2019	LMEL	13	2575	12	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.442		17		1	E	0.442		17	17								
+4	2019	LMEL	13	2575	13	brosme	BROSME	1	126447	Brosme brosme			20		1	1		0.005		1		1	E	0.005		1	1								
+4	2019	LMEL	13	2575	14	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.015		1		1	E	0.015		1	1								
+4	2019	LMEL	13	2575	15	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		1.07		176														1	
+4	2019	LMEL	13	2575	16	skater	SKATER	1	10216	Rajiformes			50		1	1		0.03		3														1	
+4	2019	LMEL	13	2576	1	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1		1.465		7569		1	E	0.006		31									
+4	2019	LMEL	13	2576	2	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1		0.0346		115		1	E	0.003		10									
+4	2019	LMEL	13	2576	3	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		2.375		758		1	E	0.094		30									
+4	2019	LMEL	13	2576	4	torsk	TORSK	2	126436	Gadus morhua			20		1	1		0.3404		9		1	E	0.04		1	1								
+4	2019	LMEL	13	2576	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		3.08		255		1	E	0.362		30									
+4	2019	LMEL	13	2576	6	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		458.662		328															
+4	2019	LMEL	13	2576	7	krill	KRILL	1	1128	Euphausiacea			91		1	1		1.584		31997			E	0.005		101									
+4	2019	LMEL	13	2577	1	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		1.935		127		1	E	1.528		100	100	0	2						
+4	2019	LMEL	13	2577	2	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.036		2		1	E	0.036		2	2	0							
+4	2019	LMEL	13	2577	3	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.078		2		1	E	0.078		2	2	0							
+4	2019	LMEL	13	2577	4	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.042		3		1	E	0.042		3	3	0						1	
+4	2019	LMEL	13	2577	5	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.037		9		1	E	0.037		9	9	0							
+4	2019	LMEL	13	2577	6	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		1.321		27		1	E	1.321		27	27	0							
+4	2019	LMEL	13	2577	7	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20		1	1		25.275		2		1	E	25.275		2	2								
+4	2019	LMEL	13	2577	8	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		2.203		3		1	E	2.203		3	3								
+4	2019	LMEL	13	2577	9	torsk	TORSK	1	126436	Gadus morhua			21		1	1		30.238		30		1	E	30.238		30	8	2	2						
+4	2019	LMEL	13	2577	10	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.81		76		1	E	0.81		76	3	2	2						
+4	2019	LMEL	13	2577	11	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		1.6		16		1	E	1.6		16	3	2							
+4	2019	LMEL	13	2577	12	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.15		15		1	E	0.15		15	2	2							
+4	2019	LMEL	13	2577	13	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			20		1	1		4.313		2		1	E	4.313		2	2	2							Genetikk
+4	2019	LMEL	13	2577	14	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		35.18		553		1	E	6.36		100	5	2							
+4	2019	LMEL	13	2577	15	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		12.74		150		1	E	2.548		30	30								
+4	2019	LMEL	13	2577	16	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			10		1	1		0.007		10		1	E	0.007		10									
+4	2019	LMEL	13	2577	17	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.0033		3				0.0033		3									
+4	2019	LMEL	13	2577	18	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		18.1		3175															
+4	2019	LMEL	13	2578	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	1.795		1		1	E	1.795		1	1								
+4	2019	LMEL	13	2578	2	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	22.41	2.87		10763		1	E	0.008		30									
+4	2019	LMEL	13	2578	3	sild	SILD	1	126417	Clupea harengus			10	10	1	1	22.41	3.018		3018		1	E	0.03		30									
+4	2019	LMEL	13	2578	4	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	22.41	6.2		10941		1	E	0.017		30									
+4	2019	LMEL	13	2578	5	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1	22.41	0.139		741		1	E	0.003		16									
+4	2019	LMEL	13	2578	6	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	2.3	0.35		148		1	E	0.071		30									
+4	2019	LMEL	13	2578	7	havsil	HAVSIL	1	126751	Ammodytes marinus			10	10	1	1	1.0	0.001		1		1	E	0.001		1									
+4	2019	LMEL	13	2578	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	2.3	0.691		101		1	E	0.206		30									
+4	2019	LMEL	13	2578	9	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	46.69		42															
+4	2019	LMEL	13	2578	10	maneter	MANETER	1	19494	Hydroidolina			90		1	1	22.41	10.565																	
+4	2019	LMEL	13	2578	11	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.0026																	osparkode:32
+4	2019	LMEL	13	2578	12	fremmedlegeme	FREMMEDLEGEME	1					68		1	1		8.0E-4																	osparkode:46
+4	2019	LMEL	13	2579	1	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		4.42		34		1	E	3.874		30	30	0							
+4	2019	LMEL	13	2579	2	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.097		8		1	E	0.097		8	8	0							
+4	2019	LMEL	13	2579	3	sild'G03	SILD'G03	1	126417	Clupea harengus			20		1	1		0.724		6		1	E	0.724		6	6	0							
+4	2019	LMEL	13	2579	4	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.013		1		1	E	0.013		1	1	0							
+4	2019	LMEL	13	2579	5	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.029		1		1	E	0.029		1	1	0							
+4	2019	LMEL	13	2579	6	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.005		1		1	E	0.005		1	1	0							
+4	2019	LMEL	13	2579	7	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		3.34		94		1	E	1.069		30	30	0							
+4	2019	LMEL	13	2579	8	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.004		1		1	E	0.004		1	1	0							
+4	2019	LMEL	13	2579	9	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		0.7		128														1	
+4	2019	LMEL	13	2579	10	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		8.64		16															
+4	2019	LMEL	13	2579	11	torsk	TORSK	1	126436	Gadus morhua			21		1	1		172.32		68		1	E	172.32		68	16		2						
+4	2019	LMEL	13	2579	12	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.63		54		1	E	0.35		30	4		2						
+4	2019	LMEL	13	2579	13	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			21		1	1		4.12		1		1	E	4.12		1	1		2						
+4	2019	LMEL	13	2579	14	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		27.75		83		1	E	10.0		30	9		2						
+4	2019	LMEL	13	2579	15	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		9.17		21		1	E	9.17		21	7		2						
+4	2019	LMEL	13	2579	16	skater	SKATER	1	10216	Rajiformes			51		1	1		0.013		1															
+4	2019	LMEL	13	2580	1	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1		0.497		2485		1	E	0.006		30		0							
+4	2019	LMEL	13	2580	2	sild	SILD	1	126417	Clupea harengus			10	10	1	1		0.024		27		1	E	0.009		10		0							
+4	2019	LMEL	13	2580	3	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1		0.036		108		1	E	0.01		30		0							
+4	2019	LMEL	13	2580	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1		1.65		825		1	E	0.06		30		0							
+4	2019	LMEL	13	2580	5	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1		2.55		324		1	E	0.236		30		0							
+4	2019	LMEL	13	2580	6	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1		5.0E-4		1		1	E	5.0E-4		1		0							
+4	2019	LMEL	13	2580	7	firetrådet tangbrosme	FIRETRÅDET TANGBROSME	1	126450	Enchelyopus cimbrius			10	10	1	1		0.001		1		1	E	0.001		1		0							
+4	2019	LMEL	13	2580	8	havsil	HAVSIL	1	126751	Ammodytes marinus			20	10	1	1		0.001		1		1	E	0.001		1	1								
+4	2019	LMEL	13	2580	9	brennmanet	BRENNMANET	1	135301	Cyanea capillata					1	1		106.69		34															
+4	2019	LMEL	13	2580	10	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		0.096		2		1	E	0.096		2	2								
+4	2019	LMEL	13	2581	1	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1	1.0	3.804		19		1	E	3.804		19	19								
+4	2019	LMEL	13	2581	2	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			10	10	1	1	1.0	0.011		19		1	E	0.011		19									
+4	2019	LMEL	13	2581	3	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1	1.0	2.745		2		1	E	2.745		2	2								
+4	2019	LMEL	13	2581	4	rundskate	RUNDSKATE	1	105894	Rajella fyllae			20		1	1	1.0	0.008		1		1	E	0.008		1	1								
+4	2019	LMEL	13	2581	5	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1	1.0	0.028		1		1	E	0.028		1	1								
+4	2019	LMEL	13	2581	6	liten laksetobis	LITEN LAKSETOBIS	1	126352	Arctozenus risso			20		1	1	1.0	0.016		1		1	J	0.016		1	1								
+4	2019	LMEL	13	2581	7	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1	1.0	0.07		3		1	E	0.07		3	3								
+4	2019	LMEL	13	2581	8	vassild	VASSILD	1	126715	Argentina silus			20		1	1	1.0	0.005		1		1	E	0.005		1	1								
+4	2019	LMEL	13	2581	9	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20	10	1	1	1.0	0.004		1		1	E	0.004		1	1								
+4	2019	LMEL	13	2581	10	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			20		1	1	1.0	0.002		1		1	J	0.002		1	1								
+4	2019	LMEL	13	2581	11	torsk	TORSK	1	126436	Gadus morhua			21		1	1	1.0	34.251		26		1	E	34.251		26	14		2		2				
+4	2019	LMEL	13	2581	12	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	7.9		28		1	E	7.9		28	7		2						
+4	2019	LMEL	13	2581	13	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.115		5		1	E	0.115		5	3		2						
+4	2019	LMEL	13	2581	14	torsk	TORSK	2	126436	Gadus morhua			21		1	1	1.0	0.331		72		1	E	0.331		72	3		2		2				
+4	2019	LMEL	13	2581	15	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1	1.0	41.5		144		1	E	28.86		100	8		2						
+4	2019	LMEL	13	2581	16	vanlig uer	VANLIG UER	1	151324	Sebastes norvegicus			21		1	1	1.0	2.37		1		1	E	2.37		1	1		2						
+4	2019	LMEL	13	2581	17	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	1.0	0.009		2		1	E	0.009		2									
+4	2019	LMEL	13	2581	18	skater	SKATER	1	10216	Rajiformes			50		1	1	1.0			7														1	
+4	2019	LMEL	13	2581	19	skater	SKATER	1	10216	Rajiformes			51		1	1	1.0			1														1	
+4	2019	LMEL	13	2581	20	fremmedlegeme	FREMMEDLEGEME	1					65		1	1	1.0	0.003																	
+4	2019	LMEL	13	2581	21	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1	1.0	0.01		19			C	0.01		19									
+4	2019	LMEL	13	2581	22	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1	1.0	33.5		5982														1	
+4	2019	LMEL	13	2582	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	60.7		32															
+4	2019	LMEL	13	2582	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	2.364		3		1	E	2.364		3	3								
+4	2019	LMEL	13	2582	3	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			10	10	1	1	3.667	0.0202		4		1	E	0.005		1									
+4	2019	LMEL	13	2582	4	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	3.667	6.619		33095		1	E	0.006		30									
+4	2019	LMEL	13	2582	5	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	3.667	0.06967		119		1	E	0.017		29									
+4	2019	LMEL	13	2582	6	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	3.667	0.1888		74		1	E	0.077		30									
+4	2019	LMEL	13	2582	7	sild'G03	SILD'G03	1	126417	Clupea harengus			10	10	1	1	3.667	0.013		35		1	E	0.003		8									
+4	2019	LMEL	13	2582	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.236		34		1	E	0.206		30									
+4	2019	LMEL	13	2582	9	fremmedlegeme	FREMMEDLEGEME	1					68		1	1	1.0	5.0E-4																	ospar: 46
+4	2019	LMEL	13	2582	10	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	3.667	0.0385		176			E	0.0105		48									
+4	2019	LMEL	13	2582	11	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	3.667	0.00183		37			E	5.0E-4		10									
+4	2019	LMEL	13	2583	1	gråskate	GRÅSKATE	1	105868	Bathyraja spinicauda			20		1	1		10.96		1		1	E	10.96		1	1	0							
+4	2019	LMEL	13	2583	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1		2.116		1		1	E	2.116		1	1	0							
+4	2019	LMEL	13	2583	3	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		10.697		8		1	E	10.697		8	8	0							
+4	2019	LMEL	13	2583	4	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		5.018		25		1	E	5.018		25	25	0							
+4	2019	LMEL	13	2583	5	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.125		2		1	E	0.125		2	2	0							
+4	2019	LMEL	13	2583	6	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.003		1		1	E	0.003		1	1	0							
+4	2019	LMEL	13	2583	7	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20		1	1		0.012		1		1	E	0.012		1	1	0							
+4	2019	LMEL	13	2583	8	lysprikkfiskfamilien	LYSPRIKKFISKFAMILIEN	1	125498	Myctophidae			20		1	1		0.007		3		1	J	0.007		3	3	0							
+4	2019	LMEL	13	2583	9	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.169		9		1	E	0.169		9	9	0							
+4	2019	LMEL	13	2583	15	torsk	TORSK	1	126436	Gadus morhua			21		1	1		5.94		40		1	E	5.94		40	6								
+4	2019	LMEL	13	2583	17	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.206		31		1	E	0.206		31	1								
+4	2019	LMEL	13	2583	18	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		105.0		317		1	E	9.95		30	7								
+4	2019	LMEL	13	2583	19	torsk	TORSK	2	126436	Gadus morhua			10		1	1		0.176		29		1	E	0.176		29									
+4	2019	LMEL	13	2583	20	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		9.13		1690														1	
+4	2019	LMEL	13	2583	21	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.0088		1															osparkode:32
+4	2019	LMEL	13	2583	22	skater	SKATER	1	10216	Rajiformes			51		1	1				1														1	
+4	2019	LMEL	13	2583	23	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			92		1	1		0.003		7		1	C	0.003		7	7								
+4	2019	LMEL	13	2584	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	3.15		4		1	E	3.15		4	4								
+4	2019	LMEL	13	2584	2	loddefamilien	LODDEFAMILIEN	1	125513	Osmeridae			10	10	1	1	3.7	2.836		17016		1	E	0.005		30									
+4	2019	LMEL	13	2584	3	sild	SILD	1	126417	Clupea harengus			10	10	1	1	5.19	2.356		1910		1	E	0.037		30									
+4	2019	LMEL	13	2584	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	5.19	1.686		829		1	E	0.061		30									
+4	2019	LMEL	13	2584	5	gråsteinbit	GRÅSTEINBIT	1	126758	Anarhichas lupus			10	10	1	1	1.0	0.003		1		1	E	0.003		1									
+4	2019	LMEL	13	2584	6	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	5.0E-4		1		1	E	5.0E-4		1									
+4	2019	LMEL	13	2584	7	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10	10	1	1	1.0	3.0E-4		1		1	E	3.0E-4		1									
+4	2019	LMEL	13	2584	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	5.19	0.655		92		1	E	0.214		30									
+4	2019	LMEL	13	2584	9	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	5.19	0.025		64		1	E	0.007		18									
+4	2019	LMEL	13	2584	10	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	83.235		86															
+4	2019	LMEL	13	2585	1	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		6.938		43		1	E	4.842		30	30	0							
+4	2019	LMEL	13	2585	2	gapeflyndre	GAPEFLYNDRE	2	127137	Hippoglossoides platessoides			10	10	1	1		0.031		40		1	E	0.023		30		0							
+4	2019	LMEL	13	2585	3	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		5.988		6		1	E	5.988		6	6	0							
+4	2019	LMEL	13	2585	4	torsk	TORSK	1	126436	Gadus morhua			21		1	1		18.6		16		1	E	18.6		16	9		2		2				
+4	2019	LMEL	13	2585	5	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		36.08		92		1	E	19.58		50	7		2						
+4	2019	LMEL	13	2585	6	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			21		1	1		9.96		9		1	E	9.96		9	9		2						
+4	2019	LMEL	13	2585	7	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.152		22		1	E	0.152		22	3		2		2				
+4	2019	LMEL	13	2585	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.082		2		1	E	0.082		2	2		2						
+4	2019	LMEL	13	2585	9	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20		1	1		2.58		1		1	E	2.58		1	1								
+4	2019	LMEL	13	2585	10	perifylla	PERIFYLLA	1	135252	Periphylla			90		1	1		0.248		1															
+4	2019	LMEL	13	2585	11	brennmanet	BRENNMANET	2	135301	Cyanea capillata			90		1	1		0.087		2															
+4	2019	LMEL	13	2585	12	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.073		5		1	E	0.073		5	5								
+4	2019	LMEL	13	2585	13	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.041		4		1	E	0.041		4	4								
+4	2019	LMEL	13	2585	14	uerslekten	UERSLEKTEN	1	126175	Sebastes			10		1	1		0.004		1		1	E	0.004		1									
+4	2019	LMEL	13	2585	15	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.026		4		1	E	0.026		4	4								
+4	2019	LMEL	13	2585	16	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.03		2		1	E	0.03		2	2								
+4	2019	LMEL	13	2585	17	liten laksetobis	LITEN LAKSETOBIS	1	126352	Arctozenus risso			20		1	1		0.016		1		1	J	0.016		1	1								
+4	2019	LMEL	13	2585	18	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.007		1		1	E	0.007		1	1								
+4	2019	LMEL	13	2585	19	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.025																	
+4	2019	LMEL	13	2585	20	skater	SKATER	1	10216	Rajiformes			50		1	1				3															
+4	2019	LMEL	13	2585	21	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		23.496		4241														1	
+4	2019	LMEL	13	2585	22	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.015		28			C	0.015		28									
+4	2019	LMEL	13	2586	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	0.896		2		1	E	0.896		2	2								
+4	2019	LMEL	13	2586	2	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	23.04	0.85		4250		1	E	0.006		30									
+4	2019	LMEL	13	2586	3	uerslekten	UERSLEKTEN	1	126175	Sebastes			10	10	1	1	23.04	0.718		1539		1	E	0.014		30									
+4	2019	LMEL	13	2586	4	sild'G03	SILD'G03	1	126417	Clupea harengus			10	10	1	1	23.04	0.924		616		1	E	0.045		30									
+4	2019	LMEL	13	2586	5	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	23.04	0.992		386		1	E	0.077		30									
+4	2019	LMEL	13	2586	6	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	23.04	0.302		34		1	E	0.265		30									
+4	2019	LMEL	13	2586	7	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	154.991		85															
+4	2019	LMEL	13	2587	14	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			20		1	1		1.81		1		1	E	1.81		1	1								
+4	2019	LMEL	13	2587	12	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20		1	1		17.785		2		1	E	17.785		2	2								
+4	2019	LMEL	13	2587	22	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1		8.0		4															
+4	2019	LMEL	13	2587	21	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		25.89		4875															
+4	2019	LMEL	13	2587	23	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.0135		29			C	0.0135		29									
+4	2019	LMEL	13	2587	19	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.0113																	OSPAR: 32
+4	2019	LMEL	13	2587	20	fremmedlegeme	FREMMEDLEGEME	1					68		1	1		0.008																	OSPAR: 32
+4	2019	LMEL	13	2587	16	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		5.38		23		1	E	5.38		23	6								
+4	2019	LMEL	13	2587	17	hyse	HYSE	2	126437	Melanogrammus aeglefinus			21		1	1		0.111		14		1	E	0.111		14	2								
+4	2019	LMEL	13	2587	11	skater	SKATER	1	10216	Rajiformes			50		1	1				1														1	
+4	2019	LMEL	13	2587	15	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		26.4		111		1	E	8.36		35	7								
+4	2019	LMEL	13	2587	13	torsk	TORSK	1	126436	Gadus morhua			21		1	1		9.66		18		1	E	9.66		18	7								
+4	2019	LMEL	13	2587	18	torsk	TORSK	2	126436	Gadus morhua			21		1	1		0.78		68		1	E	0.346		30	3								
+4	2019	LMEL	13	2587	24	snøkrabbe	SNØKRABBE	1	107315	Chionoecetes opilio			92		1	1		0.002		1		1	L	0.002		1	1							1	
+4	2019	LMEL	13	2587	5	flekksteinbit	FLEKKSTEINBIT	1	126759	Anarhichas minor			20		1	1		0.014		1		1	E	0.014		1	1								
+4	2019	LMEL	13	2587	1	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		6.828		53		1	E	3.885		30	30								
+4	2019	LMEL	13	2587	10	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.528		1		1	E	0.528		1	1								
+4	2019	LMEL	13	2587	6	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.005		1		1	E	0.005		1	1								
+4	2019	LMEL	13	2587	8	lodde	LODDE	1	126735	Mallotus villosus			20		1	1		0.088		5		1	E	0.088		5	5								
+4	2019	LMEL	13	2587	4	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.146		5		1	E	0.146		5	5								
+4	2019	LMEL	13	2587	7	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.029		3		1	E	0.029		3	3								
+4	2019	LMEL	13	2587	2	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.022		2		1	E	0.022		2	2								
+4	2019	LMEL	13	2587	3	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.147		8		1	E	0.147		8	8								
+4	2019	LMEL	13	2587	9	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			20		1	1		0.092		3		1	E	0.092		3	3								
+4	2019	LMEL	13	2588	1	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	2.015		2		1	E	2.015		2	2								
+4	2019	LMEL	13	2588	3	hyse	HYSE	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.201		17		1	E	0.201		17									
+4	2019	LMEL	13	2588	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	16.23	1.031		288		1	E	0.129		36									
+4	2019	LMEL	13	2588	5	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	17.987	8.457		63428		1	E	0.004		30									0_GR
+4	2019	LMEL	13	2588	6	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	1.0	167.72		164															
+4	2019	LMEL	13	2588	7	lodde	LODDE	2	126735	Mallotus villosus			23		1	1	16.23	3.891		1006		1	E	0.116		30	30								
+4	2019	LMEL	13	2588	8	tiskjegg	TISKJEGG	1	127191	Leptagonus decagonus			20	10	1	1	1.0	0.001		1		1	E	0.001		1	1								
+4	2019	LMEL	13	2588	9	maneter	MANETER	1	19494	Hydroidolina			90		1	1	17.987	14.76																	
+4	2019	LMEL	13	2589	1	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		9.18		93		1	E	2.96		30	24								
+4	2019	LMEL	13	2589	2	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.296		4		1	E	0.296		4	4								
+4	2019	LMEL	13	2589	3	torsk	TORSK	1	126436	Gadus morhua			21		1	1		9.52		40		1	E	9.52		40	5								
+4	2019	LMEL	13	2589	4	torsk	TORSK	2	126436	Gadus morhua			21		1	1		1.28		34		1	E	1.28		34	2								
+4	2019	LMEL	13	2589	5	torsk	TORSK	3	126436	Gadus morhua			21		1	1		0.422		35		1	E	0.422		35	2								
+4	2019	LMEL	13	2589	6	flekksteinbit	FLEKKSTEINBIT	1	126759	Anarhichas minor			20		1	1		0.128		1		1	E	0.128		1	1								
+4	2019	LMEL	13	2589	7	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		2.001		36		1	E	2.001		36	4								
+4	2019	LMEL	13	2589	8	vanlig ålebrosme	VANLIG ÅLEBROSME	1	274100	Lycodes gracilis			20		1	1		0.46		8		1	E	0.46		8	8								
+4	2019	LMEL	13	2589	9	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.127		18		1	E	0.127		18	18								
+4	2019	LMEL	13	2589	10	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.014		3		1	E	0.014		3	3								
+4	2019	LMEL	13	2589	11	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.215		6		1	E	0.215		6	6								
+4	2019	LMEL	13	2589	12	kloskate	KLOSKATE	1	105865	Amblyraja radiata			20		1	1		0.022		1		1	E	0.022		1	1								
+4	2019	LMEL	13	2589	13	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		17.7		3238														1	
+4	2019	LMEL	13	2589	14	skater	SKATER	1	10216	Rajiformes			50		1	1				2														1	
+4	2019	LMEL	13	2589	15	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		3.0		173		1	E	1.732		100	100	24	2						
+4	2019	LMEL	13	2589	16	fremmedlegeme	FREMMEDLEGEME	1					68		1	1		0.0254		1															OSPARKODE:46
+4	2019	LMEL	13	2589	17	fremmedlegeme	FREMMEDLEGEME	1					65		1	1		0.0057		1															OSPARKODE:32
+4	2019	LMEL	13	2589	18	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		0.0036		7			C	0.0036		7									
+4	2019	LMEL	13	2590	1	brennmanet	BRENNMANET	1	135301	Cyanea capillata			90		1	1	8.0	272.0		576															
+4	2019	LMEL	13	2590	2	rognkjeks	ROGNKJEKS	1	127214	Cyclopterus lumpus			20		1	1	1.0	1.895		3		1	E	1.895		3	3								
+4	2019	LMEL	13	2590	3	lodde	LODDE	1	126735	Mallotus villosus			10	10	1	1	16.22	0.389		1410		1	E	0.008		29									
+4	2019	LMEL	13	2590	4	torsk	TORSK	1	126436	Gadus morhua			10	10	1	1	8.0	0.536		120		1	E	0.067		15									
+4	2019	LMEL	13	2590	5	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			10	10	1	1	8.0	0.072		32		1	E	0.009		4									
+4	2019	LMEL	13	2590	6	laksesild	LAKSESILD	1	127312	Maurolicus muelleri			10		1	1	8.0	0.024		16		1	J	0.003		2									
+4	2019	LMEL	13	2590	8	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		2.314		467		1	E	0.495		100	100	24	2						
+4	2019	LMEL	13	2590	9	Thysanoessa inermis	THYSANOESSA INERMIS	1	110708	Thysanoessa inermis			91		1	1	16.22	0.02433		324			E	0.0015		20									
+4	2019	LMEL	13	2590	10	Meganyctiphanes	MEGANYCTIPHANES	1	110674	Meganyctiphanes			91		1	1	16.22	0.12976		389				0.001		3									
+4	2019	LMEL	13	2591	1	blåsteinbit	BLÅSTEINBIT	1	126757	Anarhichas denticulatus			20		1	1		21.055		2		1	E	21.055		2	2								
+4	2019	LMEL	13	2591	2	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			20		1	1		8.3		62		1	E	4.024		30	30								
+4	2019	LMEL	13	2591	3	torsk	TORSK	1	126436	Gadus morhua			21		1	1		14.36		20		1	E	14.36		20	7		2						
+4	2019	LMEL	13	2591	4	snottfisk	SNOTTFISK	1	126156	Careproctus			20		1	1		0.133		4		1	E	0.133		4	4								
+4	2019	LMEL	13	2591	5	nettålebrosme	NETTÅLEBROSME	1	127112	Lycodes reticulatus			20		1	1		0.062		2		1	E	0.062		2	2								
+4	2019	LMEL	13	2591	6	blåkveite	BLÅKVEITE	1	127144	Reinhardtius hippoglossoides			21		1	1		0.54		1		1	E	0.54		1	1		2						
+4	2019	LMEL	13	2591	7	snabeluer	SNABELUER	1	127254	Sebastes mentella			21		1	1		0.183		4		1	E	0.183		4	2								
+4	2019	LMEL	13	2591	8	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1		0.016		1		1	E	0.016		1	1								
+4	2019	LMEL	13	2591	9	krokulke	KROKULKE	1	127193	Artediellus atlanticus			20		1	1		0.17		56		1	E	0.091		30	17								
+4	2019	LMEL	13	2591	10	paddeulke	PADDEULKE	1	127235	Cottunculus microps			20		1	1		0.04		2		1	E	0.04		2	2								
+4	2019	LMEL	13	2591	11	tverrhalet langebarn	TVERRHALET LANGEBARN	1	127072	Leptoclinus maculatus			20		1	1		0.035		5		1	E	0.035		5	5								
+4	2019	LMEL	13	2591	12	langhalet langebarn	LANGHALET LANGEBARN	1	154675	Lumpenus lampretaeformis			20		1	1		0.021		1		1	E	0.021		1	1								
+4	2019	LMEL	13	2591	13	tiskjegg	TISKJEGG	1	127191	Leptagonus decagonus			20		1	1		0.774		51		1	E	0.451		30	30								
+4	2019	LMEL	13	2591	14	lodde	LODDE	1	126735	Mallotus villosus			23		1	1		11.4		770		1	E	1.48		100	100	24	2						
+4	2019	LMEL	13	2591	15	dypvannsreke	DYPVANNSREKE	1	107649	Pandalus borealis			90		1	1		9.4		1324														1	
+4	2019	LMEL	13	2591	16	skater	SKATER	1	10216	Rajiformes			50		1	1				3														1	
+4	2019	LMEL	13	2591	17	skater	SKATER	1	10216	Rajiformes			51		1	1				1														1	
+4	2019	LMEL	13	2591	18	snøkrabbe	SNØKRABBE	1	107315	Chionoecetes opilio			90		1	1		0.64		20															
+4	2019	LMEL	13	2591	19	dypvannsreke	DYPVANNSREKE	4	107649	Pandalus borealis			91		1	1		3.0E-4		2		1	C	3.0E-4		2								3	
+4	2019	LMEL	13	2591	20	fremmedlegeme	FREMMEDLEGEME	1					68		1	1				1															osparkode:46

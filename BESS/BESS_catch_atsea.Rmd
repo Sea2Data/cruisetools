@@ -1,0 +1,170 @@
+---
+title: "Barents Sea Ecosystem Survey - catch at sea"
+output: html_notebook
+---
+
+# At sea analysis of catch data from the Barents Sea Ecosystem survey 2019
+Developed during leg 1 on board R/V G.O Sars 13.08 - 28.08
+
+### Libraries and dependencies
+```{r libraries}
+library("ggplot2")
+library("RColorBrewer")
+library("maps")
+library("mapdata")
+library("reshape2")
+library("dplyr")
+library("tidyr")
+
+#' SETTING SYSTEM TO NORWEGIAN
+Sys.setlocale("LC_CTYPE", "no_NO")
+```
+
+### Loading data and manipulate data
+This assumes all data have been copied to a ./data catalogue where this script resides
+```{r load catch data}
+
+samples <- read.delim("./data/catchsample.txt", fileEncoding = "latin1", fill=TRUE)
+
+individual <- read.delim("./data/individual.txt", fileEncoding = "latin1", fill=TRUE)
+station <- read.delim("./data/fishstation.txt", fileEncoding = "latin1", fill=TRUE)
+
+#' add serialno + sampleid column to be able to match samples and individuals
+samples$ser.samp <- samples$f.serialnumber*100+samples$catchsampleid
+individual$ser.samp <- individual$f.serialnumber*100+individual$c.catchsampleid
+
+individual$c.species <-samples$catchcategory[match(individual$ser.samp, samples$ser.samp)]
+
+#' add georef data to individual & sample tables
+individual$lat <- station$latitudestart[match(individual$f.serialnumber, station$serialnumber)]
+individual$lon <- station$longitudestart[match(individual$f.serialnumber, station$serialnumber)]
+
+samples$lat <- station$latitudestart[match(samples$f.serialnumber, station$serialnumber)]
+samples$lon <- station$longitudestart[match(samples$f.serialnumber, station$serialnumber)]
+```
+
+#### Log data
+```{r log data}
+#' IMPORT LOG FILES
+logg.list <- list.files("./data/log/ACTIVITY")
+logg.station<-data.frame(lat=double(), lon=double(), stcode=integer())
+
+for (i in 1: length(logg.list)){
+  ld <- read.table(paste("./data/log/ACTIVITY/",logg.list[i], sep=""), sep=",", fill=TRUE)
+  ld$lat <- as.numeric(substr(ld$V13, 1,2)) + as.numeric(substr(ld$V13, 3,11))/60
+  ld$lon <- as.numeric(substr(ld$V14, 1,3)) + as.numeric(substr(ld$V14, 4,12))/60 * ifelse(substr(ld$V14,14,14)=="E", 1, -1)
+  logg.station <- rbind(logg.station, cbind(ld$lat, ld$lon, ld$V5))
+}
+colnames(logg.station) <- c("lat", "lon", "stcode")
+
+logg.station <- na.omit(logg.station)
+
+st.types <- data.frame(stcode=c(0, 900, 1100, 1101, 1300, 1301, 1500, 1501, 1600, 1601, 2500, 2501, 2700), sttype=c("other", "course change", "CTD start", "CTD stop", "planktonnet start", "planktonnet stop", "pelagic trawl start", "pelagic trawl stop", "bottom trawl start", "bottom trawl stop", "multinet start", "multinet stop", "unkown code"))
+logg.station$sttype <- st.types$sttype[match(logg.station$stcode, st.types$stcode)]
+
+#' import track files
+track.files <- list.files("./data/log/TRACK")
+track <- data.frame(lat=double(), lon=double())
+
+for (i in 1: length(track.files)){
+  ld <- read.table(paste("./data/log/TRACK/",track.files[i], sep=""), sep=",", fill=TRUE)
+  ld$lat <- as.numeric(substr(ld$V13, 1,2)) + as.numeric(substr(ld$V13, 3,11))/60
+  ld$lon <- as.numeric(substr(ld$V14, 1,3)) + as.numeric(substr(ld$V14, 4,12))/60 * ifelse(substr(ld$V14,14,14)=="E", 1, -1)
+  track <- rbind(track, cbind(ld$lat, ld$lon))
+}
+colnames(track) <- c("lat", "lon")
+```
+
+
+## Data analysis and plotting
+
+
+
+
+### Length-weight plots pr species
+```{r LW plots}
+
+individual.cm<-subset(individual, lengthresolution>=2 &  individualweight!="NA")
+
+n_min <- individual.cm %>% group_by(c.species)  %>% summarise(sum(individualproducttype))
+sp50 <- subset(n_min, `sum(individualproducttype)`>50)[,1]
+
+ind.50 <- individual.cm %>% filter(c.species %in% sp50$c.species)
+
+LWplot<-ggplot(ind.50, aes(x=length*100, y=individualweight, group=c.species)) +geom_point(size=2, shape="+", aes(colour=c.species)) + guides(colour=FALSE) + facet_wrap(~c.species, scales="free") + theme_grey() + labs(x="Lengde (cm)", y="Vekt (kg)")
+
+LWplot
+
+ggsave("./analyses/L_W_plots/LW_plot_BESS19.png")
+```
+
+### Length histograms
+```{r length histograms}
+art<-c("TORSK","HYSE", "LODDE", "ØYEPÅL", "SILD'G03", "SEI", "SNABELUER", "VANLIG UER", "VASSILD")
+ii <-subset(individual, lengthresolution>=2)
+ii$c.species <- factor(ii$c.species)
+iii <- subset(ii, subset = c.species %in% art)
+iii$c.species <- factor(iii$c.species)
+
+l1 <- ggplot(data=ii, aes(x=length*100)) + geom_histogram(breaks=seq(0, 75, by=2), col="steelblue", fill="green", alpha = .2)  + labs(title="Histogram of length", x="Length", y="Count") + facet_wrap(~c.species, scales="free")
+
+l1
+
+ggsave("./analyses//length_hist/histogram_length_all_facets.png", width=12, height=9)
+```
+
+### Plotting catches on maps
+```{r map catches}
+bs<- map_data("worldHires", c("Norway", "Sweden", "Finland", "USSR")) 
+
+toktmap<-ggplot(bs, aes(x=long, y=lat, group=group)) +  geom_polygon(colour="gray35", fill="gray85")  + coord_quickmap(xlim = c(15, 36), ylim=c(69, 74)) + theme_bw()
+
+art<-c("TORSK","HYSE", "LODDE", "ØYEPÅL", "SILD'G03", "SEI", "SNABELUER", "VANLIG UER", "VASSILD")
+for (i in 1:length(art)){ 
+  toktmap + geom_point(data=subset(samples, catchcategory==art[i]) , colour= "lightskyblue3", aes(x=lon, y=lat, group=catchweight, size=catchweight)) + scale_size(name="Fangst (kg)", range=c(1,15), breaks=c(0,1, 5,10,50,100,200, 1000)) + ggtitle(art[i])
+  ggsave(paste("./analyses/catchmap/catchmap_", art[i],".png", sep=""))
+}
+
+```
+
+### Plotting total catches
+```{r map total catch}
+samples.tbl<-tbl_df(samples)
+samples.station<-group_by(samples.tbl, f.serialnumber)
+tot.catch.station<-summarise(samples.station, catch.weight.kg=sum(catchweight), lat=max(lat), lon=max(lon))
+
+p <- ggplot(tot.catch.station, aes(lon, lat))
+p  +  geom_polygon(data =bs, colour="gray35", fill="gray85", aes(x=long, y=lat, group=group)) +  coord_quickmap(xlim = c(15, 36), ylim=c(69, 74)) + theme_bw() + geom_point(colour="slateblue", aes(size=catch.weight.kg))   + scale_size(name="Fangst (kg)", range=c(1,6), breaks=c(0,10, 20, 50,100,150, 200,250,300, 400, 500)) + ggtitle("Total fangst pr stasjon")
+                                                                                                                
+ggsave("./analyses/catchmap/total_catch.png")
+```
+
+
+### Some simple statistics
+```{r simple stats}
+#' sum catch weight
+sum(samples$catchweight, na.rm=TRUE)
+
+#' sum catch numbers
+sum(samples$catchcount, na.rm=TRUE)
+
+#' number of species
+nlevels(samples$catchcategory)
+```
+
+### Plot survey track with stations
+```{r survey track map}
+st_org <- read.csv2("./data/gos1.csv")
+kniv <- data_frame(lat=71+11.08/60, lon=25+40.42/60)
+
+logg.station.start <- logg.station[grep("stop", logg.station$sttype, invert=TRUE),]
+
+
+p <- ggplot(subset(logg.station.start, sttype !="course change"), aes(lon, lat))
+p <- p + geom_point(data=track, size=0.05, colour="lightblue", aes(x=lon, y=lat)) +  geom_polygon(data =bs, colour="gray35", fill="gray85", aes(x=long, y=lat, group=group))   +  coord_cartesian(xlim = c(15, 36), ylim=c(69, 74)) + theme_bw() + geom_jitter(width = 0.09, height = 0.09, aes(colour=sttype, shape=sttype))   +ggtitle("Survey track and stations, BESS 2019")
+p
+
+ggsave("./analyses/station_track_map.png", widt=8, height=5)
+
+```
+
