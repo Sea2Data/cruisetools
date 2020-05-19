@@ -85,11 +85,11 @@ status <- 100*today[1:3]/sum(today[1:3])
 print(paste("Percentage in NMDbiotic ",sum(status[1:2]),"%"))
 
 # How are we fairing?
-time0 <- as.POSIXct("2020-01-01",format = "%Y-%m-%d")
+time0 <- as.POSIXct("2020-04-01",format = "%Y-%m-%d")
 ind <- data$snapshottime > time0
 nilz <- data[ind,c(1,2)]
 addst <-sum(tail(nilz,n=1)) - sum(nilz[1,])
-print(paste("Stations added since 2020-01-01: ",addst))
+print(paste("Stations added since 2020-04-01: ",addst))
 dt <- tail(data[ind,4],n=1)-time0
 vel <- addst/as.vector(dt)
 print(paste("Average added stations per day: ",vel))
