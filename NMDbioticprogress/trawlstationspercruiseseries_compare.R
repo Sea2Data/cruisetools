@@ -56,7 +56,6 @@ yeardata$set[(yeardata$NMDbiotic + yeardata$aarmat)==1]="NMDbiotic"
 yeardata$set[(yeardata$NMDbiotic + yeardata$aarmat)==2]="Årsmaterialet"
 names(yeardata)
 
-
 # Plotting section
 
 
@@ -67,11 +66,13 @@ ggplot(data=NMDbiotic, aes(snapshottime)) + geom_histogram() +
 
 # Plot today's status of stations by set over years
 ggplot(data=yeardata, aes(year, fill = set)) + geom_histogram() +
-  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T)))
+  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T))) +
+  scale_fill_discrete(h = c(0, 360)+15, c = 100, l = 65,direction=-1)
 
 # Plot today's status of stations by set over serialnumbers
 ggplot(data=yeardata, aes(serialnumber, fill = set)) + geom_histogram() +
-  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T)))
+  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T))) +
+  scale_fill_discrete(h = c(0, 360)+15, c = 100, l = 65,direction=-1)
 
 # Plot number of stations by set over snapshottime
 ggplot(data=data2) +
