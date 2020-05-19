@@ -22,7 +22,7 @@ dat_m <- matrix(ncol = 3, nrow = length(snt))
 
 # Loop over snapshots and count stations in each set (x-axis)
 k=1
-for (t in snt){
+for (t in snt){ 
   # Filter stations present only before t
   ind <- NMDbiotic$snapshottime<t
   # Calculate sets from year and serialnumbers
@@ -35,6 +35,7 @@ for (t in snt){
 }
 colnames(dat_m) <- c("Both","NMDbiotic","Årsmaterialet")
 data <- as.data.frame(dat_m)
+names(data)
 data$snapshottime <- snt
 
 # Gather data set for efficient ploting in ggplot
@@ -42,11 +43,12 @@ data2 <- gather(data,set,count,Both,Årsmaterialet,NMDbiotic)
 data2$set <- factor(data2$set , levels=c("Årsmaterialet", "NMDbiotic", "Both") )
 names(data2)
 
-
+names(NMDbiotic)
+NMDbiotic_red <- unique(NMDbiotic[,c(1,5,6)])
 # Organize data by year and code the sets (clunky but works)
-NMDbiotic$NMDbiotic <- 1
+NMDbiotic_red$NMDbiotic <- 1
 aarsmat$aarmat <- 2
-yeardata <- full_join(NMDbiotic,aarsmat)
+yeardata <- full_join(NMDbiotic_red,aarsmat)
 yeardata$aarmat[is.na(yeardata$aarmat)] =0
 yeardata$NMDbiotic[is.na(yeardata$NMDbiotic)] =0
 yeardata$set = "Both"
@@ -57,18 +59,25 @@ names(yeardata)
 
 # Plotting section
 
-# Plot today's status of stations by set over years
-ggplot(data=yeardata, aes(year, fill = set)) + geom_histogram() +
-  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T)))
 
 # Plot histogram over all the snapshots
 ggplot(data=NMDbiotic, aes(snapshottime)) + geom_histogram() + 
   ggtitle("Effort per station from 1914 to (including) 2015")
 
+
+# Plot today's status of stations by set over years
+ggplot(data=yeardata, aes(year, fill = set)) + geom_histogram() +
+  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T)))
+
+# Plot today's status of stations by set over serialnumbers
+ggplot(data=yeardata, aes(serialnumber, fill = set)) + geom_histogram() +
+  ggtitle(paste("Status as of ",max(NMDbiotic$snapshottime,na=T)))
+
 # Plot number of stations by set over snapshottime
 ggplot(data=data2) +
   geom_area(aes(x=snapshottime,y=count, fill=set))+
   ggtitle("Number of biotic stations from 1914 to (including) 2015")
+
 
 # The today's status
 today <- tail(data,n=1)
