@@ -3,6 +3,8 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 
+setwd('D:/repos/Github/cruisetools/NMDbioticprogress')
+
 # Read year-serialnumber list from aarsmaterialet
 aarsmat <- read.table('fisk1932-2014_s.csv',sep=";",col.names=c("year","serialnumber"))
 
@@ -10,9 +12,21 @@ aarsmat <- read.table('fisk1932-2014_s.csv',sep=";",col.names=c("year","serialnu
 NMDbiotic <- data.table::fread("NMDbiotic.csv")
 NMDbiotic$snapshottime = as.POSIXct(NMDbiotic$snapshotpath,format = "%Y-%m-%dT%H.%M.%OSZ")
 
+# Read serialnumber mapping
+serialn <- data.table::fread("Serienummeroversikt-fiskeridynamikk - Sheet1.csv",header=T)
+names(serialn) <- paste(serialn[1,],names(serialn))
+names(serialn)[1] <- "class"
+serialn<-serialn[2:dim(serialn)[1],]
+serialn[serialn==""]=NA
+serialn[31,1]="Ukjent"
+serialn_long <- pivot_longer(data = serialn, -class, names_to = "year",
+                             values_to="serialn",values_drop_na = T)
+
+
 # Check variable names
 names(aarsmat)
 names(NMDbiotic)
+names(serialn_long)
 
 # Create sequence of snapshot dates
 snt <- seq(from=min(NMDbiotic$snapshottime),to=max(NMDbiotic$snapshottime),length.out=30)
@@ -55,6 +69,25 @@ yeardata$set = "Both"
 yeardata$set[(yeardata$NMDbiotic + yeardata$aarmat)==1]="NMDbiotic"
 yeardata$set[(yeardata$NMDbiotic + yeardata$aarmat)==2]="Årsmaterialet"
 names(yeardata)
+names(serialn_long)
+serialn_long
+names(serialn)
+# Add serialnumber category to year data
+names(yeardata)
+
+#for (i in seq(1,dim(yeardata)[1])){
+for (i in seq(min(yeardata$year),max(yeardata$year))){
+  print(i)
+  fra <- arrange(serialn_long[serialn_long$year==paste("fra",i),c(1,3)],serialn)
+  til <- arrange(serialn_long[serialn_long$year==paste("til",i),c(1,3)],serialn)
+  srbreaks <- rep(NA,2*dim(fra)[1])
+  srlabel <- rep("NA",2*dim(fra)[1])
+  srbreaks[c(TRUE, FALSE)] <- fra$serialn
+  srbreaks[c(FALSE,TRUE)] <- til$serialn
+  srlabel[c(TRUE, FALSE)] <- fra$class
+  # Get yeardata for this year
+  #yeardata$cut(yeardata$serialnumber,srbreaks,srlabel
+}
 
 # Plotting section
 
