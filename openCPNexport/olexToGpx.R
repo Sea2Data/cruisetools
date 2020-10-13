@@ -2,7 +2,7 @@ library(data.table)
 library(XML)
 #' @noRd
 parseWaypoint <- function(lines){
-  
+
   waypoint <- list()
   waypoint$lat <- as.numeric(NA)
   waypoint$lon <- as.numeric(NA)
@@ -16,8 +16,21 @@ parseWaypoint <- function(lines){
   coordlist <- strsplit(coordstring, " ")[[1]]
   lat <- as.numeric(coordlist[1])/60
   lon <- as.numeric(coordlist[2])/60
-  time <- as.POSIXct(as.integer(coordlist[3]), origin="1970-01-01")
-  symbol <- coordlist[4]
+  
+  if (!is.na(coordlist[3])){
+    time <- as.POSIXct(as.integer(coordlist[3]), origin="1970-01-01")   
+  }
+  else{
+    time <- NA
+  }
+
+  if (!is.na(coordlist[4])){
+    symbol <- coordlist[4]    
+  }
+  else{
+    symbol <- NA
+  }
+
   
   waypoint$lat <- lat
   waypoint$lon <- lon
@@ -27,6 +40,14 @@ parseWaypoint <- function(lines){
   lines <- lines[2:length(lines)]
   if (substr(lines[1], 1,4)=="Navn"){
     waypoint$name <- trimws(substr(lines[1],5, nchar(lines[1])))
+    lines <- lines[2:length(lines)]
+  }
+  while (substr(lines[1], 1,6)=="MTekst"){
+    if (is.na(waypoint$comment)){
+      waypoint$comment <- ""
+    }
+    
+    waypoint$comment <- paste(waypoint$comment, substr(lines[1],7, nchar(lines[1])), " ")
     lines <- lines[2:length(lines)]
   }
   
@@ -42,15 +63,38 @@ parseOlexRoute <- function(lines){
   route <- list()
   stopifnot(substr(lines[1],1,4)=="Rute")
   route$routename <- trimws(substr(lines[1],5,nchar(lines[1])))
-  stopifnot(substr(lines[2],1,8)=="Rutetype")
-  route$routetype <- trimws(substr(lines[2],9,nchar(lines[2])))
-  stopifnot(substr(lines[3],1,10)=="Linjefarge")
-  route$linecolor <- trimws(substr(lines[3],11,nchar(lines[3])))
-  stopifnot(substr(lines[4],1,9)=="Plottsett")
-  route$plotsett <- trimws(substr(lines[4],10,nchar(lines[4])))
-  route$waypoints <- list()
   
-  lines <- lines[5:length(lines)]
+  lines <- lines[2:length(lines)]
+  if(substr(lines[1],1,8)=="Rutetype"){
+    route$routetype <- trimws(substr(lines[1],9,nchar(lines[1])))    
+    lines <- lines[2:length(lines)]
+  }
+  else{
+    route$routetype <- NA
+  }
+
+  if(substr(lines[1],1,10)=="Linjefarge"){
+    route$linecolor <- trimws(substr(lines[1],11,nchar(lines[1]))) 
+    lines <- lines[2:length(lines)]
+  }
+  else{
+    route$linecolor <- NA
+  }
+  
+  if(substr(lines[1],1,9)=="Plottsett"){
+    route$plotsett <- trimws(substr(lines[1],10,nchar(lines[1])))  
+    lines <- lines[2:length(lines)]
+  }
+  else{
+    route$plotsett <- NA
+  }
+  if(substr(lines[1],1,7)=="Fikspos"){
+    route$fixpos <- trimws(substr(lines[1],8,nchar(lines[1])))  
+    lines <- lines[2:length(lines)]
+  }
+  else{
+    route$fixpos <- NA
+  }
   
   wpn <- 1
   while(trimws(lines[1])!=""){
@@ -96,7 +140,8 @@ parseOlexRoute <- function(lines){
 #'  \item{routename}{name of route}
 #'  \item{routetype}{type of route, used for visualization, derived from Olex, not supperted by gpx}
 #'  \item{linecolor}{linecolor, used for visualization, derived from Olex, not supperted by gpx}
-#'  \item{plotsett}{dont know, probablty used for visualization, derived from Olex, not supperted by gpx}
+#'  \item{plotsett}{dont know, probably used for visualization, derived from Olex, not supperted by gpx}
+#'  \item{fixpos}{dont know, probably used for visualization, derived from Olex, not supperted by gpx}
 #'  \item{waypoints}{a list of \code{\link{waypoint}}}
 #' }
 #' 
