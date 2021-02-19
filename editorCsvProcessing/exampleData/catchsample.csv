@@ -1,0 +1,318 @@
+m.missiontype	m.startyear	m.platform	m.missionnumber	f.serialnumber	catchsampleid	commonname	catchcategory	catchpartnumber	aphia	scientificname	identification	foreignobject	sampletype	group	conservation	catchproducttype	raisingfactor	catchweight	catchvolume	catchcount	abundancecategory	sampleproducttype	lengthmeasurement	lengthsampleweight	lengthsamplevolume	lengthsamplecount	specimensamplecount	agesamplecount	agingstructure	parasite	stomach	intestine	tissuesample	samplerecipient	catchcomment
+4	2020	1019	9	2205	1	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.01		2		1	E	0.01		2									
+4	2020	1019	9	2205	2	makrell	172414	1	127023	Scomber scombrus			34		1	1	1.0	0.341		1		1	F	0.341		1	1								
+4	2020	1019	9	2205	3	kolonimaneter	569243	1		Siphonophora			90		1	1	1.0	0.06		3															
+4	2020	1019	9	2205	4	uerslekten	166705	1	126175	Sebastes			10	10	1	1	1.0	5.0E-5		1		1	E	5.0E-5		1									
+4	2020	1019	9	2205	5	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.002		2		1	B	0.002		2									
+4	2020	1019	9	2205	6	tverrhalet langebarn	171603	1	127072	Leptoclinus maculatus			10	10	1	1	1.0	1.0E-4		2		1	E	1.0E-4		2									
+4	2020	1019	9	2205	7	fremmedlegeme	999301	1					65		1	1	1.0	0.001		1															
+4	2020	1019	9	2206	1	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	1.434		4															
+4	2020	1019	9	2206	2	Norsk storkrill	95534	1	110690	Meganyctiphanes norvegica			91		1	1	1.0	1.95		58500			E	0.001		30									
+4	2020	1019	9	2206	3	fremmedlegeme	999301	1					65		1	1	1.0	0.005		2															
+4	2020	1019	9	2206	4	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.016		10		1	B	0.016		10									
+4	2020	1019	9	2206	5	torsk	164712	1	126436	Gadus morhua			10	10	1	1	1.0	0.001		1		1	E	0.001		1									
+4	2020	1019	9	2206	6	blåkveite	172930	1	127144	Reinhardtius hippoglossoides			10	10	1	1	1.0	1.0E-5		1		1	E	1.0E-5		1									
+4	2020	1019	9	2206	7	polartorsk	164706	1	126433	Boreogadus saida			10	10	1	1	1.0	5.0E-4		4		1	E	5.0E-4		4									
+4	2020	1019	9	2206	8	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	1.0	0.001		16		1	E	0.001		16									
+4	2020	1019	9	2206	9	uerslekten	166705	1	126175	Sebastes			10	10	1	1	1.0	0.014		140		1	E	0.003		30									
+4	2020	1019	9	2206	10	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.007		3		1	E	0.007		3									
+4	2020	1019	9	2206	11	kolonimaneter	569243	1		Siphonophora			90		1	1	1.0	0.002		1															
+4	2020	1019	9	2206	12	Hyperia galba	95110	1	103251	Hyperia galba			91		1	1	1.0	1.0E-4		2		1	E	1.0E-4		2									
+4	2020	1019	9	2207	1	kolmule	164774	1	126439	Micromesistius poutassou			21		1	1	1.0	23.495		194		1	E	12.085		100	100	5	2						
+4	2020	1019	9	2207	2	vassild	162064	1	126715	Argentina silus			34		1	1	1.0	11.48		29		1	E	11.48		29	29								
+4	2020	1019	9	2207	3	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			34		1	1	1.0	1.7292		31		1	E	1.7292		31	31								
+4	2020	1019	9	2207	4	sølvtorsk	164772	1	126435	Gadiculus argenteus			34		1	1	1.0	0.007		1		1	E	0.007		1	1								
+4	2020	1019	9	2207	5	nordlig lysprikkfisk	162680	1	126580	Benthosema glaciale	2		34		1	1	1.0	0.003		1		1	J	0.003		1	1								
+4	2020	1019	9	2207	6	krokulke	167208	1	127193	Artediellus atlanticus			34		1	1	1.0	0.037		7		1	E	0.037		7	7								
+4	2020	1019	9	2207	7	vanlig ålebrosme	631144	1	274100	Lycodes gracilis			34		1	1	1.0	0.057		3		1	E	0.057		3	3								
+4	2020	1019	9	2207	8	gonatus	82418	1	138036	Gonatus			91		1	1	1.0	0.003		1		1	B	0.003		1									
+4	2020	1019	9	2207	9	lusuer	166779	1	127255	Sebastes viviparus			34		1	1	1.0	0.294		2		1	E	0.294		2	2								
+4	2020	1019	9	2207	10	øyepål	164756	1	126444	Trisopterus esmarkii			34		1	1	1.0	0.076		3		1	E	0.076		3	3								
+4	2020	1019	9	2207	11	flekksteinbit	171342	1	126759	Anarhichas minor			34		1	1	1.0	24.39		2		1	E	24.39		2	2								
+4	2020	1019	9	2207	12	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	97.24		168		1	E	76.38		132	5	5	2						
+4	2020	1019	9	2207	13	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	2.175		2		1	E	2.175		2	2		2		2				
+4	2020	1019	9	2207	14	blåkveite	172930	1	127144	Reinhardtius hippoglossoides			20		1	1	1.0	0.525		1		1	E	0.525		1	1	1	2						
+4	2020	1019	9	2207	15	brosme	164740	1	126447	Brosme brosme			20		1	1	1.0	1.022		4		1	E	1.022		4	4	3	2						
+4	2020	1019	9	2207	16	kronemanet	51612	1	135294	Periphylla periphylla			90		1	1	1.0	1.705		1															
+4	2020	1019	9	2207	19	dypvannsreke	96967	1	107649	Pandalus borealis			90		1	1	1.0	2.485		337															lengdemålt på feil måte
+4	2020	1019	9	2207	20	dypvannsreke	96967	4	107649	Pandalus borealis			90		1	1	1.0	0.002		4															lengdemålt på feil måte
+4	2020	1019	9	2207	21	svamper	46861	1	558	Porifera			90		1	1	1.0	6.1815		24															
+4	2020	1019	9	2207	22	sjøanemoner	52485	1	1360	Actiniaria			90		1	1	1.0	0.003		1															
+4	2020	1019	9	2207	23	børsteormer	64358	1	883	Polychaeta			90		1	1	1.0	0.001		1															
+4	2020	1019	9	2207	24	isopoder	92120	1	1131	Isopoda			90		1	1	1.0	0.003		1															
+4	2020	1019	9	2207	25	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.006		5															
+4	2020	1019	9	2207	26	krabber	98276	1	106673	Brachyura			90		1	1	1.0	0.002		1															
+4	2020	1019	9	2207	27	trollkreps	97698	1	106671	Anomura			90		1	1	1.0	0.006		2															
+4	2020	1019	9	2207	28	snegler	69459	1	101	Gastropoda			90		1	1	1.0	0.005		1															
+4	2020	1019	9	2207	29	armføttinger	156755	1	1803	Brachiopoda			90		1	1	1.0	0.0015		1															
+4	2020	1019	9	2207	30	sjøstjerner	156862	1	123080	Asteroidea			90		1	1	1.0	0.001		1															
+4	2020	1019	9	2207	31	slangestjerner	157325	1	123084	Ophiuroidea			90		1	1	1.0	0.0015		2															
+4	2020	1019	9	2207	32	sjøpølser	158140	1	123083	Holothuroidea			90		1	1	1.0	0.0265		2															
+4	2020	1019	9	2207	33	sekkedyr	158854	1	1839	Ascidiacea			90		1	1	1.0	0.0025		2															
+4	2020	1019	9	2208	1	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	1.658		5															
+4	2020	1019	9	2208	2	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.193		31		1	E	0.193		31									
+4	2020	1019	9	2208	3	øyepål	164756	1	126444	Trisopterus esmarkii			10	10	1	1	1.0	0.001		4		1	E	0.001		4									
+4	2020	1019	9	2208	4	fremmedlegeme	999301	1					65		1	1	1.0	0.02		5															
+4	2020	1019	9	2208	5	uerslekten	166705	1	126175	Sebastes			10	10	1	1	1.0	27.986		64583		1	E	0.013		30									
+4	2020	1019	9	2208	6	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	1.0	0.002		13		1	E	0.002		13									
+4	2020	1019	9	2208	7	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.152		45		1	B	0.152		45									
+4	2020	1019	9	2208	8	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	1.0	0.011		12		1	E	0.011		12									
+4	2020	1019	9	2208	9	torsk	164712	1	126436	Gadus morhua			10	10	1	1	1.0	0.045		34		1	E	0.04		30									
+4	2020	1019	9	2209	1	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	0.709		105		1	C	0.699		104									
+4	2020	1019	9	2209	2	svamper	46861	1	558	Porifera			90		1	1	1.0	30.0		4															
+4	2020	1019	9	2209	3	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	42.386		103		1	E	42.386		103	7		2						
+4	2020	1019	9	2209	4	lusuer	166779	1	127255	Sebastes viviparus			34		1	1	1.0	1.89		6		1	E	1.89		6	6								
+4	2020	1019	9	2209	5	sei	164727	1	126441	Pollachius virens			34		1	1	1.0	7.96		6		1	E	7.96		6	6								
+4	2020	1019	9	2209	6	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	2.36		3		1	E	2.36		3	3		2						Gløymde mageprøve
+4	2020	1019	9	2209	7	hyse	164744	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.778		3		1	E	0.778		3	2		2						
+4	2020	1019	9	2209	8	kolmule	164774	1	126439	Micromesistius poutassou			21		1	1	1.0	9.752		111		1	E	8.756		100	100	4	2						
+4	2020	1019	9	2209	9	vassild	162064	1	126715	Argentina silus			34		1	1	1.0	1.262		3		1	E	1.262		3	3								
+4	2020	1019	9	2209	10	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			10		1	1	1.0	0.726		4		1	E	0.726		4									
+4	2020	1019	9	2209	11	krokulke	167208	1	127193	Artediellus atlanticus			34		1	1	1.0	0.153		27		1	E	0.153		27	27								
+4	2020	1019	9	2209	12	vanlig ålebrosme	631144	1	274100	Lycodes gracilis			34		1	1	1.0	0.07		6		1	E	0.07		6	6								
+4	2020	1019	9	2209	13	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	0.373		1															
+4	2020	1019	9	2209	14	blåkveite	172930	1	127144	Reinhardtius hippoglossoides			20		1	1	1.0	0.521		1		1	E	0.521		1	1		2						
+4	2020	1019	9	2209	15	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.01		2		1	C	0.01		2									
+4	2020	1019	9	2209	16	skater	160806	1	10216	Rajiformes			50		1	1	1.0			3															
+4	2020	1019	9	2209	17	fremmedlegeme	999301	1					66		1	1	1.0	0.133		1															
+4	2020	1019	9	2209	18	fremmedlegeme	999301	2					65		1	1	1.0	0.124		1															
+4	2020	1019	9	2209	19	svamper	46861	2	558	Porifera			90		1	1	1.0	1.383		23															
+4	2020	1019	9	2209	20	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.004		4															
+4	2020	1019	9	2209	21	krabber	98276	1	106673	Brachyura			90		1	1	1.0	0.0195		4															
+4	2020	1019	9	2209	22	trollkreps	97698	1	106671	Anomura			90		1	1	1.0	0.0115		4															
+4	2020	1019	9	2209	23	muslinger	79118	1	105	Bivalvia			90		1	1	1.0	0.002		1															
+4	2020	1019	9	2209	24	snegler	69459	1	101	Gastropoda			90		1	1	1.0	0.0055		1															
+4	2020	1019	9	2209	25	Mosdyr	155469	1	146142	Bryozoa			90		1	1	1.0	0.006																	
+4	2020	1019	9	2209	26	sjøstjerner	156862	1	123080	Asteroidea			90		1	1	1.0	0.017		3															
+4	2020	1019	9	2209	27	slangestjerner	157325	1	123084	Ophiuroidea			90		1	1	1.0	0.0045		3															
+4	2020	1019	9	2210	1	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	20.673		40															
+4	2020	1019	9	2210	2	rognkjeks	167612	1	127214	Cyclopterus lumpus			34		1	1	1.0	2.0		2		1	E	2.0		2	2								
+4	2020	1019	9	2210	3	gråsteinbit	171341	1	126758	Anarhichas lupus			34	10	1	1	1.0	0.004		1		1	E	0.004		1	1								
+4	2020	1019	9	2210	4	flekksteinbit	171342	1	126759	Anarhichas minor			10	10	1	1	1.0	0.034		5		1	E	0.034		5									
+4	2020	1019	9	2210	5	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.439		43		1	E	0.439		43									
+4	2020	1019	9	2210	7	havsil	171677	1	126751	Ammodytes marinus			34	10	1	1	1.0	0.004		1		1	E	0.004		1	1								
+4	2020	1019	9	2210	8	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.332		86		1	B	0.116		30									
+4	2020	1019	9	2210	9	torsk	164712	1	126436	Gadus morhua			10	10	1	1	94.0	0.09		90		1	E	0.001		1									
+4	2020	1019	9	2210	10	fremmedlegeme	999301	1					66		1	1	1.0	0.007		3															
+4	2020	1019	9	2210	11	fremmedlegeme	999301	2					65		1	1	1.0	0.002		2															
+4	2020	1019	9	2210	12	fremmedlegeme	999301	3					68		1	1	1.0	0.001		1															
+4	2020	1019	9	2210	13	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	94.0	3.854		2538		1	E	0.041		27									
+4	2020	1019	9	2210	14	Norsk storkrill	95534	1	110690	Meganyctiphanes norvegica			91		1	1	94.0	34.78		122753			E	0.0085		30									
+4	2020	1019	9	2210	15	uerslekten	166705	1	126175	Sebastes			10	10	1	1	94.0	15.134		34925		1	E	0.013		30									
+4	2020	1019	9	2210	16	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	45.0	0.09		540		1	E	0.002		12									
+4	2020	1019	9	2210	17	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			10	10	1	1	45.0	0.09		315		1	E	0.002		7									
+4	2020	1019	9	2210	18	Themisto compressa	206588	1	156451	Themisto compressa			91		1	1	94.0	0.009		90				1.0E-4		1									
+4	2020	1019	9	2210	19	Themisto abyssorum	206587	1	103259	Themisto abyssorum			91		1	1	94.0	0.0094		564		1	E	1.0E-4		6									
+4	2020	1019	9	2211	1	snabeluer	166756	1	127254	Sebastes mentella			10		1	1	1.0	42.26		79		1	E	42.26		79									individprøve ikke tatt
+4	2020	1019	9	2211	2	kloskate	564149	1	105865	Amblyraja radiata			20		1	1	1.0	1.03		1		1	E	1.03		1	1								
+4	2020	1019	9	2211	3	gråskate	160932	1	105868	Bathyraja spinicauda	2		20		1	1	1.0	2.64		1		1	E	2.64		1	1								
+4	2020	1019	9	2211	4	svamper	46861	1	558	Porifera			90		1	1	1.0	0.382		34															
+4	2020	1019	9	2211	5	sjøpølser	158140	1	123083	Holothuroidea			90		1	1	1.0	0.019		1															
+4	2020	1019	9	2211	6	skjeormer	154972	1	1269	Echiura			90		1	1	1.0	0.008		1															
+4	2020	1019	9	2211	7	muslinger	79118	1	105	Bivalvia			90		1	1	1.0	0.016		7															
+4	2020	1019	9	2211	8	trollkreps	97698	1	106671	Anomura			90		1	1	1.0	0.004		1															
+4	2020	1019	9	2211	9	tanglopper	93294	1	1135	Amphipoda			90		1	1	1.0	0.003		1															
+4	2020	1019	9	2211	10	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.003		1															
+4	2020	1019	9	2211	11	Mosdyr	155469	1	146142	Bryozoa			90		1	1	1.0	0.003		1															
+4	2020	1019	9	2211	12	sjøstjerner	156862	1	123080	Asteroidea			90		1	1	1.0	0.036		14															
+4	2020	1019	9	2211	13	nordlig lysprikkfisk	162680	1	126580	Benthosema glaciale	2		34		1	1	1.0	0.024		5		1	J	0.024		5	5								
+4	2020	1019	9	2211	14	uerslekten	166705	1	126175	Sebastes			10		1	1	1.0	0.005		8		1	E	0.005		8									
+4	2020	1019	9	2211	15	blåkveite	172930	1	127144	Reinhardtius hippoglossoides			20		1	1	1.0	2.085		1		1	E	2.085		1	1	1	2						
+4	2020	1019	9	2211	16	Euphausiidae	95500	1	110671	Euphausiidae			90		1	1	1.0	0.013		22															
+4	2020	1019	9	2211	17	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	3.84		3															
+4	2020	1019	9	2211	18	kolmule	164774	1	126439	Micromesistius poutassou			21		1	1	1.0	2.233		19		1	E	2.233		19	19	3	2						
+4	2020	1019	9	2211	19	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			34		1	1	1.0	2.9175		16		1	E	2.9175		16	16								
+4	2020	1019	9	2211	20	hyse	164744	1	126437	Melanogrammus aeglefinus			34		1	1	1.0	0.133		15		1	E	0.133		15	15								
+4	2020	1019	9	2211	21	vanlig ålebrosme	631144	1	274100	Lycodes gracilis			34		1	1	1.0	0.11		2		1	E	0.11		2	2								
+4	2020	1019	9	2211	22	liten laksetobis	644687	1	126352	Arctozenus risso			34		1	1	1.0	0.048		1		1	J	0.048		1	1								
+4	2020	1019	9	2211	23	gonatus	82418	1	138036	Gonatus			91		1	1	1.0	0.079		10		1	B	0.079		10									
+4	2020	1019	9	2211	24	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	3.241		491		1	C	0.66		100									
+4	2020	1019	9	2211	25	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.002		2		1	C	0.002		2									
+4	2020	1019	9	2211	26	fremmedlegeme	999301	1					68		1	1	1.0	0.001																	
+4	2020	1019	9	2212	6	rognkjeks	167612	1	127214	Cyclopterus lumpus			34		1	1	1.0	1.94		2		1	E	1.94		2	2								
+4	2020	1019	9	2212	8	hyse	164744	3	126437	Melanogrammus aeglefinus			10	10	1	1	4.77	2.297		331		1	E	0.215		31									inkl. 0,032 kg fra dekk
+4	2020	1019	9	2212	9	uerslekten	166705	1	126175	Sebastes			10	10	1	1	4.77	12.535		31338		1	E	0.012		30									inkl. 1,540 kg fra dekk
+4	2020	1019	9	2212	11	gonatus	82418	1	138036	Gonatus			91	10	1	1	4.77	0.025		17		1	B	0.003		2									inkl. 0,011 kg fra dekk
+4	2020	1019	9	2212	12	torsk	164712	1	126436	Gadus morhua			10	10	1	1	4.77	1.575		647		1	E	0.073		30									inkl. 0,054 kg fra dekk
+4	2020	1019	9	2212	13	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	4.77	1.354		5247		1	E	0.008		31									inkl. 1,030 kg fra dekk
+4	2020	1019	9	2212	14	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	4.77	0.037		67		1	E	0.005		9									
+4	2020	1019	9	2212	15	fremmedlegeme	999301	1					62		1	1	1.0	0.006																	
+4	2020	1019	9	2212	16	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	35.46		91															
+4	2020	1019	9	2212	17	Staurophora mertensii	719327	1		Staurophora mertensii			90		1	1	1.0	0.001		1															
+4	2020	1019	9	2213	1	flekksteinbit	171342	1	126759	Anarhichas minor			34		1	1	1.0	13.64		1		1	E	13.64		1	1								
+4	2020	1019	9	2213	2	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	208.33		377		1	E	59.66		108	6		2						
+4	2020	1019	9	2213	3	snabeluer	166756	2	127254	Sebastes mentella			21		1	1	1.0	0.022		4		1	E	0.022		4	1		2						
+4	2020	1019	9	2213	4	uerslekten	166705	1	126175	Sebastes			10		1	1	1.0	0.003		4		1	E	0.003		4									
+4	2020	1019	9	2213	5	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	5.675		2		1	E	5.675		2	2		2		2				
+4	2020	1019	9	2213	6	torsk	164712	2	126436	Gadus morhua			21	10	1	1	1.0	0.006		2		1	E	0.006		2	2		2						
+4	2020	1019	9	2213	7	kolmule	164774	1	126439	Micromesistius poutassou			21		1	1	1.0	1.204		9		1	E	1.204		9	9	3	2						
+4	2020	1019	9	2213	8	vassild	162064	1	126715	Argentina silus			34		1	1	1.0	1.244		2		1	E	1.244		2	2								
+4	2020	1019	9	2213	9	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			10		1	1	1.0	2.656		13		1	E	2.656		13									
+4	2020	1019	9	2213	10	Langfinnet Snottfisk	999079	1		Careproctus (lang)	2		34		1	1	1.0	0.026		2		1	E	0.026		2	2								
+4	2020	1019	9	2213	11	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	3.886		12															
+4	2020	1019	9	2213	12	rundskate	564135	1	105894	Rajella fyllae			20		1	1	1.0	0.685		1		1	E	0.685		1	1							3	
+4	2020	1019	9	2213	13	blåkveite	172930	1	127144	Reinhardtius hippoglossoides			20		1	1	1.0	5.521		4		1	E	5.521		4	4		2						
+4	2020	1019	9	2213	14	hyse	164744	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.025		3		1	E	0.025		3	2		2						
+4	2020	1019	9	2213	15	gonatus	82418	1	138036	Gonatus			91		1	1	1.0	0.008		2		1	B	0.008		2									
+4	2020	1019	9	2213	16	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	6.775		1015		1	C	0.661		99									
+4	2020	1019	9	2213	17	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.015		10		1	C	0.015		10									
+4	2020	1019	9	2213	18	svamper	46861	1	558	Porifera			90		1	1	1.0	0.0315		3															
+4	2020	1019	9	2213	19	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.0025		1															
+4	2020	1019	9	2213	20	krabber	98276	1	106673	Brachyura			90		1	1	1.0	0.0015		1															
+4	2020	1019	9	2213	21	trollkreps	97698	1	106671	Anomura			90		1	1	1.0	0.0215		2															Pagurus
+4	2020	1019	9	2213	22	muslinger	79118	1	105	Bivalvia			90		1	1	1.0	0.0105		4															
+4	2020	1019	9	2213	23	snegler	69459	1	101	Gastropoda			90		1	1	1.0	0.016		2															
+4	2020	1019	9	2213	24	sjøstjerner	156862	1	123080	Asteroidea			90		1	1	1.0	0.0695		24															
+4	2020	1019	9	2213	25	sekkedyr	158854	1	1839	Ascidiacea			90		1	1	1.0	0.0255		1															
+4	2020	1019	9	2213	26	fremmedlegeme	999301	1					65		1	1	1.0	0.003		1															
+4	2020	1019	9	2213	27	fremmedlegeme	999301	2					68		1	1	1.0	0.029		1															
+4	2020	1019	9	2214	9	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	10.63	0.127		19		1	E	0.127		19									
+4	2020	1019	9	2214	10	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	10.63	1.097		609		1	E	0.054		30									inkl 0.484 fra dekk
+4	2020	1019	9	2214	11	uerslekten	166705	1	126175	Sebastes			10	10	1	1	10.63	8.054		17259		1	E	0.014		30									inkl 0.572 fra dekk
+4	2020	1019	9	2214	12	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	53.38		78															
+4	2020	1019	9	2214	13	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	10.63	4.955		24775		1	E	0.006		30									ink 4.892 fra  dekk
+4	2020	1019	9	2214	14	torsk	164712	1	126436	Gadus morhua			10	10	1	1	10.63	0.044		15		1	E	0.003		1									inl 0.012 fra dekk
+4	2020	1019	9	2214	15	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			10	10	1	1	10.63	0.001		10		1	E	1.0E-4		1									
+4	2020	1019	9	2214	16	rognkjeks	167612	1	127214	Cyclopterus lumpus			34		1	1	1.0	0.06		1		1	E	0.06		1	1								
+4	2020	1019	9	2214	17	havsil	171677	1	126751	Ammodytes marinus	2		34	10	1	1	10.63	0.0212		11		1	E	0.002		1	1								
+4	2020	1019	9	2215	1	kolmule	164774	1	126439	Micromesistius poutassou			21		1	1	1.0	1.348		22		1	E	1.348		22	22	2	2						
+4	2020	1019	9	2215	2	vassild	162064	1	126715	Argentina silus			34		1	1	1.0	2.572		4		1	E	2.572		4	4								
+4	2020	1019	9	2215	3	Langfinnet Snottfisk	999079	1		Careproctus (lang)	2		34		1	1	1.0	0.012		1		1	E	0.012		1	1								
+4	2020	1019	9	2215	4	liten laksetobis	644687	1	126352	Arctozenus risso			34		1	1	1.0	0.031		1		1	J	0.031		1	1								
+4	2020	1019	9	2215	5	gonatus	82418	1	138036	Gonatus			91		1	1	1.0	0.016		2		1	B	0.016		2									
+4	2020	1019	9	2215	6	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	2.384		10															
+4	2020	1019	9	2215	7	kronemanet	51612	1	135294	Periphylla periphylla			90		1	1	1.0	0.615		1															
+4	2020	1019	9	2215	8	hyse	164744	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	0.016		3		1	E	0.016		3	1		2						
+4	2020	1019	9	2215	9	uerslekten	166705	1	126175	Sebastes			10		1	1	1.0	0.028		51		1	E	0.028		51									
+4	2020	1019	9	2215	10	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	20.54		50		1	E	20.54		50	7		2						
+4	2020	1019	9	2215	11	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	0.361		2		1	E	0.361		2	2		2		2				
+4	2020	1019	9	2215	12	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			34		1	1	1.0	1.052		50		1	E	1.052		50	6								
+4	2020	1019	9	2215	13	nordlig lysprikkfisk	162680	1	126580	Benthosema glaciale	2		34		1	1	1.0	0.002		1		1	J	0.002		1	1								
+4	2020	1019	9	2215	14	Norsk storkrill	95534	1	110690	Meganyctiphanes norvegica			91		1	1	1.0	0.09		279		1	E	0.01		31									
+4	2020	1019	9	2215	15	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	5.32		821		1	C	0.648		100									
+4	2020	1019	9	2215	16	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.008		4		1	C	0.008		4									
+4	2020	1019	9	2215	17	svamper	46861	1	558	Porifera			90		1	1	1.0	0.79		25															
+4	2020	1019	9	2215	18	åttearmete koralldyr	52004	1	1341	Octocorallia			90		1	1	1.0	0.005		2															
+4	2020	1019	9	2215	19	sjøanemoner	52485	1	1360	Actiniaria			90		1	1	1.0	0.012		3															
+4	2020	1019	9	2215	20	børsteormer	64358	1	883	Polychaeta			90		1	1	1.0	0.009		5															
+4	2020	1019	9	2215	21	isopoder	92120	1	1131	Isopoda			90		1	1	1.0	0.001		1															
+4	2020	1019	9	2215	22	tanglopper	93294	1	1135	Amphipoda			90		1	1	1.0	0.001		1															
+4	2020	1019	9	2215	23	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.015		17															
+4	2020	1019	9	2215	24	muslinger	79118	1	105	Bivalvia			90		1	1	1.0	0.002		1															
+4	2020	1019	9	2215	25	snegler	69459	1	101	Gastropoda			90		1	1	1.0	0.001		2															
+4	2020	1019	9	2215	26	sjøstjerner	156862	1	123080	Asteroidea			90		1	1	1.0	0.046		19															
+4	2020	1019	9	2215	27	slangestjerner	157325	1	123084	Ophiuroidea			90		1	1	1.0	0.004		2															
+4	2020	1019	9	2215	28	sjøpiggsvin	157821	1	123082	Echinoidea			90		1	1	1.0	0.058		1															
+4	2020	1019	9	2215	29	sekkedyr	158854	1	1839	Ascidiacea			90		1	1	1.0	0.003		1															
+4	2020	1019	9	2215	30	trollkreps	97698	1	106671	Anomura			90		1	1	1.0	0.001		1															eremittkreps
+4	2020	1019	9	2216	1	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	2.39		13															
+4	2020	1019	9	2216	2	gråsteinbit	171341	1	126758	Anarhichas lupus			34	10	1	1	1.0	0.005		1		1	E	0.005		1	1								
+4	2020	1019	9	2216	3	flekksteinbit	171342	1	126759	Anarhichas minor			10	10	1	1	1.0	0.021		3		1	E	0.021		3									
+4	2020	1019	9	2216	4	snabeluer	166756	1	127254	Sebastes mentella			10		1	1	1.0	0.004		1		1	E	0.004		1									
+4	2020	1019	9	2216	5	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.41		79		1	E	0.155		30									
+4	2020	1019	9	2216	6	uerslekten	166705	1	126175	Sebastes			10	10	1	1	1.0	1.0		1875		1	E	0.016		30									
+4	2020	1019	9	2216	8	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	1.0	0.004		17		1	E	0.004		17									
+4	2020	1019	9	2216	9	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			10	10	1	1	1.0	0.004		16		1	E	0.004		16									
+4	2020	1019	9	2216	10	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.015		9		1	B	0.015		9									
+4	2020	1019	9	2216	11	kolmule	164774	1	126439	Micromesistius poutassou			34		1	1	1.0	0.062		1		1	E	0.062		1	1								
+4	2020	1019	9	2216	12	torsk	164712	1	126436	Gadus morhua			10	10	1	1	1.0	0.064		39		1	E	0.049		30									
+4	2020	1019	9	2216	13	laksesild	162187	1	127312	Maurolicus muelleri			10		1	1	1.0	0.002		2		1	J	0.002		2									
+4	2020	1019	9	2216	14	nordlig lysprikkfisk	162680	1	126580	Benthosema glaciale			10		1	1	1.0	0.079		59		1	J	0.04		30									
+4	2020	1019	9	2216	15	Norsk storkrill	95534	1	110690	Meganyctiphanes norvegica			91		1	1	1.0	0.506		1735		1	E	0.0105		36									
+4	2020	1019	9	2216	16	Themisto abyssorum	206587	1	103259	Themisto abyssorum			91		1	1	1.0	0.001		8		1	E	0.001		8									
+4	2020	1019	9	2216	17	Hyperia galba	95110	1	103251	Hyperia galba			91		1	1	1.0	0.002		1		1	E	0.002		1									
+4	2020	1019	9	2216	18	rosenglassreke	96166	1	107676	Pasiphaea multidentata			91		1	1	1.0	0.002		1		1	C	0.002		1									
+4	2020	1019	9	2217	1	torsk	164712	1	126436	Gadus morhua			10	10	1	1	1.0	0.089		56		1	E	0.048		30									
+4	2020	1019	9	2217	2	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.008		5		1	B	0.008		5									
+4	2020	1019	9	2217	3	uerslekten	166705	1	126175	Sebastes			10	10	1	1	36.8	10.966		17546		1	E	0.025		40									
+4	2020	1019	9	2217	4	Norsk storkrill	95534	1	110690	Meganyctiphanes norvegica			91		1	1	36.8	0.478		1544		1	E	0.013		42									
+4	2020	1019	9	2217	5	rognkjeks	167612	1	127214	Cyclopterus lumpus			34		1	1	1.0	2.355		1		1	E	2.355		1	1								
+4	2020	1019	9	2217	6	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	52.416		61															
+4	2020	1019	9	2217	7	Staurophora mertensii	719327	1		Staurophora mertensii			90		1	1	1.0	0.054		1															
+4	2020	1019	9	2217	8	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	36.8	0.957		3190		1	E	0.009		30									
+4	2020	1019	9	2217	9	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	0.43		77		1	E	0.167		30									
+4	2020	1019	9	2217	10	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	1.0	0.035		21		1	E	0.035		21									
+4	2020	1019	9	2217	11	laksesild	162187	1	127312	Maurolicus muelleri			10	10	1	1	1.0	0.004		4		1	J	0.004		4									
+4	2020	1019	9	2217	13	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			10	10	1	1	1.0	0.002		9		1	E	0.002		9									
+4	2020	1019	9	2217	14	fremmedlegeme	999301	1					65		1	1	1.0	0.002		1															Tau ,002 kg
+4	2020	1019	9	2218	1	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	2.63		3757		1	C	0.07		100									
+4	2020	1019	9	2218	2	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.004		7		1	C	0.004		7									
+4	2020	1019	9	2218	3	blåsteinbit	550561	1	126757	Anarhichas denticulatus			34		1	1	1.0	22.22		2		1	E	22.22		2	2								
+4	2020	1019	9	2218	4	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	169.1		497		1	E	36.08		106	6	6	2						
+4	2020	1019	9	2218	5	svamper	46861	1	558	Porifera			90		1	1	1.0	0.004		2															
+4	2020	1019	9	2218	6	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.005		6															
+4	2020	1019	9	2218	7	slangestjerner	157325	1	123084	Ophiuroidea			90		1	1	1.0	0.001		2															
+4	2020	1019	9	2218	8	sjøstjerner	156862	1	123080	Asteroidea			90		1	1	1.0	0.013		8															
+4	2020	1019	9	2218	9	muslinger	79118	1	105	Bivalvia			90		1	1	1.0	0.026		13															
+4	2020	1019	9	2218	10	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			34		1	1	1.0	2.72		11		1	E	2.72		11	11								
+4	2020	1019	9	2218	11	uerslekten	166705	1	126175	Sebastes			10		1	1	1.0	0.192		15		1	E	0.192		15									
+4	2020	1019	9	2218	12	kolmule	164774	1	126439	Micromesistius poutassou			21		1	1	1.0	0.188		1		1	E	0.188		1	1	1	2						
+4	2020	1019	9	2218	13	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	10.614		5		1	E	10.614		5	4	4	2						
+4	2020	1019	9	2218	14	vassild	162064	1	126715	Argentina silus			34		1	1	1.0	0.678		1		1	E	0.678		1	1								
+4	2020	1019	9	2218	15	liten laksetobis	644687	1	126352	Arctozenus risso			34		1	1	1.0	0.102		2		1	J	0.102		2	2								
+4	2020	1019	9	2218	16	gonatus	82418	1	138036	Gonatus			91		1	1	1.0	0.008		3		1	B	0.008		3									
+4	2020	1019	9	2218	17	skater	160806	1	10216	Rajiformes			50		1	1	1.0	0.003		1															
+4	2020	1019	9	2219	1	rognkjeks	167612	1	127214	Cyclopterus lumpus			34		1	1	1.0	1.553		2		1	E	1.553		2	2								
+4	2020	1019	9	2219	2	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	4.87	0.4		231		1	E	0.052		30									inkl 0.032kg fra dekk
+4	2020	1019	9	2219	3	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	4.87	2.931		619		1	E	0.142		30									
+4	2020	1019	9	2219	4	torsk	164712	1	126436	Gadus morhua			10	10	1	1	4.87	1.163		671		1	E	0.052		30									inkl 0.024 fra dekk
+4	2020	1019	9	2219	9	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	63.94		96															
+4	2020	1019	9	2219	14	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	4.87	8.904		24284		1	E	0.011		30									ink 6.723 fra dekk
+4	2020	1019	9	2219	15	gonatus	82418	1	138036	Gonatus			91	10	1	1	4.87	0.034		24		1	B	0.007		5									
+4	2020	1019	9	2219	16	uerslekten	166705	1	126175	Sebastes			10	10	1	1	4.87	13.273		20573		1	E	0.02		31									
+4	2020	1019	9	2219	17	flekksteinbit	171342	1	126759	Anarhichas minor			34	10	1	1	1.0	0.012		2		1	E	0.012		2	2								
+4	2020	1019	9	2220	1	kolmule	164774	1	126439	Micromesistius poutassou			34		1	1	1.0	0.049		1		1	E	0.049		1	1								
+4	2020	1019	9	2220	2	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			34		1	1	1.0	2.8045		16		1	E	2.8045		16	16								
+4	2020	1019	9	2220	3	liten laksetobis	644687	1	126352	Arctozenus risso			34		1	1	1.0	0.006		1		1	J	0.006		1	1								
+4	2020	1019	9	2220	4	laksesild	162187	1	127312	Maurolicus muelleri	2		34		1	1	1.0	0.001		1		1	J	0.001		1	1								
+4	2020	1019	9	2220	5	nordlig lysprikkfisk	162680	1	126580	Benthosema glaciale	2		34		1	1	1.0	0.001		1		1	J	0.001		1	1								
+4	2020	1019	9	2220	6	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	0.85		3															
+4	2020	1019	9	2220	7	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	14.8		2492		1	C	0.588		99									
+4	2020	1019	9	2220	8	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.033		17		1	C	0.033		17									
+4	2020	1019	9	2220	9	svamper	46861	1	558	Porifera			90		1	1	1.0	0.0165		15															
+4	2020	1019	9	2220	10	tanglopper	93294	1	1135	Amphipoda			90		1	1	1.0	5.0E-4		1															
+4	2020	1019	9	2220	11	reker	95600	1	106669	Dendrobranchiata			90		1	1	1.0	0.0055		5															
+4	2020	1019	9	2220	12	trollkreps	97698	1	106671	Anomura			90		1	1	1.0	5.8E-4		1															
+4	2020	1019	9	2220	13	muslinger	79118	1	105	Bivalvia			90		1	1	1.0	0.0125		9															
+4	2020	1019	9	2220	14	sjøtenner	82115	1	104	Scaphopoda			90		1	1	1.0	0.009		10															
+4	2020	1019	9	2220	15	sjøpiggsvin	157821	1	123082	Echinoidea			90		1	1	1.0	0.015		5															2 knust
+4	2020	1019	9	2220	16	sekkedyr	158854	1	1839	Ascidiacea			90		1	1	1.0	0.0035		1															
+4	2020	1019	9	2220	17	Euphausiidae	95500	1	110671	Euphausiidae			90		1	1	1.0	0.0065		16															norsk storkrill
+4	2020	1019	9	2220	18	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	24.48		15		1	E	24.48		15	8		2		2				
+4	2020	1019	9	2220	19	torsk	164712	2	126436	Gadus morhua			21	10	1	1	1.0	0.041		19		1	E	0.041		19	1		2						
+4	2020	1019	9	2220	20	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	39.9		193		1	E	39.9		193	7		2						
+4	2020	1019	9	2220	21	snabeluer	166756	2	127254	Sebastes mentella			21		1	1	1.0	0.632		99		1	E	0.632		99	2		2						
+4	2020	1019	9	2220	22	hyse	164744	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	3.407		22		1	E	3.407		22	6		2						
+4	2020	1019	9	2221	1	torsk	164712	1	126436	Gadus morhua			10	10	1	1	1.0	2.576		1073		1	E	0.072		30									inkl 0,0875kg fra dekk
+4	2020	1019	9	2221	2	uerslekten	166705	1	126175	Sebastes			10	10	1	1	1.0	0.096		240		1	E	0.012		30									inkl 0,037kg fra dekk
+4	2020	1019	9	2221	3	gonatus	82418	1	138036	Gonatus			91	10	1	1	1.0	0.0075		4		1	B	0.004		2									
+4	2020	1019	9	2221	4	flekksteinbit	171342	1	126759	Anarhichas minor			34	10	1	1	1.0	0.016		2		1	E	0.016		2	2								
+4	2020	1019	9	2221	9	lodde	162035	1	126735	Mallotus villosus			10	10	1	1	1.0	0.35		618		1	E	0.017		30									inkl 2,412kg fra dekk
+4	2020	1019	9	2221	10	rognkjeks	167612	1	127214	Cyclopterus lumpus			34		1	1	1.0	2.12		2		1	E	2.12		2	2								
+4	2020	1019	9	2221	11	hyse	164744	1	126437	Melanogrammus aeglefinus			10	10	1	1	1.0	2.791		314		1	E	0.258		29									inkl 0,1165kg fra dekk'
+4	2020	1019	9	2221	12	sild'G03	161722.G03	1	126417	Clupea harengus			10	10	1	1	1.0	0.006		6		1	E	0.006		6									
+4	2020	1019	9	2221	13	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	23.49		35															
+4	2020	1019	9	2221	14	Beroe	53954	1	106331	Beroe			90		1	1	1.0	0.052		4															
+4	2020	1019	9	2221	15	fremmedlegeme	999301	1					60		1	1	1.0	0.001		1															
+4	2020	1019	9	2222	1	lodde	162035	1	126735	Mallotus villosus			20		1	1	1.0	0.018		1		1	E	0.018		1	1								
+4	2020	1019	9	2222	2	vanlig uer	166781	1	151324	Sebastes norvegicus			20		1	1	1.0	4.154		4		1	E	4.154		4	4	4	2						
+4	2020	1019	9	2222	3	gapeflyndre	172877	1	127137	Hippoglossoides platessoides			34		1	1	1.0	1.964		22		1	E	1.964		22	22								
+4	2020	1019	9	2222	4	øyepål	164756	1	126444	Trisopterus esmarkii			34		1	1	1.0	3.244		95		1	E	3.244		95	95								
+4	2020	1019	9	2222	5	vanlig ålebrosme	631144	1	274100	Lycodes gracilis			34		1	1	1.0	0.015		1		1	E	0.015		1	1								
+4	2020	1019	9	2222	6	tverrhalet langebarn	171603	1	127072	Leptoclinus maculatus			34		1	1	1.0	0.006		1		1	E	0.006		1	1								
+4	2020	1019	9	2222	7	kloskate	564149	1	105865	Amblyraja radiata			20		1	1	1.0	1.462		1		1	E	1.462		1	1							3	
+4	2020	1019	9	2222	8	rundskate	564135	1	105894	Rajella fyllae			20		1	1	1.0	0.69		1		1	E	0.69		1	1							3	
+4	2020	1019	9	2222	9	brennmanet	51671	1	135301	Cyanea capillata			90		1	1	1.0	2.588		8															
+4	2020	1019	9	2222	10	hyse	164744	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	29.0		107		1	E	29.0		107	9	9	2				4		
+4	2020	1019	9	2222	11	hyse	164744	2	126437	Melanogrammus aeglefinus			21	10	1	1	1.0	0.644		69		1	E	0.281		30	2	2	2						
+4	2020	1019	9	2222	12	torsk	164712	1	126436	Gadus morhua			21		1	1	1.0	71.561		156		1	E	71.561		156	16	16	2		2				
+4	2020	1019	9	2222	13	snabeluer	166756	1	127254	Sebastes mentella			21		1	1	1.0	1.72		3		1	E	1.72		3	1	1	2						
+4	2020	1019	9	2222	14	snabeluer	166756	2	127254	Sebastes mentella			21		1	1	1.0	0.123		19		1	E	0.123		19	1								
+4	2020	1019	9	2222	15	dypvannsreke	96967	1	107649	Pandalus borealis			91		1	1	1.0	0.06		12		1	C	0.06		12									
+4	2020	1019	9	2222	16	dypvannsreke	96967	4	107649	Pandalus borealis			91		1	1	1.0	0.005		4		1	C	0.005		4									
+4	2020	1019	9	2222	17	skater	160806	1	10216	Rajiformes			50		1	1	1.0			1															
+4	2020	1019	9	2222	18	svamper	46861	1	558	Porifera			90		1	1	1.0	0.0175		7															
+4	2020	1019	9	2222	19	sjøanemoner	52485	1	1360	Actiniaria			90		1	1	1.0	0.015		5															
+4	2020	1019	9	2222	20	snegler	69459	1	101	Gastropoda			90		1	1	1.0	0.008		2															
+4	2020	1019	9	2222	21	slangestjerner	157325	1	123084	Ophiuroidea			90		1	1	1.0	0.0135		4															
+4	2020	1019	9	2222	22	sjøpiggsvin	157821	1	123082	Echinoidea			90		1	1	1.0	0.001		1															
