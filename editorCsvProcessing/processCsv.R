@@ -55,25 +55,25 @@ AddTaxaNames <- function(table, taxanamestable, speciesIdColumn="catchcategory",
 }
 
 #' Read csv file from bioticEditor as data.frame
-ReadEditorCsv <- function(fileName){
-  return(read.csv(fileName, sep="\t", stringsAsFactors = F, check.names = F))
+ReadEditorCsv <- function(fileName, encoding){
+  return(read.csv(fileName, sep="\t", stringsAsFactors = F, check.names = F, encoding=encoding))
 }
 #' Read csv file for taxa names as data.frame
-ReadTaxaNamesCsv <- function(fileName){
-  return(read.csv(fileName, sep=";", stringsAsFactors = F))
+ReadTaxaNamesCsv <- function(fileName, encoding){
+  return(read.csv(fileName, sep=";", stringsAsFactors = F, encoding=encoding))
 }
 
 #' Reads in csv files exported from BioticEditor
 #' Adds species code from the catchsample-table to the individual-table
 #' Adds norwegian name and scientific name from from the taxaname table to the individual table and the preytable
 #' Writes annotated versions of individual table and preytable
-FixSpeciesNames <- function(preyfile, individualfile, catchsamplefile, taxafilename, newpreyfile=NULL, newindividualfile=NULL, overwrite=F){
+FixSpeciesNames <- function(preyfile, individualfile, catchsamplefile, taxafilename, newpreyfile=NULL, newindividualfile=NULL, overwrite=F, encoding){
   
   # read input
-  individual <- ReadEditorCsv(individualfile)
-  prey <- ReadEditorCsv(preyfile)
-  catch <- ReadEditorCsv(catchsamplefile)
-  taxa <- ReadTaxaNamesCsv(taxafilename)
+  individual <- ReadEditorCsv(individualfile, encoding)
+  prey <- ReadEditorCsv(preyfile, encoding)
+  catch <- ReadEditorCsv(catchsamplefile, encoding)
+  taxa <- ReadTaxaNamesCsv(taxafilename, encoding)
   
   nrowind <- nrow(individual)
   nrowprey <- nrow(prey)
@@ -114,4 +114,5 @@ FixSpeciesNames <- function(preyfile, individualfile, catchsamplefile, taxafilen
 FixSpeciesNames(preyfile="exampleData/catchprey.csv", 
                 individualfile="exampleData/individual.csv", 
                 catchsamplefile="exampleData/catchsample.csv", 
-                taxafilename="exampleData/taxanames.csv", overwrite = T)
+                taxafilename="exampleData/taxanames_enc.csv", overwrite = T,
+                encoding="UTF-8")
