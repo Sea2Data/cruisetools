@@ -281,16 +281,19 @@ set_symbols_nonames <- function(nestedRoute, symbol="Empty"){
 #' @param symbolMap list mapping names of waypoint symbols in 'nestedRoute' to replacement names understood by target plotter
 writeGpxWaypoints <- function(filename, waypoints, symbolMap=list(Brunsirkel="circle", Rødramme="square", Empty="empty")){
   t <- XML::xmlOutputDOM("gpx")
-  for (wp in waypoints){
-    t$addTag("wpt", attrs = c(lat=wp$lat, lon=wp$lon), close=F)
-    t$addTag("time", wp$time)
-    t$addTag("name", wp$name)
-    t$addTag("cmt", wp$comment)
-    t$addTag("desc", wp$descr)
-    t$addTag("sym", symbolMap[[wp$symbol]])
-    t$addTag("type", "WPT")
-    t$closeTag() #wpt
+  for (route in waypoints){
+    for (wp in route$waypoints){
+      t$addTag("wpt", attrs = c(lat=wp$lat, lon=wp$lon), close=F)
+      t$addTag("time", wp$time)
+      t$addTag("name", wp$name)
+      t$addTag("cmt", wp$comment)
+      t$addTag("desc", wp$descr)
+      t$addTag("sym", symbolMap[[wp$symbol]])
+      t$addTag("type", "WPT")
+      t$closeTag() #wpt
+    }
   }
+
   saveXML(t$value(), file=filename)
 }
 
@@ -298,7 +301,7 @@ writeGpxWaypoints <- function(filename, waypoints, symbolMap=list(Brunsirkel="ci
 ex_conversion <- function(olexfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/Vestfjorden.Ruter", outfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/Vestfjorden.gpx"){
   cont<-parseOlex(olexfile)
   cont$routes <- set_symbols_nonames(cont$routes)
-  writeGpxRoute(outfile, cont$routes)  
+  writeGpxRoute(outfile, cont$routes)
 }
 
 #example fo use importing routes
