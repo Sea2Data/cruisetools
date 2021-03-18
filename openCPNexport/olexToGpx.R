@@ -1,8 +1,18 @@
 library(data.table)
 library(XML)
+
+#' @noRd
+pop <- function(lines){
+  if (length(lines)<=1){
+    return(c())
+  }
+  else{
+    return(lines[2:length(lines)])
+  }
+}
+
 #' @noRd
 parseWaypoint <- function(lines){
-
   waypoint <- list()
   waypoint$lat <- as.numeric(NA)
   waypoint$lon <- as.numeric(NA)
@@ -37,18 +47,18 @@ parseWaypoint <- function(lines){
   waypoint$time <- time
   waypoint$symbol <- symbol
   
-  lines <- lines[2:length(lines)]
+  lines <- pop(lines)
   if (substr(lines[1], 1,4)=="Navn"){
     waypoint$name <- trimws(substr(lines[1],5, nchar(lines[1])))
-    lines <- lines[2:length(lines)]
+    lines <- pop(lines)
   }
-  while (substr(lines[1], 1,6)=="MTekst"){
+  while (length(lines) > 0 && substr(lines[1], 1,6)=="MTekst"){
     if (is.na(waypoint$comment)){
       waypoint$comment <- ""
     }
     
     waypoint$comment <- paste(waypoint$comment, substr(lines[1],7, nchar(lines[1])), " ")
-    lines <- lines[2:length(lines)]
+    lines <- pop(lines)
   }
   
   output <- list()
@@ -64,10 +74,10 @@ parseOlexRoute <- function(lines){
   stopifnot(substr(lines[1],1,4)=="Rute")
   route$routename <- trimws(substr(lines[1],5,nchar(lines[1])))
   
-  lines <- lines[2:length(lines)]
+  lines <- pop(lines)
   if(substr(lines[1],1,8)=="Rutetype"){
     route$routetype <- trimws(substr(lines[1],9,nchar(lines[1])))    
-    lines <- lines[2:length(lines)]
+    lines <- pop(lines)
   }
   else{
     route$routetype <- NA
@@ -75,7 +85,7 @@ parseOlexRoute <- function(lines){
 
   if(substr(lines[1],1,10)=="Linjefarge"){
     route$linecolor <- trimws(substr(lines[1],11,nchar(lines[1]))) 
-    lines <- lines[2:length(lines)]
+    lines <- pop(lines)
   }
   else{
     route$linecolor <- NA
@@ -83,28 +93,28 @@ parseOlexRoute <- function(lines){
   
   if(substr(lines[1],1,9)=="Plottsett"){
     route$plotsett <- trimws(substr(lines[1],10,nchar(lines[1])))  
-    lines <- lines[2:length(lines)]
+    lines <- pop(lines)
   }
   else{
     route$plotsett <- NA
   }
   if(substr(lines[1],1,7)=="Fikspos"){
     route$fixpos <- trimws(substr(lines[1],8,nchar(lines[1])))  
-    lines <- lines[2:length(lines)]
+    lines <- pop(lines)
   }
   else{
     route$fixpos <- NA
   }
   
   wpn <- 1
-  while(trimws(lines[1])!=""){
+  while(length(lines) > 0 && trimws(lines[1])!=""){
     pp <- parseWaypoint(lines)
     lines <- pp$lines
     route$waypoints[[wpn]] <- pp$waypoint
     wpn <- wpn + 1
   }
   stopifnot(trimws(lines[1])=="")
-  lines <- lines[2:length(lines)]
+  lines <- pop(lines)
   
   output <- list()
   output$lines <- lines
@@ -172,19 +182,27 @@ parseOlex <- function(olexfile, encoding="latin1"){
   lines <- readLines(olexfile, encoding=encoding)
   output <- list()
   output$routes <- list()
-  while (!is.na(lines[1])){
+
+  while(nchar(lines[1])==0){
+    lines <- pop(lines)
+  }
+  
+  routenr <- 1
+  while (length(lines) > 0){
     head <- lines[1]
     if (substr(head,1,4) == "Rute"){
       pp <- parseOlexRoute(lines)
       lines <- pp$lines
-      output$routes[[pp$route$routename]] <- pp$route
+      output$routes[[routenr]] <- pp$route
+      routenr <- routenr + 1
+    }
+    else if (is.na(lines[1])){
+      lines <- pop(lines)
     }
     else{
-      browser()
       stop("Did not recognize: ", head)
     }
   }
-  
   return(output)
 }
 
@@ -277,7 +295,7 @@ writeGpxWaypoints <- function(filename, waypoints, symbolMap=list(Brunsirkel="ci
 }
 
 # example of use conversion
-ex_conversion <- function(olexfile="~/hi_sync/tokt_og_felt/kysttokt_okt_2020/kurser/olexplot-jh20f.gz", outfile="~/hi_sync/tokt_og_felt/kysttokt_okt_2020/kurser/gpx/openCPNplot-jh20f.gpx"){
+ex_conversion <- function(olexfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/Vestfjorden.Ruter", outfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/Vestfjorden.gpx"){
   cont<-parseOlex(olexfile)
   cont$routes <- set_symbols_nonames(cont$routes)
   writeGpxRoute(outfile, cont$routes)  
