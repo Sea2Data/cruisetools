@@ -298,7 +298,7 @@ writeGpxWaypoints <- function(filename, waypoints, symbolMap=list(Brunsirkel="ci
 }
 
 # example of use conversion
-ex_conversion <- function(olexfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/Vestfjorden.Ruter", outfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/Vestfjorden.gpx"){
+ex_conversion <- function(olexfile="~/hi_sync/tokt_og_felt/2021_kystokt/toktinfo/kysttokt21-kb.Ruter", outfile="~/hi_sync/tokt_og_felt/2021_kystokt/toktinfo/kysttokt21-kb.gpx"){
   cont<-parseOlex(olexfile)
   cont$routes <- set_symbols_nonames(cont$routes)
   writeGpxRoute(outfile, cont$routes)
@@ -306,8 +306,27 @@ ex_conversion <- function(olexfile="~/hi_sync/tokt_og_felt/2021_skreitokt/rute/V
 
 #example fo use importing routes
 ex_import <- function(){
-  cont <- parseOlex("~/hi_sync/tokt_og_felt/kysttokt_okt_2020/kurser/olexplot-jh20f.gz")
+  cont <- parseOlex("~/hi_sync/tokt_og_felt/2021_kystokt/toktinfo/kysttokt21-kb.Ruter")
+  dt <- flattenRoute(cont$routes)
+  stations <- dt[!is.na(dt$name),]
+  return(stations)
+}
+
+#' Eksporterer data til format for planlagt stasjoner (toktlogger)
+#' aktivitetstype blir satt likt 'acttype' for alle stasjoner
+ex_toktlogger <- function(olexfile="~/hi_sync/tokt_og_felt/2021_kystokt/toktinfo/kysttokt21-kb.Ruter", targetfile="~/hi_sync/tokt_og_felt/2021_kystokt/toktinfo/kysttokt21-kb.csv", acttype="Bunntrål"){
+  cont <- parseOlex(olexfile)
   dt <- flattenRoute(cont$routes)
   stations <- dt[!is.na(dt$name),]
   
+  stations[["P-nummer"]] <- 1:nrow(stations)
+  stations$Navn <- stations$name
+  stations$Aktivitetstype <- acttype
+  stations$Breddegrad <- stations$lat
+  stations$Lengdegrad <- stations$lon
+  stations$Comments <- stations$comment
+  
+  stations <- stations[,c("P-nummer", "Navn", "Aktivitetstype", "Breddegrad", "Lengdegrad", "Comments")]
+  write.table(stations, file=targetfile, sep=";", row.names = F, quote = F, na = " ")
+  return(stations)
 }
