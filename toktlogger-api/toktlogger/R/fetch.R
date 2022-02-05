@@ -22,7 +22,7 @@ setApiAdress <- function(address){
 #' @return POSIXct
 #' @noRd
 getPosixFromToktLogger <- function(toktloggerTime){
-  return(as.POSIXct(substr(toktloggerTime,1,19), format="%Y-%m-%dT%H:%M:%S"))
+  return(as.POSIXct(substr(toktloggerTime,1,19), format="%Y-%m-%d %H:%M:%S"))
 }
 
 #' @noRd
