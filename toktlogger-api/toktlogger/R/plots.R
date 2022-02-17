@@ -83,6 +83,26 @@ plotDepthProfile <- function(nmeaMessages){
 
 }
 
+#' Plots depth profile
+#' @description
+#'  Plots depth profile from trawleye
+#' @param nmeaMessages nmea message for station, see \code{\link[toktlogger]{extractTrawlSensorData}}
+#' @return ggplot2 object
+#' @export
+plotDepthProfileTrawlDepth <- function(nmeaMessages){
+  ds <- nmeaMessages[nmeaMessages$measurment == "Trawl depth",]
+
+  ds$timestamp <- as.numeric(difftime(ds$timestamp, min(ds$timestamp), units = "m"))
+
+  pl <- ggplot2::ggplot(ds, ggplot2::aes(x=timestamp, y=measurementValue)) +
+    ggplot2::geom_line() +
+    ggplot2::xlab("time (min)") +
+    ggplot2::ylab("depth (m)") +
+    ggplot2::ggtitle(paste("Trawl depth (", median(ds$measurementValue), "m)", sep="")) +
+    ggplot2::theme(legend.position="bottom")
+
+}
+
 #' Plots trawl calibration report
 #' @param nmeaMessages nmea message for station, see \code{\link[toktlogger]{extractTrawlSensorData}}
 #' @export

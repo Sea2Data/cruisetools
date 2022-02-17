@@ -28,6 +28,7 @@ extractTrawlSensorData <- function(nmeaMessages){
   sensorMessages$measurment[sensorMessages$sensorType=="TEY" & sensorMessages$measurementId=="F"] <- "Fish density"
   sensorMessages$measurment[sensorMessages$sensorType=="TSP" & sensorMessages$measurementId=="X"] <- "Flow (across)"
   sensorMessages$measurment[sensorMessages$sensorType=="TSP" & sensorMessages$measurementId=="Y"] <- "Flow (along)"
+  sensorMessages$measurment[sensorMessages$sensorType=="VTLX" & sensorMessages$measurementId=="D"] <- "Trawl depth"
   sensorMessages$measurment[sensorMessages$sensorType=="DVTLAM" & sensorMessages$measurementId=="S"] <- "Door spread"
   sensorMessages$measurment[sensorMessages$sensorType=="DVTLAM" & sensorMessages$measurementId=="R"] <- "Roll (port door)"
   sensorMessages$measurment[sensorMessages$sensorType=="DVTLAM" & sensorMessages$measurementId=="P"] <- "Pitch (port door)"
