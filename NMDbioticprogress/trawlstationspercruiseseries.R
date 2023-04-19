@@ -10,8 +10,6 @@ library(utils)
 setwd('C:/repos/cruisetools/NMDbioticprogress')
 base <- "http://tomcat7.imr.no:8080/apis/nmdapi/biotic/v3/"
 
-#http://tomcat7.imr.no:8080/apis/nmdapi/biotic/v3/Forskningsfart??y/2017/G.O.Sars_LMEL/2017150/snapshot?version=3.0
-
 year0 = 2007
 data = NULL
 # Loop over mission types
@@ -19,30 +17,27 @@ missions = GET(URLencode("http://tomcat7.imr.no:8080/apis/nmdapi/biotic/v3?type=
 datasets <- xmlToList(xmlParse(rawToChar(missions$content)))
 
 pb = txtProgressBar(min = 0, max = length(datasets), initial = 0) 
+
 # Loop over datasets
 i<-0
-errorli = list('errorlist')
 
 for (dataset in datasets){
   i<-i+1
   setTxtProgressBar(pb,i)
   # Get path to biotic data
   for (dataset_ in dataset){if (dataset_$.attrs=='path'){platformpath<-dataset_$text}}
-  #
-  #print(strsplit(platformpath, '/')[[1]][1])
-  #print("Forskningsfart??y - fjerne farvann" == strsplit(platformpath, '/')[[1]][1])
 
   # List snapshots for this delivery
   snapshotURL <- paste0(base,platformpath,'/snapshot/')
   ss = GET(URLencode(snapshotURL))
   snapshots <- xmlToList(xmlParse(rawToChar(ss$content)))
+  
   # Loop over snapshots
   for (snapshot in snapshots){
     # Get NMDbiotic snapshot URL and download data
     #/{missiontype}/{year}/{platform}/{delivery}/snapshot/{time}
     snapshottime <- snapshot$element$text
     URL_sn <- paste0(snapshotURL,snapshottime)
-    #print(URL_sn)
     # Download biotic file
     out <- tryCatch({
       # download the NMDbiotic file
@@ -67,9 +62,8 @@ for (dataset in datasets){
         message(paste("URL does not seem to exist:", URL_sn))
         message("Here's the original error message:")
         message(cond)
-        li2 <- append(errorli,URL_sn)
         # Choose a return value in case of error
-        return(NA)
+        return(NULL)
       },
       warning=function(cond) {
         message(paste("URL caused a warning:", URL_sn))
@@ -81,17 +75,11 @@ for (dataset in datasets){
       )
     }
 }
-# # Write data frame to disk
-# head(data)
+# Write data frame to disk
 write.table(data, file = 'NMDbiotic.csv', sep = ";", row.names = F, fileEncoding = "UTF-8")
-write.table(errorli, file = 'errorNMDbiotic.csv', sep = ";", row.names = F, fileEncoding = "UTF-8")
-# ?write.table
+
 # 
 # [1] "http://tomcat7.imr.no:8080/apis/nmdapi/biotic/v3/Forskningsfart??y - fjerne farvann/2022/Dr.Fridtjof Nansen_LDLG/2022410/snapshot/2022-12-13T23.08.53.517Z"
 # [1] "http://tomcat7.imr.no:8080/apis/nmdapi/biotic/v3/Forskningsfart??y - fjerne farvann/2022/Dr.Fridtjof Nansen_LDLG/2022411/snapshot/2023-01-13T23.01.25.606Z"
-# StartTag: invalid element name
-# Extra content at the end of the document
-# Error: 1: StartTag: invalid element name
-# 2: Extra content at the end of the document
 #http://tomcat7.imr.no:8080/apis/nmdapi/biotic/v3/Forskningsfart??y - fjerne farvann/2023/Dr.Fridtjof Nansen_LDLG/2023004001/snapshot/
 #https://datasetexplorer.hi.no/apps/datasetexplorer/v2/navigation/Other/Forskningsfart%C3%B8y%20-%20fjerne%20farvann/2023/Dr.Fridtjof%20Nansen_LDLG/2023004001
