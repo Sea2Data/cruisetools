@@ -7,6 +7,7 @@ def get_text(element, tag, namespace):
     found = element.find(f"nmd:{tag}", namespace)
     return found.text if found is not None else None
 
+
 def parse_cruise(cruise_root, namespace):
     cruise_data = {
         "name": get_text(cruise_root, "name", namespace),
@@ -105,18 +106,20 @@ for mission_type in mission_types:
                 ".//nmd:element[@name='delivery']", namespace)]
 
             for cruise in cruises:
-                    cruise_request = requests.get(
-                        cruise_api + '/' +
-                        mission_type + '/' +
-                        year.replace(" ", "") + '/' +
-                        path + '/' +
-                        cruise +
-                        "/dataset?version=2.0")
-                    cruise_root = ET.fromstring(cruise_request.text)
-                    cruise_data.append(parse_cruise(cruise_root, namespace_cruise))
+                cruise_url = (
+                    cruise_api + '/' +
+                    mission_type + '/' +
+                    year.replace(" ", "") + '/' +
+                    path + '/' +
+                    cruise +
+                    "/dataset?version=2.0"
+                )
+                print(cruise_url)
+                cruise_request = requests.get(cruise_url)
+                cruise_root = ET.fromstring(cruise_request.text)
+                cruise_data.append(parse_cruise(cruise_root, namespace_cruise))
 
 # Save to parquet
 df = pd.DataFrame(cruise_data)
 print(df)
 df.to_parquet("cruises.parquet")
-
